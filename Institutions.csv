@@ -1,5 +1,5 @@
 Institution ID,Institution Name,City,State/Province,Country
-INST0001,Beihang Univeristy,Beijing,,China
+INST0001,Beihang Univeristy,Beijing,Beijing,China
 INST0002,North China Electric Power Univercity,Changping,Beijing,China
 INST0003,Sichuan University,Chengdu,Sichuan,China
 INST0004,"Shandong University, Shandong, China",Jinan,Shandong,China
@@ -7,1680 +7,1223 @@ INST0005,Sun Yat-sen University,GuangZhou,GuangDong,China
 INST0006,BeiJing University Of Post And Telecommunication,Beijing,Beijing,China
 INST0007,"South China Normal University, Guangzhou, P.R. China",Guangzhou,Guangdong,China
 INST0008,Shanghai University of Finance and Economics,Shanghai,Shanghai,China
-INST0009,Nankai University,Tianjin,,China
-INST0010,BeiJing University Of Post And Telecommunication,BEIJING,BEIJING,China
-INST0011,Shanghai University of Electric Power,Shanghai,,China
-INST0012,Huazhong Agricultural University,Wuhan,Hubei,China
-INST0013,Southwest Jiaotong University,CHENGDU,SICHUAN,China
-INST0014,BNU-HKBU United International College,Zhuhai,Guangdong,China
-INST0015,Tianjin University of Commerce,Tianjin,China Mainland,China
-INST0016,High School Affiliated to People's University (RDFZ),Beijing,,China
-INST0017,Southwestern University of Finance and Economics,Chengdu,Sichuan,China
-INST0018,Huazhong Agriculture University,WuHan,Hubei,China
-INST0019,Beihang Univeristy,Beijing,Beijing,China
-INST0020,shenyang jianzhu university,shenyang,Liaoning,China
-INST0021,shenyang jianzhu university,shenyang,liaoning,China
-INST0022,Idaho State University,Pocatello,ID,USA
-INST0023,University of Science and Technology of China,Hefei,Anhui,China
-INST0024,Nankai University,Tianjin,Tianjin,China
-INST0025,Nankai University,Tianjin Province,,China
-INST0026,Northwestern Polytechnical University,Xi'an,Shaanxi,China
-INST0027,Tongji University,shanghai,Shanghai,China
-INST0028,SUN YAT-SEN UNIVERSITY,GUANG ZHOU,,China
-INST0029,Shijiazhuang Tiedao University,Shijiazhuang,Hebei,China
-INST0030,Tongji University,Shanghai,Shanghai,China
-INST0031,Wuhan University,Wuhan,Hubei,China
-INST0032,Fudan University,Shanghai,,China
-INST0033,Shanxi University,Taiyuan,Shanxi,China
-INST0034,Sun Yat-Sen University,Guangzhou,Guangdong,China
-INST0035,SHANGHAI UNIVERSITY OF FINANCE AND ECONOMICS,SHANGHAI,SHANGHAI,China
-INST0036,South-Central University for Nationalities,WuHan,HuBei,China
-INST0037,Chongqing University,Chongqing,Chongqing,China
-INST0038,Shenyang jianzhu University,Shenyang,Liaoning,China
-INST0039,South China Normal University,Guangzhou,,China
-INST0040,Economics,beijing,beijing,China
-INST0041,East China University Of Science And Technology,Shanghai,Shanghai,China
-INST0042,Beijing National Day School,Beijing,,China
-INST0043,Shenyang Jianzhu University,Shenyang,Liaoning,China
-INST0044,Beijing University of Aeronautics and Astronautics,Beijing,Beijing,China
-INST0045,Renmin University of China,Beijing,Beijing,China
-INST0046,school of mathematics,shanghai,shanghai,China
-INST0047,University of International Business and Economics,Beijing,,China
-INST0048,Shandong Institute of Business and Technology,Yantai,Shandong,China
-INST0049,Officers College Of CAPF,ChengDu,SiChuan,China
-INST0050,"School of Information, Renmin University of China",Beijing,Beijing,China
-INST0051,East China University of Science and Technology,Shanghai,Shanghai,China
-INST0052,Panzhihua University,Pan Zhihua,SiChuan,China
-INST0053,Peking University,Beijing,,China
-INST0054,Donghua University,Shanghai,Shanghai,China
-INST0055,University of science and technology of China,Hefei,Anhui,China
-INST0056,Beijing Normal University,Beijing,China,China
-INST0057,East China Institute of Technology,Nanchang,Jiangxi,China
-INST0058,Shenyang Jianzhu University,shenyang,Liaoning,China
-INST0059,Guangdong University of Foreign Studies,Guangzhou,Guangdong,China
-INST0060,Capital University of Economics and Business,Beijing,,China
-INST0061,Institute of Microelectronics,Beijing,Beijing,China
-INST0062,"Nankai university ,China",Tianjing,Tianjing,China
-INST0063,Tongji University,SHANGHAI,,China
-INST0064,Lanzhou university,lanzhou,Gansu,China
-INST0065,Nanjing University,"Haian,Nantong",Jiangsu,China
-INST0066,Xi'an University of Posts and Telecommunications,Xi'an,Shaanxi,China
-INST0067,South China Normal University,Guangzhou,Guangdong,China
-INST0068,Southern Medical University,Guangzhou,Guangdong Province,China
-INST0069,Harbin Institute of Technology,Harbin,Heilongjiang,China
-INST0070,Wuhan University,Wuhan,,China
-INST0071,Sichuan University,Chengdu,Chengdu,China
-INST0072,Dalian Maritime University,Dalian,Liaoning,China
-INST0073,TongJi university,ShangHai,,China
-INST0074,Zhejiang University,Hangzhou,Zhejiang,China
-INST0075,Zhongnan University of Economics and Law,Wuhan,Hubei,China
-INST0076,ZUEL,wuhan,hubei,China
-INST0077,East China Normal University,Shanghai,,China
-INST0078,Tongji University,Shanghai,,China
-INST0079,Shanxi University,"Taiyuan, Shanxi",,China
-INST0080,Shanxi University,"Taiyuan , Shanxi",,China
-INST0081,"FuYang Normal College, AnHui, China.",FuYang,,China
-INST0082,"Fuyang Normal College, Anhui province, China.",Fuyang,yingzhou,China
-INST0083,"Fuyang Normal College, Anhui province, China.",FuYang,yingzhou,China
-INST0084,Shanghai Jiao Tong University,Shanghai,Shanghai,China
-INST0085,Shanghai Jiao Tong University,Shang Hai,Shang Hai,China
-INST0086,Peking University,Beijing,Beijing,China
-INST0087,Shanxi University,"Taiyuan, Shanxi,",,China
-INST0088,Shanghai Jiao Tong University,shanghai,shanghai,China
-INST0089,Shanxi University,"Taiyuan,Shanxi",,China
-INST0090,North China Electric Power University,Baoding,Hebei Province,China
-INST0091,Hainan University,HaiKou,HaiNan,China
-INST0092,School of Electrical Engineering,Wuhan,Hubei,China
-INST0093,Sacred Heart University,Fairfield,CT,USA
-INST0094,"School of Engineering,Sun Yat-Sen University",Guangzhou,Guangdong,China
-INST0095,South China Normal University,Guangzhou City,Guangdong,China
-INST0096,WuHan University Of Tecnology,WuHan,HuBei,China
-INST0097,University of Science and Technology of China,HeFei,AnHui,China
-INST0098,Shandong University of Science and Technology,Qingdao,P.R.China,China
-INST0099,Shenyang Pharmaceutical University,Benxi,Liaoning,China
-INST0100,"School of Reliability and Systems Engineering,Beihang University",Beijing,Beijing,China
-INST0101,Yunnan Normal University,Kunming,Yunnan Province,China
-INST0102,Columbia University,New York,NY,USA
-INST0103,South China Agricultural University,Guangzhou,Guangdong,China
-INST0104,Shenyang jianzhu University,shenyang,Liaoning,China
-INST0105,Donghua University,Shanghai,,China
-INST0106,Tianjin University of Commerce,Tianjin,Tianjin,China
-INST0107,the city college of jilin jianzhu university,Changchun City,jilin,China
-INST0108,Beijing University of Technology,Beijing,Beijing,China
-INST0109,Southwestern University of Finance and Economics,ChengDu,Wenjiang,China
-INST0110,Hainan University,Haikou,Hainan,China
-INST0111,Tongji University,shanghai,shanghai,China
-INST0112,Taiyuan University,jinzhong,shanxi,China
-INST0113,University of International Business and Economics,Beijing,China,China
-INST0114,Dalian Institute of Science and Technology,Dalian,Liaoning,China
-INST0115,Inner Mongolia Agricultural University,Hohhot,,China
-INST0116,Dongbei University of Finance and Economics,Dalian,Liaoning Province,China
-INST0117,East China Normal University,Shanghai,Shanghai,China
-INST0118,University of International Business and Economics,Beijing,Beijing,China
-INST0119,University of International Business and Economy,Beijing,Chaoyang,China
-INST0120,University of International Business and Economics of China,Beijing,,China
-INST0121,Shanghai Universtiy of Finance and Economics,Shanghai,,China
-INST0122,Undergraduate course,Xi'an,Shan Xi,China
-INST0123,Hefei No.8 high school,Hefei,Anhui,China
-INST0124,RENMIN UNIVERSITY of CHINA,Beijing,China,China
-INST0125,Beijing Normal University,Beijing,Beijing,China
-INST0126,Communication University of China,Beijing,,China
-INST0127,Sun Yat-sen University,Guangzhou,Guangdong,China
-INST0128,Civil Aviation University of China,Tianjin,,China
-INST0129,UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,Hefei,Anhui,China
-INST0130,"College of Science, Northeastern University, China",Shenyang,Liaoning,China
-INST0131,Southwestern University of Finance and Economics,chengdu,sichuan,China
-INST0132,Shanghai Jiao Tong University,Shanghai,,China
-INST0133,Southeast University,NANJING,JIANGSU,China
-INST0134,University of International Business and Economics,BEIJING,BEIJING,China
-INST0135,BeiJing University Of Post And Telecommunication,Beijing,beijing,China
-INST0136,University of International Business and Economics,Beijing,Asia,China
-INST0137,Xiamen University,Xiamen,Fujian,China
-INST0138,South-Central University for Nationalities,Wu han,Hu bei,China
-INST0139,University of Internetional Business and Economics,Beijing,,China
-INST0140,Shanghai University of Financial & Economics,Shanghai,,China
-INST0141,Hexi University,Zhangye,Gansu,China
-INST0142,Beijing Institute of Technology,Beijing,Beijing,China
-INST0143,Nanjing University,Nanjing,Jiangsu,China
-INST0144,University of International Business and Economics,BEIJING,,China
-INST0145,Beijing Institute of Technology,Beijing,,China
-INST0146,Xi'an University of Architecture and Technology,Xi'an,Shaanxi,China
-INST0147,Donghua university,Shanghai,,China
-INST0148,SouthWestern University of Finance and Economics,chengdu,sichuan,China
-INST0149,University of Shanghai for Science and Technology,Shanghai,Shanghai,China
-INST0150,Universith of International Business and Economics,Beijing,,China
-INST0151,Southwest University of Finance and Economics,Chengdu,Sichuan,China
-INST0152,University of Business and Economics,Beijing,Beijing,China
-INST0153,Nanjing University,Nanjing,Jiangsu Province,China
-INST0154,Southwestern University of Finance and Economics,ChengDu,SiChuan,China
-INST0155,Cheng Yi College of Jimei University,Xiamen,Fujian,China
-INST0156,USTC,Hefei,Anhui,China
-INST0157,university of international business and economics,Beijing China,Beijing,China
-INST0158,"University of International Business and Economics, China",Beijing,Beijing,China
-INST0159,UIBE,Beijing,,China
-INST0160,Shanghai Jiao Tong Univeresity,Shanghai,Shanghai,China
-INST0161,UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS,BEIJING CHINA,BEIJING,China
-INST0162,Sichuan Uinversity,Chengdu,Sichuan,China
-INST0163,Sun Yat-sen University&Peking University&Peking University,Guangzhou,,China
-INST0164,Southwestern University of Finance and Economics,Chengdu,SiChuan,China
-INST0165,School of Statistics,Beijing,,China
-INST0166,University of Shanghai for Science and Technology,Shanghai,,China
-INST0167,university of international business and economics,Beijing,Beijing,China
-INST0168,Shandong university,Jinan,Shandong,China
-INST0169,Sichuan University,Chengdu,SichuanÂ ,China
-INST0170,RENMIN UNIVERSITY of CHINA,Beijing,,China
-INST0171,Guangdong University of Finance,Guangzhou,GuangDong,China
-INST0172,Nanjing University,Nanjing,JiangSu,China
-INST0173,Renmin University of China,Beijing,,China
-INST0174,Nanjing University of Information Science & Technology,"Nanjing,Jiangsu Province",,China
-INST0175,Zhejiang University,Hang Zhou,Zhe Jiang,China
-INST0176,Wheaton College (IL),Wheaton IL,IL,USA
-INST0177,Heilongjiang College of Construction,Harbin,Heilongjiang,China
-INST0178,Shenyang Normal University,Shenyang,Liaoning,China
-INST0179,Ningxia University,Yinchuan,the Ningxia Hui Autonomous Region,China
-INST0180,Minzu University of China,Beijing,Beijing,China
-INST0181,Shiyuan College of Guangxi Teachers Education University,Nanning,Guangxi,China
-INST0182,Beijing Normal University,Bei Jing,Bei Jing,China
-INST0183,Shanghai University of Finance and Economics,Shanghai,,China
-INST0184,SHANGHAI JIAO TONG UNIVERSITY,Shanghai,SHANGHAI,China
-INST0185,BeiJing University Of Post And Telecommunication,BEIJING,,China
-INST0186,Yangtze University,Jingzhou,Hubei,China
-INST0187,Nanjing University of Information Science and Technology,Nanjing,Jiangsu,China
-INST0188,Hangzhou Normal University,Hangzhou,Zhejiang,China
-INST0189,University of Internetional Business and Economics,Beijing,Beijing,China
-INST0190,UIBE,Beijing,Beijing,China
-INST0191,Southwestern University of Finance and Economics,Chengdu,wenjiang,China
-INST0192,Changchun University of Science and Technology,Changchun,Jilin,China
-INST0193,Nanjing University of Information Science & Technology,Nanjing,Jiangsu,China
-INST0194,Heilongjiang University,Harbin,Heilongjiang,China
-INST0195,Changchun University of Science and Technology,Changchun,Ji Lin,China
-INST0196,Zhongnan University Of Economics And Laws,Wuhan,Hubei,China
-INST0197,He'nan Normal University,xinxiang,Henan,China
-INST0198,Central University of Finance and Ecomomics,Beijing,Asia,China
-INST0199,"State University of New York, University at Buffalo",Buffalo,NY,USA
-INST0200,Huazhon university of science and technology,Wuhan,Hubei,China
-INST0201,North China ELectric Power University,Beijing,,China
-INST0202,BeijingÂ UniversityÂ ofÂ Post and Telecommunication,Beijing,Beijing,China
-INST0203,School of Mathematics,BeiJing,,China
-INST0204,Kunming University of Science and Technology,Kunming,Yunnan,China
-INST0205,Sichuan Agricultural University,Ya'an,Sichuan,China
-INST0206,Beijing Normal University,Beijing,,China
-INST0207,South University of Science and Technology of China,Shenzhen,Guangdong,China
-INST0208,Henan normal university,xinxiang,henan,China
-INST0209,University of Science and Technology Beijing,Beijing,Beijing,China
-INST0210,University of Science and Technology Beijing,Beijing,,China
-INST0211,University of International and Economics,Beijing,,China
-INST0212,Universitiy of International Business and Economics,Beijing,,China
-INST0213,University of International Business and Economics,Beijing,Chaoyang,China
-INST0214,Southeast University,Nanjing,Jiangsu Provience,China
-INST0215,UIBE,BeiJing,,China
-INST0216,University of International business and economics,Beijing,Beijing,China
-INST0217,The University of International Business and Economics,Being,,China
-INST0218,Central University of Finance and Ecomomics,Beijing,,China
-INST0219,University of International Business and Econmics,Beijing,Beijing,China
-INST0220,Shandong University of Science and Technology,Qingdao,Shandong,China
-INST0221,University of International Business and Economics,Beijing,chaoyang,China
-INST0222,IUPUI,Indianapolis,IN,USA
-INST0223,Anqing Normal University,Anqing,Anhui,China
-INST0224,Ningbo University,Ningbo,ZheJiang,China
-INST0225,Southeast University,Nanjing,Jiangsu Province,China
-INST0226,Wu Han University,WuHan,HuBei,China
-INST0227,Statistic,Beijing,,China
-INST0228,Zhengzhou University,Zhengzhou,Henan,China
-INST0229,shenyangjianzhu university,shenyang,liaoning,China
-INST0230,Sun Yat-Sen University,Guangzhou,,China
-INST0231,University of International Business and Economics,Beijng,,China
-INST0232,University of International and Business Economics,"Beijing,China",,China
-INST0233,University of Colorado Boulder,Boulder,CO,USA
-INST0234,"Beijing Normal University, Zhuhai",Zhuhai,,China
-INST0235,"Beijing Normal University, Zhuhai",Zhuhai City,Guangdong,China
-INST0236,The University of International Business and Economics,Beijing,,China
-INST0237,"School of Engineering, Sun Yat-Sen University",Guangzhou,Guangdong,China
-INST0238,University of International Business&Economics,Beijing,Beijing,China
-INST0239,Renmin University of China,Beijing,China,China
-INST0240,Chengdu University of Information Technology,Chengdu City,Si Chuan Province,China
-INST0241,SouthWest Jiaotong University,Chengdu,Sichuan,China
-INST0242,"Math Institution ,Beihang University",Beijing,China,China
-INST0243,"No. 10, Huixin Dongjie, Chaoyang District, Beijing, P.R. China",Beijing,Beijing,China
-INST0244,ZheJiang University,Hangzhou,,China
-INST0245,Beijing Forestry University,Beijing,,China
-INST0246,Beihua University,Jilin,Jilin,China
-INST0247,University of international business and economics,Beijing,Beijing,China
-INST0248,Minzu University of China,Beijng,,China
-INST0249,School of mathematics and statistics,Beijing,Beijing,China
-INST0250,University of International Business and Economics,beijing,beijing,China
-INST0251,PLA Imformation Engineering University,ZhengZhou,HeNan,China
-INST0252,Xi'an University of architecture and technology,Xi'an,Shanxi,China
-INST0253,Shandong Normal University,Jinan,Shandong,China
-INST0254,Officer's college of CAPF,Chengdu,Sichuan,China
-INST0255,Tianjin University of Science and Technology,TianJin,TianJin,China
-INST0256,Inner Mongolia University,Hohhot,Inner Monglia,China
-INST0257,University of International Business and Economy,Beijing,Beijing,China
-INST0258,Beijing Forestry University,Beijing,Beijing,China
-INST0259,Qingdao Technical Colleage,Qingdao,Shandong,China
-INST0260,Renmin University Of China,Beijing,Beijing,China
-INST0261,Undergraduate course,Beijing,Beijing,China
-INST0262,ShanDong University,Jinan,Shandong,China
-INST0263,Heilongjiang University,Harbin,Heilongjiang Province,China
-INST0264,South China Normal University,guangzhou,Guangdong,China
-INST0265,Hohai University,Nanjing,Jiangsu,China
-INST0266,"National Engineering Research Center for Multimedia Software, Wuhan University",Wuhan,Hubei,China
-INST0267,Beijing University of Technology,Beijing,,China
-INST0268,University of international business and economics,BEIJING,BeiJing,China
-INST0269,Guangdong University of Technology,Guangzhou,Guangdong,China
-INST0270,University of International Business and Economics,beijing,,China
-INST0271,East China Normal University,Shanghai,East China,China
-INST0272,SOUTH WEST JIAOTONG UNIVERSITY,CHENG DU,SI CHUAN,China
-INST0273,Economics,Beijing,Bejing,China
-INST0274,Minzu University of China,Beijing,,China
-INST0275,Shanghai University of Finance and Ecomonics,Shanghai,,China
-INST0276,tongji university,shanghai,shanghai,China
-INST0277,Minzu university of China,Beijing,Beijing,China
-INST0278,Shanghai JiaoTong University,Shanghai,,China
-INST0279,Beihang Univeristy,BeiJing,BeiJing,China
-INST0280,China University of Geosciences (Wuhan),Wuhan,Hubei,China
-INST0281,South China Normal University,Guang Zhou,Guang Dong,China
-INST0282,University,Beijing,,China
-INST0283,Sichuan Agriculture University,Chengdu,Sichuan,China
-INST0284,Zhejiang University,hangzhou,zhejiang,China
-INST0285,Anhui University Of Science & Technology,Huainan,Anhui,China
-INST0286,Sun Yat-sen University,Guangzhou,,China
-INST0287,SYSU,Guangzhou,Guangzhou,China
-INST0288,university of International Business and Economics,Beijing,Beijing,China
-INST0289,The University Of International Business Economics,Beijing,Beijing,China
-INST0290,the University of International Business and Economics,Beijing,Beijing,China
-INST0291,Qinghai University,Xining,Qinghai,China
-INST0292,BeiJing University Of Post And Telecommunication,Beijing,,China
-INST0293,University of international business and economics,Beijing,,China
-INST0294,Xi'an University of Architecture and Technology,Xi' an,Shaanxi,China
-INST0295,Zhengzhou University,Zhengzhou,Henan Province,China
-INST0296,Shanghai University of Finanace and Economics,Shanghai,Shanghai,China
-INST0297,Business School of the University of International Business and Economics,Beijing,Beijing,China
-INST0298,"Heilongjiang University, China",Harbin,Heilongjiang,China
-INST0299,Tianjin Foreign Studies University,Tianjin,Tianjin,China
-INST0300,South China University of Technology,Guangzhou,Guangdong,China
-INST0301,East China Normal University,Shang Hai,Shang Hai,China
-INST0302,SUN YAT-SEN UNIVERSITY,Guangzhou,,China
-INST0303,Harbin Institute of Technology,Weihai,Shandong,China
-INST0304,Central China Normal University,Wuhan,HUBEI,China
-INST0305,Southeast University,Nanjing,Jiangsuprovince,China
-INST0306,Tsinghua University,Beijing,China,China
-INST0307,Heilongjiang Institute of Technology,"Harbin,Heilongjiang Province,China",Heilongjiang,China
-INST0308,Shenyang Aerospace University,Shenyang,Liaoning,China
-INST0309,Shandong University,Jinan,Shandong,China
-INST0310,China Pharmaceutical University,Nanjing City,Jiangsu,China
-INST0311,Southwestern University Of Finance And Economics,Chengdu,Sichuan,China
-INST0312,XIDIAN UNIVERSITY,Xi'an,Shaanxi,China
-INST0313,Southwest Jiaotong University,Chengdu,Sichuan,China
-INST0314,Shanghai Jiaotong University,shanghai,shanghai,China
-INST0315,University of Science and Technology of China,HEFEI,ANHUI,China
-INST0316,South China Normal University,"Guangzhou, Guangdong, China",,China
-INST0317,University Of International Business and Economics,Beijing,Beijing,China
-INST0318,Renmin University,Beijing,Beijing,China
-INST0319,Shenyang University,ShenYang,LiaoNing,China
-INST0320,Nankai University,"Nankai, Tianjin",Tianjin,China
-INST0321,TianJin university,TianJin,TianJin,China
-INST0322,University Of Science and Technology Beijing,Beijing,Beijing,China
-INST0323,Southeast University,Nanjing,Jiangsu,China
-INST0324,Fudan University,Shanghai,Shanghai,China
-INST0325,"School of Mathematical Sciences, Beijing Normal University",Beijing,Beijing,China
-INST0326,South China Normal Univercity,Guangzhou,China,China
-INST0327,Shenyang Jianzhu university,Shenyang,Liaoning,China
-INST0328,Dalian University of Technology,Dalian,,China
-INST0329,Dalian University of Technology,Dalian,Liaoning,China
-INST0330,Central University of Finance and Ecomomics,Beijng,,China
-INST0331,Nanjing University of Posts and Telecommunications,Nanjing,JiangSu,China
-INST0332,Huangzhong University of Science and Technology,Wuhan,Hubei,China
-INST0333,South China Institute of Software Engineering. GU,Guangzhou,Guangdong,China
-INST0334,China University of Geosciences(Wuhan),Wuhan,Hubei,China
-INST0335,shandong university of science and technology,Qingdao,P.R.China,China
-INST0336,Ocean University of China,Shandong,Qingdao,China
-INST0337,College of Petroleum Engineering,Qingdao,Shandong,China
-INST0338,Henan Normal University,Xin'xiang,Henan Province,China
-INST0339,The Huazhong University of Science and Technology,Wuhan,Hubei Province,China
-INST0340,China University of Geosciences,Wuhan,Hubei,China
-INST0341,Ocean University of China,Tsingtao,Shandong,China
-INST0342,Shanghai University of Finance & Economics,Shanghai,Shanghai,China
-INST0343,professor,Beijing,,China
-INST0344,BeiJing University Of Post And Telecommunication,Beijing,Haidian,China
-INST0345,China University of Petroleum,Qingdao,Shandong,China
-INST0346,Ocean University of China,Qingdao,Shandon,China
-INST0347,Changsha University,Changsha,Hunan,China
-INST0348,Jinjiang College of Sichuan University,meishan,Sichuan,China
-INST0349,Ocean University of China,Qingdao,Shandong,China
-INST0350,University of Michigan-Shanghai Jiao Tong University Joint Institute,Shanghai,,China
-INST0351,Sichuan Normal University,Chengdu,Sichuan,China
-INST0352,Wuhan University of Science and Technology,Wuhan,Hubei,China
-INST0353,Zhejiang University,Ningbo,Zhejiang,China
-INST0354,Jilin University,Changchun,Jilin Province,China
-INST0355,Jilin University of Finance and Economics,Changchun,Jinlin,China
-INST0356,China University of Petroleum (East China),Qingdao,Shandong,China
-INST0357,shenyang pharmaceutical university,Shenyang,liaoning,China
-INST0358,Sichuan University Jinjiang College,meishan,Sichuan,China
-INST0359,Huazhong University of Science&Technology,Wuhan,Hubei,China
-INST0360,Tsinghua University,Haidian,Beijing,China
-INST0361,South China University of China,Guangzhou,,China
-INST0362,Zhejiang University,HANGZHOU,ZHEJIANG,China
-INST0363,Huazhong University Of Science & Technlology,Wuhan,Hubei,China
-INST0364,South China Normal University,Qingdao,Shandong,China
-INST0365,ShanDong University of Science and Technology,Qingdao,Shandong,China
-INST0366,Zhejiang University,Hangzhou,Zhejiang Province,China
-INST0367,Tsinghua University,Beijing,Beijing,China
-INST0368,Tsinghua Univeristy,Beijing,Beijing,China
-INST0369,Jilin University,Changchun,Jilin,China
-INST0370,shanghai Normal University,shanghai,China,China
-INST0371,Zhejiang Normal University,Jinhua,Zhejiang,China
-INST0372,Stanford University,Stanford,CA,USA
-INST0373,University of Macau,macau,macau,China
-INST0374,Yunnan University,Kunming,,China
-INST0375,Tianjin University of Technology and Education,Tianjin,Tianjin,China
-INST0376,Hebei University of Technology,Tianjin,,China
-INST0377,"Beijing Normal University, Zhuhai",Zhuhai,Guangdong,China
-INST0378,Hebei Normal University,Shijiazhuang,Hebei,China
-INST0379,South China Normal University,GuangZhou,Guangdong,China
-INST0380,Ocean university of China,Qingdao,Sandong,China
-INST0381,China University of Petroleum,Qingdao city,Shandong,China
-INST0382,North China Electric Power University Baoding,Baoding,Hebei,China
-INST0383,Huazhong University of Science and Technology,Wuhan,Hubei,China
-INST0384,Capital Medical University,Beijing,Beijing,China
-INST0385,Zhongnan University of Economics and Law,Wuhan,Hubei province,China
-INST0386,Ningbo University,Ningbo,Zhejiang,China
-INST0387,Luoyang Institute of Science and Technology,Luoyang,Henan,China
-INST0388,South China University of Technology,Guangzhou,,China
-INST0389,Nankai University,TIANJIN,,China
-INST0390,Shanghai university of finace and economic,Shanghai,Shanghai,China
-INST0391,Informantion Engineering,Dalian,Liaoning,China
-INST0392,Iinformantion Engineering,Dalian,Liaoning,China
-INST0393,Changchun architecture &civil engineering college,Changchun,Jilin,China
-INST0394,Shandong Agricultural University,Tai'an City,Shandong,China
-INST0395,South China Normal University,Guangzhou,Guangdong Province,China
-INST0396,Sun Yat-sen University,Zhuhai,Guangdong,China
-INST0397,Shenyang Ligong University,Shenyang,Liaoning,China
-INST0398,Information Engineering,Dalian,Liaoning,China
-INST0399,Civil Aviation University of China,TianJin,TianJin,China
-INST0400,Harbin University of Commerce,Harbin,Heilongjiang,China
-INST0401,Peking university,Beijing,Beijing,China
-INST0402,Yunnan University,Kunming,Yunnan,China
-INST0403,Chongqing Normal University,Chongqing,Chongqing,China
-INST0404,China University of Geoscience (Wuhan),Wuhan,Hubei,China
-INST0405,Lanzhou University of Technology,Lanzhou,Gansu,China
-INST0406,Lan Zhou University of Technology,Lan Zhou,Gansu,China
-INST0407,Lanzhou University of Technology,Lanzhou,,China
-INST0408,South China Agricultural University,Guangzhou,Tianhe,China
-INST0409,Lan Zhou University of Technology,Lan Zhou,Gan Su,China
-INST0410,LanZhou University of Technology,LanZhou,GanSu,China
-INST0411,Southwestern University of Finance and Economy,Chengdu,SiChuan,China
-INST0412,HaiNan University,Haikou,Hainan,China
-INST0413,China Three Gorges University,Yichang,Hubei,China
-INST0414,East China University of Political Science and Law,Shanghai,Shanghai,China
-INST0415,Civil Aviation University of China,Tianjin,Tianjin,China
-INST0416,Shenyang Agricultural University,SHENYANG,LIAONING,China
-INST0417,Tianjin University of Commerce,Tianjin,,China
-INST0418,Minzu University of China,beijing,beijing,China
-INST0419,University of South China,Hengyang,Hunan,China
-INST0420,Peking University,Peking,Peking,China
-INST0421,Zhejiang University,Hangzhou,,China
-INST0422,Chongqing University,Chongqing,,China
-INST0423,Shandong Univercity,Jinan,Shandong Province,China
-INST0424,SUNY New Paltz University,New Paltz,NY,USA
-INST0425,"University of California, Los Angeles",Los Angeles,CA,USA
-INST0426,Chongqing University,Shapingba district,Chongqing,China
-INST0427,Dalian University,Dalian city,liaoning,China
-INST0428,Shanghai university of finance and economics,Shanghai,Shanghai,China
-INST0429,SHANGHAI UNIVERSITY OF FINANCE AND ECONAMICS,SHANGHAI,SHANGHAI,China
-INST0430,Shanghai Jiaotong University,Shanghai,Shanghai,China
-INST0431,Ocean University of China,Qingdao,Shangdong province,China
-INST0432,University of Science and Technology of China (USTC),Hefei,Anhui,China
-INST0433,TianJin University,TianJin China,TianJin,China
-INST0434,Naval Aeronautical and Astronautical University,Yantai,Shandong,China
-INST0435,Tianjin Polytechnic University,Tianjin,Tianjin,China
-INST0436,FUDAN UNIVERSITY,SHANGHAI,SHANGHAI,China
-INST0437,University of Science and Technology of China,hefei,anhui,China
-INST0438,South China Normal University,GuangZhou,,China
-INST0439,Xi'an University of Architecture and Technology,Xi'an,Shanxi,China
-INST0440,"College of Science, North China University of Technology",Beijing,Beijing,China
-INST0441,China University of Petroleum,Beijing,Beijing,China
-INST0442,Liaoning University,Shenyang,Liaoning,China
-INST0443,Tianjin University of Finance and Economics,Tianjin,Tianjin,China
-INST0444,Gansu Agricultural University,Lanzhou,Gansu,China
-INST0445,Southwest Jiaotong University Hope College Â ,Chengdu,Sichuan,China
-INST0446,Beijing Technology and Business University,Beijing,,China
-INST0447,Beijing Technology and Business University,Beijng,,China
-INST0448,NORTH CHINA ELECTRIC POWER UNIVERSITY,BEIJING,BEIJING,China
-INST0449,Tianjin University,Tianjin,Tianjin,China
-INST0450,Xiamen University,Xiamen,FuJian,China
-INST0451,Central University of Finance and Ecomomics,BEIJING,BEIJING,China
-INST0452,Huazhong University of Science and Technology,Wuhan,,China
-INST0453,Shandong University(Weihai),Weihai,Shandong,China
-INST0454,Southwestern University of Finance and Economics,Chengdu,Sichuan Province,China
-INST0455,Beijing Forestry University,BEIJING,,China
-INST0456,Ocean University of China,Qingdao,,China
-INST0457,"The school of management, University of Science and Technology of China",Hefei,Anhui,China
-INST0458,The University of Texas at Dallas,Richardson,TX,USA
-INST0459,University of Manchester,Manchester,,United Kingdom
-INST0460,Milligan College,Milligan College,TN,USA
-INST0461,Northwestern Polytechnical University,Xi'an,Shanxi,China
-INST0462,University of Electronic Science and Technology of China,Chengdu,Sichuan,China
-INST0463,Shanghai Experimental School,Shanghai,Shanghai,China
-INST0464,City University of Hong Kong,Kowloon,,Hong Kong
-INST0465,Changsha University of Science & Technology,Changsha,Hunan,China
-INST0466,Central China Normal University,Wuhan,Hubei,China
-INST0467,nanjing university of finance&economics,nanjing,jiangsu,China
-INST0468,Beijing Institute of Technology,BeiJing,BeiJing,China
-INST0469,Berlin School of Economics and Law,Berlin,Berlin,Germany
-INST0470,Southwestern University of Finance and Economics,Chengdu,Si Chuan Province,China
-INST0471,University of Science and Technology of China,"Hefei, Anhui",,China
-INST0472,Nanjing University,Nanjing,China,China
-INST0473,Tianjin University of Finance and Economics,Tianjin,China,China
-INST0474,Ordos Collegeï¼ŒInner Mongolia University,Erdos,Inner Mongolia Autonomous Region,China
-INST0475,Shenyang Institute of Engineering,Shenyang,Liaoning,China
-INST0476,HaiNan University,Haikou,HaiNan,China
-INST0477,College of Applied Science.Jiang Xi University of Science and Technology,Ganzhou,Jiang Xi,China
-INST0478,Jilin University of Finance and Economics,Changchun,Jilin Province,China
-INST0479,Renmin University of China,beijing,,China
-INST0480,Southwest Jiaotong University,"E'meishan,Leshan",Sichuan,China
-INST0481,Central University of Finance and Ecomomics,Beijing,Beijing,China
-INST0482,Chung Yuan Christian University,Chung Li,,Taiwan
-INST0483,China University of Political Science and Law,Beijing,Beijing,China
-INST0484,"College of Biochemical Engineering,Beijing Union University",Beijing,Beijing,China
-INST0485,Zhejiang Sci-Tech University,Hangzhou,Zhejiang Province,China
-INST0486,ShanDong University of Science and Technology4 years,Qingdao,Shandong,China
-INST0487,Minzu University of China,Beijing,China,China
-INST0488,Western Washington University,Bellingham,WA,USA
-INST0489,China University of Political science and Law,Beijing,,China
-INST0490,Dalian Nationalities University,Dalian,China,China
-INST0491,Dalian Nationalities University,Dalian,LIAONING,China
-INST0492,DaLian JiaoTong University,Dalian,Liaoning,China
-INST0493,University of International Relations,Beijing,Beijing,China
-INST0494,China University of Political science and Law,BEJING,,China
-INST0495,China University of Political science and Law,BEIJING,,China
-INST0496,People's Public Security University of China,Beijing,Beijing,China
-INST0497,Chengdu University of Technology,Chengdu,Sichuan,China
-INST0498,Dongbei University of Finance and Economics,Dalian,Liaoning,China
-INST0499,Henan University of Science and Technology,Luoyang,Henan,China
-INST0500,Xi'an University of Finance and Economics,XI'AN,Shaanxi,China
-INST0501,School of Mathematical and Physical Science,Beijing,,China
-INST0502,Shanghai Jiao Tong University,Shang hai,Shang hai,China
-INST0503,Xi'an University of Finance and Economics,XI'AN,SHAANXI,China
-INST0504,Century College of Beijing University of Posts and Telecommunications,Beijing,Beijing,China
-INST0505,Central China Normal University,Wuhan,China,China
-INST0506,Henan Normal University,Xinxiang,,China
-INST0507,Southwest JiaoTong University,Chengdu,Sichuan,China
-INST0508,Shandong University,Jinan,,China
-INST0509,University of Shanghai for Science and Technology,SHANGHAI,SHANGHAI,China
-INST0510,NC School of Science and Mathematics,Durham,NC,USA
-INST0511,Woodside Priory School,Portola Valley,CA,USA
-INST0512,Capital University of Economics and Business,BEI JING,BEI JING,China
-INST0513,Business College of Shanxi University,Taiyuan,Shanxi,China
-INST0514,Minzu University of China,BeiJing,BeiJing,China
-INST0515,Southwestern university of Finance and Economics,Chengdu,China,China
-INST0516,East China University of Science and Technology,Shanghai,Fengxian,China
-INST0517,Henan Polytechnic University,Jiaozuo City,Henan Province,China
-INST0518,Southwestern University of Finance and Economincs,Chengdu,Sichuan,China
-INST0519,Shenyang Agriculture University,Shenyang,Liaoning,China
-INST0520,Guangdong University of Technology,Guangzhou,,China
-INST0521,Shaanxi University of Technology,Hanzhong,Shaanxi,China
-INST0522,Chongqing Technology and Business University,Chongqing,,China
-INST0523,Xijing University,Xi'an,Shaanxi,China
-INST0524,University of Macau,Macau,Macau SAR,China
-INST0525,P.R.China Beijing Normal University,Beijing,Beijing,China
-INST0526,Capital University of Economics and Business,Beijing,Beijing,China
-INST0527,Nanjing university,Nanjing,Jiangsu,China
-INST0528,Henan Normal University,Xinxiang,Henan Province,China
-INST0529,Sichuan University,Sichuan,,China
-INST0530,South China University Of Technology,Guangzhou,,China
-INST0531,Southwestern University of Finance and Economics,chengdu,,China
-INST0532,Mathematics,Shanghai,Shanghai,China
-INST0533,Beihai College of Beihang University,Beihai,Guangxi,China
-INST0534,UCSB,Santa Barbara,CA,USA
-INST0535,Loyola University Maryland,Baltimore,MD,USA
-INST0536,Wake Forest University,Winston Salem,NC,USA
-INST0537,Wesleyan College,Macon,GA,USA
-INST0538,"School of Architecture and Civil Engineering,Nantong University",Nan Tong,JiangSu,China
-INST0539,Beijing University of Techonolgy,Beijing,Beijing,China
-INST0540,Huazhong University of Science & Technology,Wuhan,Hubei,China
-INST0541,Tsinghua University,Beijing,,China
-INST0542,Tianjin university of commerce,Tianjin,Tianjin,China
-INST0543,College of science,Shanghai,Shanghai,China
-INST0544,"Shanghai Jiaotong University, China",Shanghai,Shanghai,China
-INST0545,Southwest Jiaotong University,Chengdu,,China
-INST0546,Southwestern University of Finance And Economics,ChengDu,SiChuan,China
-INST0547,New York University,New York,NY,USA
-INST0548,"China University of Petroleum, Beijing",Beijing,,China
-INST0549,Hexi Univercity,Zhangye,Gansu,China
-INST0550,Tianjin University of Finance and Economics,Tianjin,,China
-INST0551,Southwestern University of Finance and Economic,Chengdu,Sichuan,China
-INST0552,Beijing Normal University,Beijing,HaiDian,China
-INST0553,Northwest University,Xiâ€™an,Shaanxi Province,China
-INST0554,Shanghai University of Finance and Economics,shanghai,shanghai,China
-INST0555,Sichuan University,Chengdu,,China
-INST0556,Northwest University,Xi'an,Shaanxi Province,China
-INST0557,South-Central University for Nationalities,Haidian District,Beijing,China
-INST0558,Jilin University,Changchun City,Jilin Province,China
-INST0559,Northwest A&F University,Yangling,Shannxi Province,China
-INST0560,Southwestern University of Financial and Economics,Chengdu,SiChuan,China
-INST0561,Shanghai University,Shanghai,,China
-INST0562,Shandong University of Finance and Economics,Jinan,China,China
-INST0563,Shenzhen Polytechnic,Shenzhen,,China
-INST0564,Qilu University Of Technology,Jinan,Shandong,China
-INST0565,Central South University,Changsha,Hunan,China
-INST0566,China Three Gorges University,Yi Chang,HuBei,China
-INST0567,Shenzhen Polytechnic,Shenzhen,GuangDong,China
-INST0568,Zhejiang University,Hangzhou City,Zhejiang Province,China
-INST0569,Shandong Jiaotong University,Ji Nan,Shan Dong,China
-INST0570,Qingdao University,Qingdao,Shandong,China
-INST0571,Huazhong University of Science and Technology,WUHAN,HUBEI,China
-INST0572,Software Engineering,ShangHai,,China
-INST0573,South Western University of Finance and Economics,"Chengdu City,Sichuan Province",,China
-INST0574,Shaanxi University of Science & Technology,Xi'an,,China
-INST0575,Anhui University of Finance and Economics,Bengbu,Anhui,China
-INST0576,Beijing Language and Culture University,Beijing,Beijing,China
-INST0577,Shaanxi University of Technology,HanZhong,Shaanxi,China
-INST0578,Hohai University Changzhou Campus,Changzhou,Jiangsu,China
-INST0579,City University of Hong Kong,Hong Kong,,China
-INST0580,Southwestern University Of Finance And Economics,Chengdu,Sichuan Province,China
-INST0581,Southwest University of Science and Technology,Mianyang,Sichuan,China
-INST0582,Sichuan Agricultural University,Ya an,Sichuan,China
-INST0583,Sichuan Agricultural University,Yaan,Sichuan,China
-INST0584,Shanghai University,Shanghai,Shanghai,China
-INST0585,Hohai University Wentian College,Maanshan,Anhui,China
-INST0586,Shanghai Univisity,Shanghai,Shanghai,China
-INST0587,Shandong University,JINAN,Shandong,China
-INST0588,Hohai University,Changzhou,JiangSu,China
-INST0589,Shanghai univercity,Shanghai,Shanghai,China
-INST0590,Central University of Finance and Ecomomics,Beijing,Beijing Municipality,China
-INST0591,Shanghai Jiading No.1 High School,Shanghai,Shanghai,China
-INST0592,Department of Mathematics,Shanghai,,China
-INST0593,QuFu Normal University,Qufu,Shandong,China
-INST0594,Shanghai Univercity,Shanghai,Shanghai,China
-INST0595,TIANJIN UNIVERSITY,Tianjin,,China
-INST0596,Henan Normal University,Xinxiang,Henan,China
-INST0597,Hohai University,Changzhou,Jiangsu,China
-INST0598,Shanghai Lixin University of Commerce,Shanghai,,China
-INST0599,East China University of Science and Technology,ShangHai,ShangHai,China
-INST0600,Shanghai University,Shanghai,baoshan,China
-INST0601,Henan Normal University,Xinxiang,HeNan,China
-INST0602,Wuhan Polytechnic University,Wuhan,Hubei,China
-INST0603,Beijing Normal University,BEIJING,,China
-INST0604,Beijing Jiaotong University,Beijing,,China
-INST0605,Nanjing University,Nanjing,,China
-INST0606,NORTH CHINA ELECTRIC POWER UNIVERSITY,BEIJING,,China
-INST0607,Jilin University.,Changchun,Jilin,China
-INST0608,Nankai University,TianJin,,China
-INST0609,Sichuan University,Wuxi,,China
-INST0610,shanghai,shanghai,shanghai,China
-INST0611,Huazhong University of science and technology,Wuhan,Hubei,China
-INST0612,Xi'an Jiaotong University,Xi'an,Shaanxi,China
-INST0613,USMA,West Point,NY,USA
-INST0614,Nantong University,Nantong,Jiangsu,China
-INST0615,HARBIN ENGINEERING UNIVERSITY,HARBIN,HEILONGJIANG,China
-INST0616,Chong Qing University,Shapingba,ChongQing,China
-INST0617,Neijiang Normal University,Neijiang,Sichuan,China
-INST0618,China University of Petrolem(Beijing),Beijing,Beijing,China
-INST0619,Beijing Institute of Technology,Beijing,Bejing,China
-INST0620,Southwestern University of Finance and Economics,Chengdu,,China
-INST0621,Liaoning Technical University,Huludao,Liaoning,China
-INST0622,Dongbei university of Finance and Economics,Dalian,Liaoning,China
-INST0623,Xiamen University,Xiamen,,China
-INST0624,Nanjing University of Posts and Telecommunications,Nanjing,Jiangsu,China
-INST0625,Xi'an Jiaotong-Liverpool University,Suzhou,Jiangsu,China
-INST0626,Xiangtan University,Xiangtan,Hunan,China
-INST0627,Jiangxi Agricultural University,Nanchang,Jiangxi,China
-INST0628,Changchun University Of Science and Technology,Changchun,Jinlin,China
-INST0629,YunNan University,Kunming,yunnan,China
-INST0630,South China Normal University,guangzhou,guangdong,China
-INST0631,Nanjing Tech University,Nanjing,Jiangsu,China
-INST0632,HuNan University,Changsha,HuNan,China
-INST0633,Shanghai University,shanghai,shanghai,China
-INST0634,Dalian Polytechnic University,Dalian,Liaoning,China
-INST0635,Foshan University,Foshan,Guangdong,China
-INST0636,zhongnan University of Economics and Law,WuHan,Hubei,China
-INST0637,Chengdu Technological University,chengdu,Sichuan,China
-INST0638,Shanghai University of International Business and Economics,Shanghai,Shanghai,China
-INST0639,Shanghai University of International Business and Economics,Shanghai,Songjiang,China
-INST0640,North China Electric Power University,Baoding,,China
-INST0641,Peking University,Beijing,China,China
-INST0642,Virginia Western,Roanoke,VA,USA
-INST0643,east china university of political science and law,shanghai,shanghai,China
-INST0644,Anhui Jianzhu University,Hefei,Anhui,China
-INST0645,Peking Univ.,Beijing,Beijing,China
-INST0646,HAINAN UNIVERSITY,HAIKOU,HAINAN,China
-INST0647,"Sun Yat-sen University, Guangzhou",Guang Zhou,Asia,China
-INST0648,Bethel University,Arden Hills,MN,USA
-INST0649,Linfield College,McMinnville,OR,USA
-INST0650,China Jiangsu University,Zhenjiang,Jiangsu,China
-INST0651,Shaanxi University of Technology,HanZhong,shaanxi,China
-INST0652,Shanghai Finance University,Shanghai,,China
-INST0653,NanTong University,NanTong,,China
-INST0654,Wuhan University of technology,Wuhan,Hubei,China
-INST0655,NanTong University,NanTong,JiangSu,China
-INST0656,EAST CHINA NORMAL UNIVERSITY,Shanghai,China,China
-INST0657,shaanxi university of technology,han zhong,shaanxi,China
-INST0658,Jilin University,Changchun,Jinlin,China
-INST0659,RENMIN UNIVERSITY OF CHINA,BEIJING,BEIJING,China
-INST0660,Henan University of Economics and Law,Zhengzhou,Henan,China
-INST0661,ShanDong University of Technology,ZiBo,ShanDong,China
-INST0662,Shenzhen Institute of Information Technology,Shenzhen,GuangDong,China
-INST0663,SKH Bishop Mok Sau Tseng Secondary School,Hongkong,Hongkong,China
-INST0664,BeiJing University Of Post And Telecommunication,Beijing,Asia,China
-INST0665,Sichuan University,"Chengdu, Sichuan",,China
-INST0666,Dalian Jiaotong university,DaLian,Liaoning,China
-INST0667,Southwest Jiaotong University,ChengDu,SiChuan,China
-INST0668,SHANGHAI UNIVERSITY,Shanghai,Shanghai,China
-INST0669,Nanjing Tech Uinversity,Nanjing,Jiangsu,China
-INST0670,Chongqing University of Posts and Telecommunications,Chongqing,,China
-INST0671,Beijing University Of Technology,Beijing,Beijing,China
-INST0672,Shanghai Institute of Technology,Shanghai,Shanghai,China
-INST0673,BeiJing University Of Post And Telecommunication,BeiJing,BeiJing,China
-INST0674,Southwestern University of Finance and Economics,CHENGDU CITI,SICHUAN PROVINCE,China
-INST0675,"Tianjin University, People's Republic of China",Tianjin,,China
-INST0676,Shanghai Institute of Technology,Shanghai,,China
-INST0677,Shanghai Institute of Technology,shang hai,,China
-INST0678,Beijing Institute of Technology,BEIJING,BEIJING,China
-INST0679,Dalian Ocean University,Dalian,Liaoning,China
-INST0680,Sichuan University,Chendu,Sichuan,China
-INST0681,Nankai University,Tianjin City,Tianjin,China
-INST0682,Anhui University,Hefei,Anhui,China
-INST0683,Peking University,BEIJING,BEIJING,China
-INST0684,Washington and Lee University,Lexington,VA,USA
-INST0685,Pacific Lutheran University,Tacoma,WA,USA
-INST0686,Cupertino High School,Cupertino,CA,USA
-INST0687,Chongqing Jiaotong University,Chongqing,Nanping,China
-INST0688,Shaoguan University,Shaoguan,Guangdong,China
-INST0689,Nankai University,Tianjin,Aisa,China
-INST0690,The Engineering & Technical college of Chengdu University of Technology,LESHAN,,China
-INST0691,"Shanxi University, People's Republic of China",Taiyuan,Shanxi Province,China
-INST0692,"Taizhou Institute of Sci.&Tech.,NUST",Taizhou,,China
-INST0693,"Hunan University of Humanities,Science and Technology",Loudi,Hunan,China
-INST0694,BeiJing University Of Post And Telecommunication,BeiJing,Beijing,China
-INST0695,Nanjing Normal University Taizhou College,Taizhou,,China
-INST0696,Beijing University of Aeronautics and Astronautics,Beijing,,China
-INST0697,Tianjin University,Tianjin,China,China
-INST0698,Nanjing University of Aeronautics and Astronautics,Nanjing,Jiangsu,China
-INST0699,Guangzhou University,Guangzhou,Guangdong Province,China
-INST0700,Tianjin University of Science and Technology,Tianjin,Tianjin,China
-INST0701,"school of architecture civil engineering, Nantong University",Nantong,JiangSu,China
-INST0702,Nankai University,tianjin,tianjin,China
-INST0703,Shanghai Jiaotong University,Shanghai,,China
-INST0704,Beijing normal university,Beijing,Beijing,China
-INST0705,Beihang Univeristy,BEIJING,BEIJING,China
-INST0706,Nanjing University,Nanjing,Jiangsu province,China
-INST0707,Qingdao Univrsity,Qingdao,Shandong,China
-INST0708,Shandong University of Technology,Zibo,Shandong,China
-INST0709,Shanghai University of Finance and Economics,Shanghai,P.R.China,China
-INST0710,Peking University,"Beijing,China",,China
-INST0711,Shanghai University of Finance & Economics (P R CHINA),Shanghai,,China
-INST0712,Tianjin University of Finance and Economics,TianJin,,China
-INST0713,Yantai University,Yantai,,China
-INST0714,Montana Tech,Butte,MT,USA
-INST0715,Yantai University,Yantai,Shandong,China
-INST0716,southwest university of science and technology,Mianyang,Sichuan,China
-INST0717,Renmin University of China,Beiijing,Beijing,China
-INST0718,Chengdu Shishi Cambridge A-level Center,Chengdu,,China
-INST0719,Math School,Xiamen,Fujian,China
-INST0720,Shanghai University,Baoshan,Shanghai,China
-INST0721,Huzhou University,Huzhou,Zhejiang,China
-INST0722,Shandong University,Jinan,Shandong Province,China
-INST0723,SICHUAN UNIVERSITY,Sichuan,,China
-INST0724,Madonna University,Livonia,MI,USA
-INST0725,"The University of Tennessee, Knoxville",Knoxville,TN,USA
-INST0726,Liaoning Shihua University,Fushun,,China
-INST0727,Liaoning Shihua University,Fushun,Wanghua,China
-INST0728,Nanjing University of Posts&Telecommunications,Nanjing,Jiangsu,China
-INST0729,Nanjing University of Posts & Telecommunications,Nanjing,Jiangshu,China
-INST0730,Central University of Finance and Ecomomics,Bejing,Bejing,China
-INST0731,Huizhou University,Huizhou,Guangdong,China
-INST0732,Eastern Oregon University,La Grande,OR,USA
-INST0733,Second Military Medical University,Shanghai,Yangpu,China
-INST0734,SouthwesternÂ UniversityÂ of Finance and Economics,Chengdu,Sichuan,China
-INST0735,Inner Mongolia University of Technology,Hohhot,,China
-INST0736,"Nankai University,China",Tianjin,Tianjin,China
-INST0737,Peking University,Beijing,"Beijing, P.R.CHINA",China
-INST0738,BeiJing University Of Post And Telecommunication,Beijing,Bejing,China
-INST0739,"Software Engineering Institute, East China Normal University",Shanghai,Shanghai,China
-INST0740,TianJin University Of Finance And Economics,Tianjin,China,China
-INST0741,National University of Singapore,Singapore,,Singapore
-INST0742,EAST CHINA NORMAL UNIVERSITY,SHANGHAI,SHANGHAI,China
-INST0743,NanChang Aeronautical University,NanChang,JiangXi,China
-INST0744,Hebei University of Technology,Tianjin,Tianjin,China
-INST0745,Henan University of Science & Technology,Luoyang,Henan,China
-INST0746,Nankai University,Tianjin China,,China
-INST0747,School of Digital Media and Design Art,Beijing,,China
-INST0748,Henan Normal University,xinxiang,Henan,China
-INST0749,Civil Aviation University of China,Tianjin,Dongliqu,China
-INST0750,University of Science & Technology Beijing,Beijing,Beijing,China
-INST0751,Henan normal university,Xinxiang,Henan,China
-INST0752,North China Electric poewr university,Bejing,Beijing,China
-INST0753,Suzhou University of Science and Technology,Jiangsu,Suzhou,China
-INST0754,South-west Jiaotong University,Chengdu,Sichuan,China
-INST0755,ZheJiang University,HangZhou,ZheJiang,China
-INST0756,South West Jiaotong University,Chengdu,Sichuan,China
-INST0757,WENZHOU UNIVERSITY,WENZHOU,ZHEJIANG,China
-INST0758,Ocean University of China,Qingdao City,Shandong Province,China
-INST0759,Jilin University,Chang Chun,Ji Lin Province,China
-INST0760,WuHan University,WUHAN,HUBEI,China
-INST0761,East China Normal University,Shanghai,China,China
-INST0762,Dongguan University of Technology,Dongguan,Guangdong,China
-INST0763,Sun Yat-sen University,Guangzhou,Guangdong Province,China
-INST0764,University of Science & Technology Beijing,beijing,,China
-INST0765,Zhongnan University of Economics and Law,WUHAN,HUBEI,China
-INST0766,Northeaster University (China),Shenyang,,China
-INST0767,Hefei University of Technology,Hefei,Anhui,China
-INST0768,SJTU-ParisTech Elite Institute of Technology,Shanghai,Shanghai,China
-INST0769,China Welfare Institute,Shanghai,Shanghai,China
-INST0770,Tianjin University,Tianjin,,China
-INST0771,Chongqing University of Posts and Telecommunications,Chongqing,Chongqing,China
-INST0772,College of Science and Technology of China Three Gorges University,YiChang,HuBei,China
-INST0773,Southwestern University of Finance and Economics,City: Chengdu,Sichuan,China
-INST0774,"University of Science and Technology,Beijing(USTB)",Beijing,Beijing,China
-INST0775,Minzu university of China,Beijing,,China
-INST0776,Southwest Jiaotong University,Chengdu,Sichuan Province,China
-INST0777,Southwest University,Beibei,Chongqing,China
-INST0778,Southwest Jiaotong University,Chengdu city,Sichuan,China
-INST0779,Hainan University,Danzhou,Hainan,China
-INST0780,South China Normal University,GUANGZHOU,GUANGDONG,China
-INST0781,Wuhan Universty,Wuhan,Hubei,China
-INST0782,"Tianjin University, China",Tianjin,Tianjin,China
-INST0783,Shenzhen University,Shenzhen,Guangdong Province,China
-INST0784,Henan normal university,Henan,XinXiang,China
-INST0785,UNIVERSITY OF SHANGHAI FOR SCIENCE AND TECHNOLOGY,SHANGHAI,,China
-INST0786,Nankai University,TIANJIN,TIANJIN,China
-INST0787,Ocean University of China,Qindao,Shandong,China
-INST0788,Shandong University Of Science And Technology,Qingdao,Shandong,China
-INST0789,Jiangsu Jianzhu Institute,Xuzhou,Jiangsu,China
-INST0790,SouthEast University,Nanjing,Jiangsu,China
-INST0791,Shandong University of Finance and Economics,Jinan,Shandong,China
-INST0792,Lanzhou University,Lanzhou,,China
-INST0793,Shanghai Jiao Tong University,SHANGHAI,CHINA,China
-INST0794,Henan Polytechnic University,Jiaozuo,Henan,China
-INST0795,LongDong University,Qingyang,Gausu,China
-INST0796,Henan Polytechnic University,Jiaozuo,Henan Province,China
-INST0797,Shandong University,Ji'nan,Shandong,China
-INST0798,Shanxi Medical University,Taiyuan,Shanxi,China
-INST0799,ShanDong University,Jinan,Shandong Province,China
-INST0800,Shanghai University of Finance and Economics,SHANG HAI,,China
-INST0801,Software Engineering Institute,Shanghai,China,China
-INST0802,Huaqiao University,Quan Zhou,Feng Ze,China
-INST0803,Shangdong university,Jinan,Shandong Province,China
-INST0804,Guilin University of Electronic Technology,Guilin,Guangxi,China
-INST0805,Information,Beijing,,China
-INST0806,NKU School of Mathematical Science,Tianjin,Tianjin,China
-INST0807,Northeast Petroleum University,Daqing,Heilongjiang,China
-INST0808,Southwestern University of Finance and Economics,CHENGDU,,China
-INST0809,BeiJing University Of Post And Telecommunication,beijing,beijing,China
-INST0810,Nankai University,Tianjin,China,China
-INST0811,Hebei University,Baoding,Hebei,China
-INST0812,Xi'an University of Finance and Economics,Xi'an,Shaanxi,China
-INST0813,university,beijing,,China
-INST0814,University of Illinois,Urbana,IL,USA
-INST0815,Institute of Information Technology of Guilin University of Electronic Technology,Guilin,Guangxi,China
-INST0816,"Taishan University,China",Taian,Shandong,China
-INST0817,Liaoning Technical Universty,Fuxin,,China
-INST0818,North China Electric Power University,Beijing,BEIJING,China
-INST0819,Heilongjiang University of science and technology,Harbin,Heilongjiang,China
-INST0820,South China Normal University,Guang Zhou,,China
-INST0821,Sichuan University,Chengdu,Sichuan Province,China
-INST0822,Shanghai University of Finance and Economy,Shanghai,Shanghai,China
-INST0823,University of Science and Technology Beijing,Beijing,Asia,China
-INST0824,"Department of Economics, Minzu University of China",Beijing,Beijing,China
-INST0825,"University of International Bussiness and Economy,Beijing,China",Beijing,,China
-INST0826,College of Computer and Control Engineering,Tian Jin,,China
-INST0827,Xi'an Shiyou University,Xi'an,Shannxi,China
-INST0828,Hebei Normal University,Shijiazhuang,Hebei Province,China
-INST0829,Northeast Yucai Foreign Language School,shenyang,Liaoning,China
-INST0830,South China Normal University,Guangzhou,Â Guangdong Province,China
-INST0831,North China Electric Power University,Beijing,Beijing,China
-INST0832,Undergraduate course,Jinan,Shandong Province,China
-INST0833,South China University of Technology,GuangZhou,,China
-INST0834,Dalian Neusoft University of information,Dalian,Liaoning,China
-INST0835,Dalian Neusoft University of Information,Dalian,Liaoning,China
-INST0836,South China University of Technology,Guang Zhou,,China
-INST0837,NanKai University,TianJin,TianJin,China
-INST0838,BeiJing University Of Post And Telecommunication,BeiJing,,China
-INST0839,Xiamen University,Xiamen,FUJIAN,China
-INST0840,TianJin University,Tianjin,Tianjin,China
-INST0841,BeiJing University Of Post And Telecommunication,Haidian,Beijing,China
-INST0842,Hunan Normal University,Changsha,Hunan,China
-INST0843,Southwest jiaotong university,Chengdu,Sichuan,China
-INST0844,Sichuan Agricultural University,Du Jiangyan,Sichuan,China
-INST0845,Leshan Normal University,Leshan,Sichuan,China
-INST0846,Southwestern University of Finance and Economics,Chengdu,Wenjiang,China
-INST0847,Tianjin Polytechnic University,Tianjin,,China
-INST0848,School of Electronic and Engineering,Beijing,Beijing,China
-INST0849,NanKai university,Tianjin,Tianjin,China
-INST0850,Lanzhou University,Lanzhou,Gansu,China
-INST0851,Shandong University Of Technology,Zibo,Shandong,China
-INST0852,Shanghai University of Finance and Economics,SHANGHAI,,China
-INST0853,China University of Petroleum(East China),Qingdao,ShanDong province,China
-INST0854,Renmin University of China,BEIJING,,China
-INST0855,Fudan University,SHANGHAI,SHANGHAI,China
-INST0856,Wuhan University,Wuhan,Hubei Province,China
-INST0857,National University of defense technology,Changsha,Hunan,China
-INST0858,Shandong University of Technology,zibo,Shandong,China
-INST0859,WUHAN TEXTILE UNIVERSITY,WUHAN,HUBEI,China
-INST0860,Jiangsu Normal University,Xuzhou,Jiangsu,China
-INST0861,Huaqiao University,Fujian,Xiamen,China
-INST0862,shaanxi university of technology,hanzhong,shaanxi,China
-INST0863,Southwestern University of Finance and Economics University,Chengdu,Sichuan,China
-INST0864,Guizhou University,Guiyang,Guizhou,China
-INST0865,Guangxi University,Nanning,Guangxi,China
-INST0866,Henan University of Technology,Zhengzhou,Henan,China
-INST0867,North China Electric Power University,Beijing,,China
-INST0868,Shenzhen University,Shenzhen,Guangdong,China
-INST0869,Hubei University of Economics,Wuhan,Hubei,China
-INST0870,South China Normal University,Guangzhou,Tianhe,China
-INST0871,Hubei University Of Economics,WUHAN,HUBEI,China
-INST0872,Hubei University of Economics,WUHAN,HUBEI,China
-INST0873,HuBei University of Economics,WuHan,HuBei,China
-INST0874,Nanjing University,Nanjing,Jiangsu Provence,China
-INST0875,Hu Bei Univeristy of Economics,WuHan,HuBei,China
-INST0876,Hu Bei University of Economics,WuHan,Hubei,China
-INST0877,Wuhan University,WuHan,Hubei,China
-INST0878,"Zhejiang University, China",Hangzhou,Zhejiang,China
-INST0879,Henan University,Kaifeng,Henan,China
-INST0880,Officer College of Chinese People's Armed Police Force,Chengdu,Sichuan,China
-INST0881,Shanxi Agricultural University,Jinzhong,Shanxi,China
-INST0882,North China Electric Power University,Baoding,Hebei,China
-INST0883,HuBei University of Economics,Wuhan,Hubei,China
-INST0884,China University of Geosciences(Beijing),Beijing,Beijing,China
-INST0885,Nanyang Normal University,Nanyang,Henan,China
-INST0886,JiangXi University of Science and Technology,Ganzhou,Jiangxi,China
-INST0887,SICHUAN university,Chengdu,Sichuan,China
-INST0888,North China Electric Power University Science & Technology College,Baoding,Hebei,China
-INST0889,Wuhan university,Wuhan,Hubei,China
-INST0890,Qufu normal university,Qufu,Shandong,China
-INST0891,RenMin University of China,Beijing,Beijing,China
-INST0892,Qiannan Normal College for Nationalities,Duyun,Guizhou,China
-INST0893,Wuhan University,Wuhan,Select One,China
-INST0894,Southwest Jiaotong University,CHENG DU,SI CHUAN,China
-INST0895,South China Normal University,Guangzhou,China,China
-INST0896,Wuhan University,Wuhan City,Hubei Province,China
-INST0897,Taiyuan University of Technology,Taiyuan,Shanxi,China
-INST0898,China university of Geosciences,Beijing,Beijing,China
-INST0899,Capital Normal University,Beijing,Beijing,China
-INST0900,WUHAN UNIVERSITY,Wuhan,Hubei Province,China
-INST0901,Anhui Normal University,Wuhu,,China
-INST0902,Anhui Normal University,Wuhu,Anhui Province,China
-INST0903,Northwest A&F University,Yangling,Shaanxi,China
-INST0904,Beihang Univeristy,BeiJing,,China
-INST0905,South China Normal Uniyersity,Guangzhou,Guangdong,China
-INST0906,mathematics,TianJin,TianJin,China
-INST0907,The Capital University of Economics and Business,Beijing,Beijing,China
-INST0908,National University of Defense Technology,Changsha,Hunan,China
-INST0909,Renmin University of China,BEIJING,BEIJING,China
-INST0910,South China Normal University,Canton,,China
-INST0911,The Engineering &technical College of Chengdu University of Technology,Leshan,Sichuan Province,China
-INST0912,Hendrix College,Conway,AR,USA
-INST0913,Virginia Western Community College,Roanoke,VA,USA
-INST0914,University of Manchester,Manchester,Manchester,United Kingdom
-INST0915,Bloomsburg University,Bloomsburg,PA,USA
-INST0916,Temple University,Philadelphia,PA,USA
-INST0917,Meredith College,Raleigh,NC,USA
-INST0918,Central Washington University,Ellensburg,WA,USA
-INST0919,University of Manchester,Manchester,Great Manchester,United Kingdom
-INST0920,University of St. Thomas,Saint Paul,MN,USA
-INST0921,Ludong University,Yantai,Shandong,China
-INST0922,"School of Architecture and Civil Engineering,Nantong University",NanTong,JiangSu,China
-INST0923,East China Normal University,"Shang Hai, China",,China
-INST0924,Franklin & Marshall College,Lancaster,PA,USA
-INST0925,Xihua University,Chengdu,SiChuan,China
-INST0926,Xi'an University of Architecture and Technology,Xi'an,shaanxi,China
-INST0927,The Southwestern University of Finance and Economics,Chengdu,Sichuan,China
-INST0928,South China Normal University,Guangzhou,Guangzhou,China
-INST0929,Henan Normal University,XinXiang,china,China
-INST0930,Tianjin University,Tianjin,Nankai District,China
-INST0931,Hubei University,Wuhan,Hubei,China
-INST0932,Institut Teknologi Bandung,Bandung,Jabar,Indonesia
-INST0933,Binjiang College of Nanjing University of Information Science & Tecnology,Nanjing,Jiangsu,China
-INST0934,Shanxi University of Finance and Economics,Taiyuan,Shanxi,China
-INST0935,Shandong University of Science & Technology,Taian,Shandong,China
-INST0936,Xi'an University of Architecture and Technology,Xi'an,Shannxi,China
-INST0937,South China Normal University,Guangdong Province,,China
-INST0938,Zhengzhou University Of Light Industry,Zhengzhou,Henan,China
-INST0939,Zhengzhou University of Light Institution,Zhengzhou,Henan,China
-INST0940,Zhengzhou University of Light Industry,Zhengzhou City,Henan province,China
-INST0941,South China University of Technology,Tianhe Distric,Guangzhou,China
-INST0942,Nankai University,Tianjin,Non-US/Non-Canadian,China
-INST0943,South Western University of Finance and Economics,Chengdu,Sichuan,China
-INST0944,Chengdu University of Information Technology,Chengdu,Sichuan,China
-INST0945,Wuhan University Of Technology,Wuhan,Hubei,China
-INST0946,Wuhan Univercity,Wuhan,Hubei,China
-INST0947,Tianjin University,"Tianjin,China",Tianjin,China
-INST0948,Chang'an University,Xi'an,Shaanxi,China
-INST0949,Northeastern University,Shenyang,Liaoning,China
-INST0950,University of International Business and Ecomomics,Beijing,Beijing,China
-INST0951,"College of Sciences, Northeastern University",Shenyang,Liaoning,China
-INST0952,Dalian Polytechnic University,DaLian,Liaoning Province,China
-INST0953,Nanjing University of Science and Technology,Nanjing,Jiangsu,China
-INST0954,Yancheng Teachers University,Yancheng,Jiangsu,China
-INST0955,China Univercity of Geosciencesï¼ŒBeijing,Beijing,Beijing,China
-INST0956,Inner Mongolia University For The Nationlities,Tongliao,Inner Mongolia Autonomous Region,China
-INST0957,Guangdong Polytechnic Normal University,guangzhou,Guangdong,China
-INST0958,South China Normal University,GuangZhou,TianHe,China
-INST0959,The Chinese University of Hong Kong,Hong Kong,Hong Kong,China
-INST0960,Shenzhen University,Shenzhen,GuangDong,China
-INST0961,Shanghai University Of Engineering Science,ShangHai,SongJiang,China
-INST0962,"College of Electronic Information and Optical Engineering, Nankai University",Tianjin,,China
-INST0963,Georgetown College,Georgetown,KY,USA
-INST0964,Union College,Schenectady,NY,USA
-INST0965,Northeastern University at Qinhuangdao,Qinhuangdao,Hebei,China
-INST0966,University of Science and Technology of Beijing,Beijing,,China
-INST0967,Beihang Univeristy,Haidian,Beijing,China
-INST0968,South China Normal University,Guanghzhou,Asia,China
-INST0969,Jiansu Jianzhu University,Xuzhou,Jiangsu,China
-INST0970,JiangXi Normal University,NanChang,JiangXi,China
-INST0971,Xi'an University of Architecture and Technology,Xiâ€˜an,Shaanxi,China
-INST0972,Guangxi Teachers Education University,Nanning,Guangxi,China
-INST0973,Beihang Univeristy,Beijjing,Beijing,China
-INST0974,Sun Yat-Sen University,Guangzhou City,Guangzhou Province,China
-INST0975,Zhejiang University of Science and Technology,Hangzhou,,China
-INST0976,Shihezi University,Xinjiang,Shi Hezi,China
-INST0977,Beijing Information Science & Technology University,Beijing,Haidian,China
-INST0978,Beijing Information Science & Technology University,Beijing,,China
-INST0979,WuHan University,Wuhan,Hubei,China
-INST0980,Zhejiang University City College,Hangzhou,Zhejiang,China
-INST0981,Zhejiang Gongshang University,Hangzhou,Zhejiang,China
-INST0982,South China Normal Univercity,Guangdong,Asia,China
-INST0983,Zhejiang university,HangZhou,ZheJiang province,China
-INST0984,Hunan University of Commerce,Changsha,Hunan,China
-INST0985,Henan University of Urban Construction,Pingdingshan,Henan,China
-INST0986,TianJin University,TianJin,TianJin,China
-INST0987,nankai university,tianjin,,China
-INST0988,South-Central University For Nationalities,Wuhan,Hubei,China
-INST0989,SOUTHWEST JIAOTONG UNIVERSITY,Chengdu,SiChuan,China
-INST0990,WUHAN UNIVERSITY,WUHAN,HuBei Province,China
-INST0991,North China Electric Power University,Changping,Beijing,China
-INST0992,Yangzhou University,Yangzhou,,China
-INST0993,Jiangxi University of Traditional Chinese Medicine,Nanchang,,China
-INST0994,"121 Zhangjialukou, Huaxiang Fengtai District, Beijing,China",Beijing,Beijing,China
-INST0995,The Hong Kong Polytechnic University,Hong Kong,,Hong Kong
-INST0996,University of Science & Technology of China,Hefei,Anhui,China
-INST0997,Xi'an University of Technology,Xi'an,Shaanxi,China
-INST0998,James Madison University,Harrisonburg,VA,USA
-INST0999,University of Science and Technology of China,"Hefei City,",,China
-INST1000,Xi'an University of Architechture&Technology,Xi'an,Shaanxi,China
-INST1001,School of Computer Science and Techonology,Jinan,Shandong Province,China
-INST1002,Zhongnan University of Economics and Law,Wuhan,Hubei Province,China
-INST1003,Institution of Information Science and Technology,Beijing,China,China
-INST1004,UniversitÃ© de Technologie de CompiÃ¨gne,COMPIEGNE,,France
-INST1005,University of Dayton,Dayton,OH,USA
-INST1006,Harbin Institute of Technology,HARBIN,HEILONGJIANG,China
-INST1007,Goshen College,Goshen,IN,USA
-INST1008,Nankai University,Tian Jin,,China
-INST1009,New York Institute of Technology,New York,NY,USA
-INST1010,University of New Mexico,Albuquerque,NM,USA
-INST1011,Western Connecticut State University,Danbury,CT,USA
-INST1012,U.S. Air Force Academy,USAF Academy,CO,USA
-INST1013,Lamar University,Beaumont,TX,USA
-INST1014,Erasmus University Rotterdam,Rotterdam,,Netherlands
-INST1015,Northwest Missouri State University,Maryville,MO,USA
-INST1016,The Second Artillery Engineering University,Xi'an,Shaanxi,China
-INST1017,MinZu University of China,Beijing,,China
-INST1018,"Shanghai U. of Finance and Economics, School of Economics",Shanghai,Shanghai,China
-INST1019,China Jiliang University,Hangzhou,Zhejiang,China
-INST1020,Huaihai Institute of Technology,Lianyungang,Jiangsu,China
-INST1021,Nanchang University,Nanchang,Jiangxi,China
-INST1022,University of Science & Technology Beijing,Beijing,,China
-INST1023,The Second Artillery Engineering University,Xi'an,Shanxi,China
-INST1024,Zhejiang University,"Hangzhou, Zhejiang Province",,China
-INST1025,Xi'an Eurasia University,Xi'an,Shaanxi,China
-INST1026,University of Science and Technology of China,Heifei,Anhui,China
-INST1027,Beihang Univeristy,BEIJING,,China
-INST1028,Zhongnan University of Economics and Law,Wuhan,,China
-INST1029,China Agricultural University,Beijing,,China
-INST1030,University of shanghai for Science&Technology,Shanghai,,China
-INST1031,TIANJIN POLYTECHNIC UNIVERSITY,TIAN JIN,,China
-INST1032,Beihang Univeristy,beijing,beijing,China
-INST1033,School of information& School of Science,Beijing,,China
-INST1034,BeiJing University Of Post And Telecommunication,beijing,,China
-INST1035,Zhejiang Chinese Medical University,Hangzhou,Zhejiang,China
-INST1036,Wuhan University of Technology,Wuhan,Hubei,China
-INST1037,Institution of Thermal Science and Power Systems,HangZhou,ZheJiang,China
-INST1038,Xiamen University,XIAMEN,FUJIAN,China
-INST1039,PekingUniversity(PKU),Beijing,,China
-INST1040,South-Central University For Nationalities,Wu han,Hu bei,China
-INST1041,Renmin Universuty of China,Beijing,Beijing,China
-INST1042,FuZhou College of Foreign Studies and Trade,Fuzhou,Fujian,China
-INST1043,University of Macau,Macau,Macau,China
-INST1044,Gannan Normal University,Ganzhou,Jiangxi,China
-INST1045,Gannan Normal University,Ganzhou,,China
-INST1046,Guangdong University of Finance and Economics,Guangzhou,Guangdong,China
-INST1047,Guangdong University of Finance & Economics,Guangzhou,Guangdong,China
-INST1048,GuangDong University of Foreign Studies,Guangzhou,GuangDong Province,China
-INST1049,Fuzhou University,Fuzhou,Fujian,China
-INST1050,Fudan University,Shanghai,P.R.China,China
-INST1051,China University of Geosciences,Beijing,,China
-INST1052,Sichuan Agricultural University,Chengdu,Sichuan,China
-INST1053,Beijing University of Aeronautics and Astronautics,Beijing,Changping,China
-INST1054,Xi'an University of Technology,Xi'an,Shaanxi province,China
-INST1055,China University of Geosciences,Beijing,Haidian District,China
-INST1056,Shanghai Kongjiang High School,Shanghai,,China
-INST1057,Westminster College,Salt Lake City,UT,USA
-INST1058,The University of Edinburgh,Edinburgh,MIdlothian,United Kingdom
-INST1059,University of Shanghai for Science & Technology,Shanghai,Shanghai,China
-INST1060,Henan Normal University,Henan Xinxiang,China,China
-INST1061,GUANGDONG PHARMACEUTICAL UNIVERSITY,Zhongshan,Guangdong,China
-INST1062,Jacksonville University,Jacksonville,FL,USA
-INST1063,University of Washington,Seattle,WA,USA
-INST1064,University of Wisconsin-Stevens Point,Stevens Point,WI,USA
-INST1065,Humboldt State University,Arcata,CA,USA
-INST1066,Beijing University of Post and Telecommunication,Beijing,,China
-INST1067,Beijing University of Post and Telecommunication,Beijing,Beijing,China
-INST1068,WUHAN UNIVERSITY,WUHAN,HUBEI,China
-INST1069,Shanghai Foreign Language School,Shanghai,Shanghai,China
-INST1070,Xidian University,Xi'an,shaanxi,China
-INST1071,Lawrence Technological University,Southfield,MI,USA
-INST1072,Inner Mongolia University For The Nationalities,Tongliao,the Inner Mongolia Autonomous Region,China
-INST1073,BeiJing University Of Post And Telecommunication,Beijing,Haidian Distric,China
-INST1074,"Xitucheng 10th Road, Haidian District.Beijing Univ. of Posts and Telecomm. Beijing, Beijing 100876",Beijing,Beijing,China
-INST1075,Shandong university of finance and economics in China,jinan,,China
-INST1076,"Shenzhen University, China",Shenzhen,Guangdong,China
-INST1077,Shenyang Normal University,Liaoning Province Shenyang City,Asia,China
-INST1078,RENMIN UNIVERSITY OF CHINA,BEIJING,,China
-INST1079,BeiJing University Of Post And Telecommunication,Beijing,China,China
-INST1080,Heilongjiang University,Harbin,Outside US,China
-INST1081,Beijing Union University,Beijing,,China
-INST1082,South China Normal University,GuangZhou,GuangDong,China
-INST1083,Guangdong University of Foreign Studies,Guangzhou,,China
-INST1084,Fudan University,Berkeley,CA,USA
-INST1085,Hangzhou Normal University Qianjiang College,Hangzhou,Zhejiang,China
-INST1086,Qufu Normal University,Qufu,Shandong,China
-INST1087,Xiâ€™an University of Architecture and Technology,Xiâ€™an,Shaanxi Province,China
-INST1088,Hannan University,Haikou,Hainan,China
-INST1089,Fujian Agriculture and Forestry University,Fuzhou,Fujian,China
-INST1090,Renmin University of China,Beijing,Beijing Municipality,China
-INST1091,Beihang Univeristy,Beijng,,China
-INST1092,Institute of Scientific & Engineering Computing,Hangzhou,Zhejiang,China
-INST1093,Hainan University,Haikou,Hainan Province,China
-INST1094,Sun Yat-sen University,Guangzhou City,Guangdong Province,China
-INST1095,Changsha University of Science and Technology,Changsha,Hunan,China
-INST1096,"University of California, San Diego",La Jolla,CA,USA
-INST1097,Wuhan Univ,Wuhan,Hubei,China
-INST1098,GUANGDONG UNIVERSITY OF FINANCE AND ECONOMICS,Guangzhou,Guangdong,China
-INST1099,Hunan Police Academy,Changsha,Hunan,China
-INST1100,Guangdong University Of Finance and Economy,Guangzhou,Guangdong,China
-INST1101,Guangdong University of Foreign Studies,guangzhou,guangzhou,China
-INST1102,Beihang Univeristy,Beijing,Beijng,China
-INST1103,University of Science and Technology Liaoning,Anshan,Liaoning,China
-INST1104,Guangdong University of Finance Economics,Guangzhou,Guangdong,China
-INST1105,Shenyang Institute of Technology,Fushun,Liaoning,China
-INST1106,BeiJing University Of Post And Telecommunication,BeiJing,HaiDian,China
-INST1107,East China Normal Univeristy,Shanghai,,China
-INST1108,South China Normal University,Shenzhen,Guangdong,China
-INST1109,university,Shanghai,minhang,China
-INST1110,Guangdong University of Finance and Economics,Guangzhou,Guangzhou,China
-INST1111,ZhengzhouÂ University,Zhengzhou,Henan,China
-INST1112,Guangdong University of Finance and Econonmics,Guangzhou,,China
-INST1113,North University of China,Taiyuan,Shanxi,China
-INST1114,"China University of Geosciences, Beijing",Beijing,,China
-INST1115,X1'an University of Architecture and Technology,Xi'an,Shaanxi,China
-INST1116,Shandong University of Finance and Economics,shandong,jinan,China
-INST1117,Sam Houston State University,Huntsville,TX,USA
-INST1118,Jinan University,Guanghzou,Guangdong,China
-INST1119,Austin Peay State University,Clarksville,TN,USA
-INST1120,Jinan University,Guangzhou,Guangdong,China
-INST1121,Ocean University of China,Qingdao,Shandong Province,China
-INST1122,School of Computer Science and Technology,Jinan,Shandong Province,China
-INST1123,Zhejiang University,Beijing,,China
-INST1124,Huazhong University of Science and technology,Wuhan,Hubei,China
-INST1125,Zhejiang Industry & Trade Vocational College,Wenzhou,Zhejiang,China
-INST1126,The University of Dallas,Irving,TX,USA
-INST1127,University of North Texas,Denton,TX,USA
-INST1128,University of Michigan,Ann Arbor,MI,USA
-INST1129,South China Normal University,Guangzhou,tianhe,China
-INST1130,Pacific University,Forest Grove,OR,USA
-INST1131,University of Wisconsin-Madison,Madison,WI,USA
-INST1132,University of Cambridge,Cambriddge,,United Kingdom
-INST1133,Binghamton University (SUNY),Binghamton,NY,USA
-INST1134,University of Colorado Denver,Denver,CO,USA
-INST1135,Grand View University,Des Moines,IA,USA
-INST1136,Wartburg College,Waverly,IA,USA
-INST1137,concordia college NY,pleasantville,NY,USA
-INST1138,concordia college NY,bronxville,NY,USA
-INST1139,Indiana University of Pennsylvania,Indiana,PA,USA
-INST1140,Trinity,San Antonio,TX,USA
-INST1141,Clemson University,Clemson,SC,USA
-INST1142,Colorado College,Colorado Springs,CO,USA
-INST1143,Zhejiang University of Technology,Hangzhou,,China
-INST1144,GUANGDONG UNIVERSITY OF FINANCE AND ECONOMICS,GUANGZHOU,GUANGDONG,China
-INST1145,West Anhui University,Luâ€™an,Anhui,China
-INST1146,NORTH CHINA INSTITUTE OF SCIENCE AND TECHNOLOGY,BEIJING,BEIJING,China
-INST1147,China University of Geosciences Beijing,Beijing,Haidian District,China
-INST1148,Jinan University Zhuhai Campus,Zhuhai,GuangDong,China
-INST1149,West Ahui University,Luâ€™an,Anhui,China
-INST1150,Jiangxi University of Finance and Economics,Nanchang,Jiangxi,China
-INST1151,Economics,Beijing,Beijing,China
-INST1152,SiChuan University,chengdu,SiChuan,China
-INST1153,South-Central University for Nationalities,Wuhan,Hubei,China
-INST1154,Southwest Jiaotong University,Leshan,SiChuan,China
-INST1155,Xi'an University of Architecture and Technology,Xi'an,Shaanxi Province,China
-INST1156,"Tianjin University,China",Tianjin,Tianjin,China
-INST1157,Zhejiang University of Finance and Economics,Hangzhou,Zhejiang,China
-INST1158,Zhengzhou Information Engineering University,Zhengzhou,Henan,China
-INST1159,Shandong University of Finance and Economics,Jinan,shandong,China
-INST1160,ZhengZhou University,ZhengZhou,HeNan,China
-INST1161,Xi'an University of Architecture and Techonology,Xi'an,Shaanxi Province,China
-INST1162,GuangDong University of Finance and Economics,Guangzhou,Guangdong,China
-INST1163,Northwestern Polytechnical University,XI`AN,Shaanxi,China
-INST1164,ZaoZhuang University,ZaoZhuang,ShanDong Province,China
-INST1165,SOUTH CHINA UNIVERSITY OF TECHNOLOGY,ShenZhen,GuangDong,China
-INST1166,University of International Business and Economics,"BeiJing,chaoyang district",BeiJing,China
-INST1167,Wuhan university,wuhan,hubei,China
-INST1168,Dalian Neusoft University of Information,Dalian,LiaoNing,China
-INST1169,"China University of Geosciences,Beijing",Beijing,Beijing,China
-INST1170,Naval Aeronautical Engineering Institute Qingdao Campus,Qingdao,Shandong,China
-INST1171,Institution of Innovation; Northeastern University,Shenyang,Liaoning,China
-INST1172,Renming University,Beijing,,China
-INST1173,Xinjiang University,Urumchi,Xinjiang Autonomous Region,China
-INST1174,ShuGuang School,Zigong,Sichuan,China
-INST1175,Wuhan University,Wu Han,Hubei Province,China
-INST1176,East China University of Science And Technology,Shanghai,Shanghai,China
-INST1177,Shandong university of finance and economics,jinan,,China
-INST1178,Northeast Forestry University,Harbin,Heilongjiang,China
-INST1179,Research Center of Control & Simulation; Northeastern University,Shenyang,Liaoning,China
-INST1180,WuYi University,Wuyishan,Fujian,China
-INST1181,NANJING UNIVERSITY,Nanjing,Jiangsu,China
-INST1182,Hebei United University,Tangshan,Hebei,China
-INST1183,.Renmin University of China,Beijing,Beijing,China
-INST1184,University of Science and Technology of China,Hefei,,China
-INST1185,Department of Mathematics and Institute of Natural Sciences,SHANGHAI,SHANGHAI,China
-INST1186,Xinyang Normal University,Xinyang,Henan,China
-INST1187,Information Engineering University,Zhengzhou,Henan,China
-INST1188,Tianjin University,Nankai,Tianjin,China
-INST1189,Tarim University,alaer,Sinkiang,China
-INST1190,Minzu University of China,Bejing,Beijing,China
-INST1191,EAST CHINA NORMAL UNIVERSITY,Shanghai,Shanghai,China
-INST1192,School of Materials and Metallurgy; Northeastern University,Shenyang,Liaoning,China
-INST1193,College of Information Science and Engineering; Northeastern University,Shenyang,Liaoning,China
-INST1194,Institute of Metallurgical Resource and Environmental Engineering ; Northeastern University,Shenyang,Liaoning,China
-INST1195,Institute of Mechatronics Engineering; Northeastern University,Shenyang,Liaoning,China
-INST1196,"School of Mechanical Engineering and Automation,Northeastern University",Shenyang,Liaoning,China
-INST1197,Yunnan Normal University,Kunming,Chenggong New District,China
-INST1198,Virtual reality and simulation; Northeastern University,Shenyang,Liaoning,China
-INST1199,Institution of Intelligent Robots and Pattern Recognition; Northeastern University,Shenyang,Liaoning,China
-INST1200,China University of Geosciences,Beijing,Beijing,China
-INST1201,Institute of Artificial Intelligence and Robotics; Northeastern University,Shenyang,Liaoning,China
-INST1202,College of Information Science & Engineering; Northeastern University,Shenyang,Liaoning,China
-INST1203,East china normal University,Shanghai,,China
-INST1204,Pattern Recognition;Northeastern University,Shenyang,Liaoning,China
-INST1205,Institution of Metallurgy Resources and Environmental Engineering; Northeastern University,Shenyang,Liaoning,China
-INST1206,Materials and metallurgy; Northeastern University,Shenyang,Liaoning,China
-INST1207,Institute of Computer System;Northeastern University,Shenyang,Liaoning,China
-INST1208,Institute of Electrical Engineering and Automation; Northeastern University,Shenyang,Liaoning,China
-INST1209,Central South University,Changsha,,China
-INST1210,Beijing University of Technology,Beijing,-,China
-INST1211,Virtual reality and simulation;Northeastern University,Shenyang,Liaoning,China
-INST1212,Zhejiang University,Hang Zhou,,China
-INST1213,The Hong Kong Polytechnic University,Kowloon,Hong Kong,China
-INST1214,South China University Of Technology,Guangzgou,,China
-INST1215,Truman State University,Kirksville,MO,USA
-INST1216,Henan Normal University,XinXiang,HeNan,China
-INST1217,Kansas State University,Manhattan,KS,USA
-INST1218,China University of Geosciences (Beijing),Beijing,Beijing,China
-INST1219,Tianjin Agricultural University,Tinjin,86,China
-INST1220,Key Laboratory of Medical Image Computing; Northeastern University,Shenyang,Liaoning,China
-INST1221,Communication University of ChinaÂ ,Beijing,Beijing,China
-INST1222,"School of Mechanical Engineering and Automation, Northeastern University",Shenyang,Liaoning,China
-INST1223,Signal and information processing; Northeastern University,Shenyang,Liaoning,China
-INST1224,Robotics and Automation; Northeastern University,Shenyang,Liaoning,China
-INST1225,Sino-Dutch Biomedical and Information Engineering School; Northeastern University,Shenyang,Liaoning,China
-INST1226,Institution of Pattern Recognition ;Northeastern University,Shenyang,Liaoning,China
-INST1227,Pattern Recognition ;Northeastern University,Shenyang,Liaoning,China
-INST1228,Shantou University,Shantou,Guangdong,China
-INST1229,Key Laboratory of Ecological Utilization of Multi-metal Intergrown Ores of Ministry of Education &School of Materials and Metall,Shenyang,Liaoning,China
-INST1230,Institution of Software; Northeastern University,Shenyang,Liaoning,China
-INST1231,Beijing Jiaotong University,beijing,,China
-INST1232,Southwest Petroleum University,Chengdu City,Sichuan Province,China
-INST1233,Quanzhou Normal University,quanzhou,fujian,China
-INST1234,Sichuan University,Albany,NY,USA
-INST1235,Lehigh University,Bethlehem,PA,USA
-INST1236,South China Normal University,Guangzhou,GuangDong,China
-INST1237,SouthWestern University of Finance and Economics,Chengdu,SiChuan,China
-INST1238,"China University of Geosciences, Beijing",Beijing,Beijing,China
-INST1239,Belhaven University,Jackson,MS,USA
-INST1240,Inner Mongolia University,Hohhot,Inner Mongolia Autonomous Region,China
-INST1241,wuhan university,Wuhan,,China
-INST1242,Minzu University of China,BEIJING,BEIJING,China
-INST1243,Shandong University of Fianace and Economics,Jinan,Shandong,China
-INST1244,Shandong University of Science and Technology,Tai'an city,Shandong province,China
-INST1245,Shandong University of Science and Technology,Tai'an City,Shandong Province,China
-INST1246,"Ningbo Institute of Technology, Zhejiang University",Ningbo City,Zhejiang,China
-INST1247,Xi'an Aeromautical Polytechnic Institute,Xi'an,Shaanxi,China
-INST1248,"Shandong University of Science and Technology,",Tai'an city,Shandong province,China
-INST1249,Shandong University of Science and Technology,Tai'an city,Shandong Province,China
-INST1250,Sun Yat-Sen University,Guangzhou City,,China
-INST1251,UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,HeFei,,China
-INST1252,Hong Kong University of Science and Technology,Clear Water Bay-Kowloon,,Hong Kong
-INST1253,HuaQiao University,QuanZhou,FuJian,China
-INST1254,HuaQiao University,Quan Zhou,Fu Jian,China
-INST1255,Wuhan University,Wuhan,China,China
-INST1256,Zhejiang University,HangZhou,,China
-INST1257,School of Mathematics,Chengdu City,Sichuan,China
-INST1258,Huazhong University of Science and Technolog,Wuhan,Hubei,China
-INST1259,China University of Mining and Technology,Xuzhou,Jiangsu,China
-INST1260,Tian Jin University,TianJin,TianJin,China
-INST1261,"Wuhan University,China","Wuhan,China",Wuhan,China
-INST1262,University of Science and Technology of China,"Hefei, China",,China
-INST1263,Sun Yat-Sen University,Zhuhai,Guangdong,China
-INST1264,Zhejiang University,hangzhou,Zhejiang,China
-INST1265,Wuhan Universtity,Wuhan,Hubei,China
-INST1266,Shanghai university of finance and economics,Shanghai,,China
-INST1267,College of Science,Beijing,,China
-INST1268,Dongbei University of Finance and Economics,"Dalian,China",Dalian,China
-INST1269,Electrical engineering,HangZhou,,China
-INST1270,"School of Mathematical Sciences, Xiamen University",Xiamen,Fujian,China
-INST1271,Tianjin Univ. of Commerce,Tianjin,Tianjin,China
-INST1272,American Heritage School Plantation,Plantation,FL,USA
-INST1273,Huainan Normal University,Huainan,Anhui,China
-INST1274,Zhejiang University,HangZhou,ZheJiang,China
-INST1275,Mount Holyoke College,South Hadley,MA,USA
-INST1276,Beijing Normal University,Beijing,HaiDian District,China
-INST1277,The University of Business and Economics,Beijing,,China
-INST1278,Univeristy of International Business and Economics,Beijing,,China
-INST1279,Peking University,Beijing,HaiDian,China
-INST1280,College of Software; Northeastern University,Shenyang,Liaoning,China
-INST1281,Institute of Digital media technology; Northeastern University,Shenyang,Liaoning,China
-INST1282,Software College; Northeastern University,Shenyang,Liaoning,China
-INST1283,University of Illinois at Urbana-Champaign,Urbana,IL,USA
-INST1284,Beijing Union University,Beijing,Beijing,China
-INST1285,Binzhou University,Binzhoou,Shandong,China
-INST1286,Binzhou University,Binzhou,Shandong,China
-INST1287,Guangdong University of Petrochemical Technology,Maoming,Guangdong,China
-INST1288,Jinling Institute of Technology,Nanjing,Jiangsu,China
-INST1289,Hebei Finance University,Baoding,Hebei,China
-INST1290,Liaocheng University,Liaocheng,Shandong,China
-INST1291,HEBEI FANANCE UNIVERSITY,Baoding,Hebei,China
-INST1292,Army Officer Academy,Hefei,Anhui,China
-INST1293,Liaocheng Univ.,Liaocheng,Shandong,China
-INST1294,University of Science and Technoloy of China,Hefei,Anhui,China
-INST1295,Hangzhou Dianzi University,Hangzhou,Zhejiang,China
-INST1296,Nankai University,Tianjin,Nankai,China
-INST1297,Huaqiao University,Xiamen,Fujian,China
-INST1298,The University of Shanghai for Science and Technology,Shanghai,Shanghai,China
-INST1299,Shijiazhuang University,Shijiazhuang,Hebei,China
-INST1300,Hainan University,haikou,hainan,China
-INST1301,Shijiazhuang University,Shijiazhuang,Hebei Province,China
-INST1302,Macau University of Science and Technology,Macau,,China
-INST1303,Zhengzhou university,zhengzhou,henan,China
-INST1304,Yunnan Minzu University,kunming,yunnan,China
-INST1305,Inner Mongolia University of Technology,Hohhot,Inner Mongolia,China
-INST1306,Faculty of Information Science and Engineering; Northeastern University,Shenyang,Liaoning,China
-INST1307,Software college; Northeastern University,Shenyang,Liaoning,China
-INST1308,Shihezi University,Shihezi,Xinjiang,China
-INST1309,School of Science of Tianjin University,Tian Jin,China,China
-INST1310,Yunnan Minzu University,Kunming,Yunnan,China
-INST1311,"Northeastern University, China",Shenyang,Liaoning,China
-INST1312,ShiHeZi University,ShiHiZi,xinjiang,China
-INST1313,SHANGHAI JIAO TONG UNIVERSITY,SHANGHAI,SHANGHAI,China
-INST1314,School of Information Science and Engineering; Northeastern University,Shenyang,Liaoning,China
-INST1315,Harbin Medical University,Harbin,Hei Long Jiang,China
-INST1316,JiangXi College of Construction,NanChang,JiangXi,China
-INST1317,College of Sciences ; Northeastern University,Shenyang,Liaoning,China
-INST1318,CentralÂ ChinaÂ NormalÂ University,Wuhan,Hubei,China
-INST1319,Shanghai University for Science and Technology,Shanghai,Shanghai,China
-INST1320,Institution of Maths ; Northeastern University,Shenyang,Liaoning,China
-INST1321,SHANDONG UNIVERSITY,JINAN,Shandong,China
-INST1322,School of Sciences;Northeastern University,Shenyang,Liaoning,China
-INST1323,SOUTHWEST UNIVERSITY FOR NATIONALITIES,CHENGDU,SICHUAN,China
-INST1324,Xuhai College of China University of Mining and Technology,Xuzhou,Jiangsu,China
-INST1325,Xuhai college of China University of Mining and Technology,Xuzhou,Jiangsu,China
-INST1326,Huazhong Agricultural University Chutian College,Wuhan,Hubei,China
-INST1327,"Xiamen University,China",Xiamen,Fujian,China
-INST1328,Dongbei University of Finance and Economics,Dalian,,China
-INST1329,Central China Normal University,Wuhan,,China
-INST1330,Shenyang University of Technology,Shenyang,Liaoning,China
-INST1331,Xuzhou Institute of Technology,Xuzhou,Jiangsu,China
-INST1332,North China University of Water Resources and Electric Power,Zhengzhou,Henan Province,China
-INST1333,Xiâ€™an University Of Architecture and Technology,Xiâ€™an,Shaanxi,China
-INST1334,Hebei university,baoding,hebei,China
-INST1335,"Ningbo Institute of Technology, Zhejiang University",Ningbo,Zhejiang,China
-INST1336,Ocean University Of China,Qingdao,Shandong,China
-INST1337,Hebei University,baoding,hebei,China
-INST1338,Hubei University of Technology,Wuhan,Hubei Province,China
-INST1339,Inner Mongolia University of technology,Hohhot,Inner Mongolia,China
-INST1340,Taizhou Ploytechnic College,Taizhou,Jiangsu,China
-INST1341,Naval University of Engineering,Wuhan,Hubei,China
-INST1342,Henan Institute of Science and Technology,Xinxiang,Henan,China
-INST1343,Naval University of Engineering,Wuahn,Hubei,China
-INST1344,Teacher,Beijing,Beijing,China
-INST1345,Jinling High School,Nanjing,Jiang Su,China
-INST1346,South-Central University for Nationalities,wuhan,hubei,China
-INST1347,Sichuan university,Chengdu,Sichuan,China
-INST1348,EAST CHINA NORMAL UNIVERSITY,Shanghai,,China
-INST1349,Yunnan University,kunming,yunnan,China
-INST1350,Wuhan University,wuhan,Hubei,China
-INST1351,shenyang university of technology,Shenyang,Liaoning,China
-INST1352,South-Center University For Nationalities,Wuhan,Hubei Province,China
-INST1353,SiChuan University,Chengdu,Sichaun,China
-INST1354,shenyang University of Technology,Shenyang,Liaoning,China
-INST1355,Physics School of Nankai University,Tianjin,Tianjin,China
-INST1356,"City College, Wuhan University of Science and Technology",Wuhan,Hubei,China
-INST1357,professor,Wuhan,Hubei,China
-INST1358,Chongqing University of Science and Technology,Chongqing,,China
-INST1359,Southwestern University of Finance and economics,Chengdu,Sichuan,China
-INST1360,China University of Petroleum,beijing,beijing,China
-INST1361,mathematics and systems science institute,Beijing,Beijing,China
-INST1362,TongJi University,Shanghai,Shanghai,China
-INST1363,Fujian Normal University,Fuzhou,Fujian,China
-INST1364,minzu univercity of China,Beijing,Beijing,China
-INST1365,East China Normal University,ShangHai,,China
-INST1366,Wenzhou University,Wenzhou,Zhejiang,China
-INST1367,the Central University of Finance and Economics,Beijing,Beijing,China
-INST1368,Hunan University,Changsha,Hunan,China
-INST1369,Shanghai JiaoTong University,Shanghai,Shanghai,China
-INST1370,University of Delaware,Newark,DE,USA
-INST1371,Kunming University,Kunming,Yunnan,China
-INST1372,Xidian University,XI'AN,SHAANXI,China
-INST1373,University of Richmond,RIchmond,VA,USA
-INST1374,Rose-Hulman Institute of Technology,Terre Haute,IN,USA
-INST1375,Quantitative Economics Research Institute of Nankai University,Tianjin,Tianjin,China
-INST1376,Institution of Mathematics;Northeastern University,Shenyang,Liaoning,China
-INST1377,east china university of political science and law,shanghai,songjiang,China
-INST1378,Minzu Univercity of China,Beijing,,China
-INST1379,Institution of Mathematics; Northeastern University,Shenyang,Liaoning,China
-INST1380,University at Buffalo (SUNY),Buffalo,NY,USA
-INST1381,Roger Williams University,Bristol,RI,USA
-INST1382,College of Sciences,Shenyang,Liaoning,China
-INST1383,Northern Kentucky University,Highland Heights,KY,USA
-INST1384,Academy of Armored Forces Engineering,Beijing,Beijing,China
-INST1385,University of Nebraska-Lincoln,Lincoln,NE,USA
-INST1386,Institute of Systems Science; Northeastern University,Shenyang,Liaoning,China
-INST1387,Colgate University,Hamilton,NY,USA
-INST1388,Grinnell College,Grinnell,IA,USA
-INST1389,Shippensburg University,Shippensburg,PA,USA
-INST1390,Harvey Mudd College,Claremont,CA,USA
-INST1391,University of Puget Sound,Tacoma,WA,USA
-INST1392,Simpson College,Indianola,IA,USA
-INST1393,"California State University, Fullerton",Fullerton,CA,USA
-INST1394,Bryn Athyn College,Bryn Athyn,PA,USA
-INST1395,Seattle Pacific University,Seattle,WA,USA
-INST1396,South Dakota School of Mines & Technology,Rapid City,SD,USA
-INST1397,University of Minnesota - Twin Cities,"Minneapolis,",MN,USA
-INST1398,Duquesne University,Pittsburgh,PA,USA
-INST1399,Ulster University,Bealfast,Northern Ireland,United Kingdom
-INST1400,University of Wisconsin--River Falls,River Falls,WI,USA
-INST1401,California Polytechnic State University,San Luis Obispo,CA,USA
-INST1402,Dalhousie University,Halifax,Nova Scotia,Canada
-INST1403,University of Adelaide,Adelaide,SA,Australia
-INST1404,Department of Mathematics; Northeastern University,Shenyang,Liaoning,China
-INST1405,East China Normal University(China),"Shanghai,China",Shanghai,China
-INST1406,Harbin University of Science and Technology,Harbin,Heilongjiang,China
-INST1407,Guangdong Polytechnic Normal University,Guangzhou,Guangdong,China
-INST1408,Shandong University of Science and Technologyï¼ŒChina,Qingdao City,Shandong Province,China
-INST1409,Huaiyin Normal University,Huaian,Jiangsu,China
-INST1410,Air Force Engineering University,Xi'an,Shaanxi,China
-INST1411,Chongqing University of Science &Technology,Chongqing,,China
-INST1412,Chongqing University of Science & Technology,Chongqing,,China
-INST1413,Shandong university,Jinan,Shandong province,China
-INST1414,Nanjing Agricultural University,Nanjing,Jiangsu,China
-INST1415,shaanxi university of technology,hanzhong,Shaanxi,China
-INST1416,University Of Shanghai For Science and Technology,Shanghai,Shanghai,China
-INST1417,Qinghai University,Xining,Qingha,China
-INST1418,Xi'an University of Architecture and Technology,Xiâ€™An,ShaanXi,China
-INST1419,Luoyang Normal University,Luoyang,Henan,China
-INST1420,South China University of Technology,Guangzhou,Guabgdong,China
-INST1421,Qingdao University of Science and Technology,Qingdao,Shandong,China
-INST1422,ZheJiang University,Hangzhou,Zhejiang,China
-INST1423,Fudan Univerity,Shanghai,,China
-INST1424,Sichuan Agriculture University,WENJIANG,SICHUAN,China
-INST1425,Undergraduate,Beijing,Beijing,China
-INST1426,Xi'an university of architecture & technology,Xi'an,Shannxi,China
-INST1427,"Beijing Institute of Technology, Zhuhai",Zhuhai,Guangdong,China
-INST1428,City University of Hong Kong,City University of Hong Kong,,Hong Kong
-INST1429,"Beijing Institute of Technology, Zhuhai",Zhuhai,,China
-INST1430,Seattle University,Seattle,WA,USA
-INST1431,Nanjing College of Information Technology,Nanjing,Jiangsu,China
-INST1432,Harbin University of Science and Technology Rongcheng,Rongcheng,Shandong,China
-INST1433,Officers College of CAPF,chengdu,sichuan,China
-INST1434,Nanjing Agricultural University,NanJing,JiangSu,China
-INST1435,Zhongnan University of Economics and Law,Wuhan,HuBei,China
-INST1436,Nanjing Foreign Language School,Nanjing,Jiangsu,China
-INST1437,Shenzhen University,Shenzhen,Select One,China
-INST1438,Southern Medical University,Guangzhou,Guangdong,China
-INST1439,Telkom University,Bandung,Indonesia,Indonesia
-INST1440,Hainu University,Haikou,Hainan,China
-INST1441,Shandong University,Jinan,Shandong China,China
-INST1442,Shanghai Maritime University,Shanghai,Shanghai,China
-INST1443,Huanggang Normal University,Huanggang,Hubei Province,China
-INST1444,Sichuan Agricultural University,Chengdu,sichuan,China
-INST1445,Ocean Univercity of China,Qingdao City Shandong Province,,China
-INST1446,Northwestern Polytechnical University,xi 'an,shanxi,China
-INST1447,"Qinggong College, Hebei United University",Tangshan,Hebei,China
-INST1448,Guangdong University Of foreign Studies,Guangzhou,Guangdong,China
-INST1449,Xi'an University Of Architecture and Technology,Xi'an,Shanxi,China
-INST1450,West Anhui University,Luâ€˜an,Anhui,China
-INST1451,Tianjin University of Finance and Economics,TianJin,TianJin,China
-INST1452,University of Jinan,Jinan,Shandong,China
-INST1453,Sun Yat-sen University,GUANGZHOU,GUANGDONG,China
-INST1454,Wuhan Univ.,Wuhan,Hubei,China
-INST1455,Soochow university,Suzhou,,China
-INST1456,Shanghai University,Shanghai,China,China
-INST1457,Linyi Number 7 middle school,Linyi,Shandong Provience,China
-INST1458,Shanghai Jiao Tong University,Shanghai,Asia,China
-INST1459,undergraduate,hangzhou,zhejiang,China
-INST1460,China University of Mining and Technology-Beijing,Beijing,,China
-INST1461,Xiamen University,Xiamen,Fujian Province,China
-INST1462,NANKAI UNIVERSITY,tian jin,tianjin,China
-INST1463,Sichuan Normal University Chengdu College,Chengdu,Sichuan,China
-INST1464,GuangDong Ocean University,Zhan Jiang,Guangdong,China
-INST1465,GuangDong Ocean University,Zhan Jiang,Guang Dong,China
-INST1466,Linnaeus University,Vaxjo,kronoberg,Sweden
-INST1467,NANKAI UNIVERSITY,TianJin,TianJin,China
-INST1468,Dezhou University,Dezhou,Shandong,China
-INST1469,Mount St. Mary's University,Emmitsburg,MD,USA
-INST1470,East China Normal University,Shanghai,Minhang,China
-INST1471,Virginia Tech,Blacksburg,VA,USA
-INST1472,ZhongKai University of Agriculture and Engineering,GuangZhou,GuangDong,China
-INST1473,minzu univercity of china,beijing,Asia,China
-INST1474,Jilin University of Finance and Economics,Changchun,Jilin,China
-INST1475,NANKAI UNIVERSITY,TIANJIN,TIANJIN,China
-INST1476,Central University of Finance and Ecomomics,Beijing,Not Applicable,China
-INST1477,Nantong University,NANTONG,JIANGSU,China
-INST1478,Indiana University Bloomington,Bloomington,IN,USA
-INST1479,University of Wisconsin Milwaukee,Milwaukee,WI,USA
-INST1480,Guangdong University of Foreign Studies,Guangzhou,Guangdong province,China
-INST1481,Louisiana Tech University,Ruston,LA,USA
-INST1482,East China University of Political Science and Law,Shanghai,Songjiang,China
-INST1483,Ohio University,Athens,OH,USA
-INST1484,Miami University,Oxford,OH,USA
-INST1485,Maryville College,Maryville,TN,USA
-INST1486,University of Utah,Salt Lake City,UT,USA
-INST1487,Duke University,Durham,NC,USA
-INST1488,University of Liverpool,Liverpool,Merseyside,United Kingdom
-INST1489,Wells College,Aurora,NY,USA
-INST1490,Smith College,Northampton,MA,USA
-INST1491,University of Denver,Denver,CO,USA
-INST1492,Ithaca College,Ithaca,NY,USA
-INST1493,University of Ontario Institute of Technology,Oshawa,Ontario,Canada
-INST1494,Roanoke College,Salem,VA,USA
-INST1495,University of Minnesota Duluth,Duluth,MN,USA
-INST1496,Cal Poly Pomona,Pomona,CA,USA
-INST1497,Olin College,Needham,MA,USA
-INST1498,Kansas Wesleyan University,Salina,KS,USA
-INST1499,Wentworth Institute of Technology,Boston,MA,USA
-INST1500,Randolph College,Lynchburg,VA,USA
-INST1501,The College of Idaho,Caldwell,ID,USA
-INST1502,Regis University,Denver,CO,USA
-INST1503,Metropolitan State University of Denver,Denver,CO,USA
-INST1504,Cornell College,Mount Vernon,IA,USA
-INST1505,Georgia College,Milledgeville,GA,USA
-INST1506,The College of Wooster,Wooster,OH,USA
-INST1507,College of Wooster,Wooster,OH,USA
-INST1508,Snake River HS,Blackfoot,ID,USA
-INST1509,Youngstown State University,Youngstown,OH,USA
-INST1510,Kenyon College,Gambier,OH,USA
-INST1511,Research Institution for computational science and Engineering,Hangzhou,,China
-INST1512,Shandong University of Technology,Zibo,Shandong Province,China
-INST1513,Qingdao agricultural university,Qingdao,Shandong,China
-INST1514,Qingdao Agricultural University,Qingdao,Shandong,China
-INST1515,Shandong university of science and technology,Shandong Qingdao,,China
-INST1516,Nanjing Forestry University,Nanjing,,China
-INST1517,Shandong University of Technology,Zibo,Shangdong,China
-INST1518,Chongqing University of Science and Technology,é‡�åº†,ChongQing,China
-INST1519,Soochow universuty,Suzhou,,China
-INST1520,Zhongnan University of Economics and Law,Wuhan,China,China
-INST1521,Wuhan University,"Wuchang, Wuhan",Hubei Province,China
-INST1522,Syracuse University,Syracuse,NY,USA
-INST1523,Tianjin university,Tianjin,Tianjin,China
-INST1524,Qingdao Agricultural Universiry,Qingdao,Shandong,China
-INST1525,Shandong Jianzhu University,Jinan,Shandong,China
-INST1526,Nantong University,NanTong,JiangSu,China
-INST1527,Sun Yat-sen University,Zhuhai,,China
-INST1528,Shaanxi Electronic Technical College,Xi'an,SHAANXI,China
-INST1529,School of Information,Beijing,,China
-INST1530,East China University of Science and Technology,Shanghai,,China
-INST1531,Hangzhou Normal University,Hangzhou,zhejiang,China
-INST1532,Fujian University of Technology,Fuzhou,Fujian,China
-INST1533,ISS of Wuhan University,Wuhan,Hubei Province,China
-INST1534,Beijing University of Chemical Technology,"Chaoyang District, Beijing",Beijing,China
-INST1535,Beijing University of Chemical Technology,"Caoyang District,",Beijing,China
-INST1536,Bejing University of Chemical Technology,Chaoyang District,Beijing,China
-INST1537,Shanghai university,Shanghai,,China
-INST1538,Beijing University of Chemical Technology,Chaoyang District,Beijing,China
-INST1539,Yanshan University,Qinhuangdao,Hebei,China
-INST1540,Northeast Normal University,Changchun,,China
-INST1541,Jinhua Polytechnic,Jinhua,Zhejiang,China
-INST1542,NANTONG UNIVERSITY,NANTONG,JIANGSU,China
-INST1543,Shanghai Normal University,Shanghai,,China
-INST1544,Hong Kong Baptist University,Kowloon,,Hong Kong
-INST1545,Nanjing University,Nanjing,Qixia,China
-INST1546,Shanghai Maritime University,Shanghai,,China
-INST1547,chongqing university of posts and telecommunications,ChongQing,ChongQing,China
-INST1548,Inner Mongolia University of Finance and Economics,Hohhot,Inner Mongolia,China
-INST1549,"University of International Business and Economics, School of Finance",Beijing,,China
-INST1550,Huaibei Normal University,Huaibei,Anhui,China
-INST1551,Xinjiang University,Urumqi,Xinjiang,China
-INST1552,Shandong University,Jinan Shandong Province,Shandong Province,China
-INST1553,Xinjiang University,Urumqi,XinJiang,China
-INST1554,henan normal university,xinxiang,henan,China
-INST1555,Air Force Logistics College,Xuzhou,Jiangsu Province,China
-INST1556,GuangDong Vocational College of Environmental Protetion Engineering,FoShan,GuangDong Province,China
-INST1557,Henan normal University,xinxiang,henan,China
-INST1558,University of Cambridge,Cambridge,,United Kingdom
-INST1559,Jinshan College of Fujian Agriculture and Forestry University,Fuzhou,Fujian,China
-INST1560,Shenzhen Middle School,Shenzhen,Guangdong,China
-INST1561,Soochow University,Suzhou,,China
-INST1562,Universitat AutÃ²noma de Barcelona,Bellaterra,Barcelona,Spain
-INST1563,Universitat AutÃ²noma de Barcelona,Bellaterra,,Spain
-INST1564,Zhejiang A&F University,Hangzhou,Zhejiang,China
-INST1565,ZHEJIANG UNIVERSITY,shanghai,shanghai,China
-INST1566,Dalian Polytechnic University,Dalian,Liaoning Province,China
-INST1567,"Zhejiang University, China","Hangzhou, Zhejiang Province",,China
-INST1568,the Capital Normal University,Beijing,Asia,China
-INST1569,Nottingham Trent University,Nottingham,,United Kingdom
-INST1570,Chongqing University of Technology,Chongqing,,China
-INST1571,shenzhen unviersity,Shenzhen,Guandong,China
-INST1572,Chongqing University of Technology,Chongqing,Chongqing,China
-INST1573,Southwest jiaotong University,Chengdu,Sichuan,China
-INST1574,Chengdu College of Univ. of Elec. Sci. and Tech. of China,Chengdu,Sichuan,China
-INST1575,Wuhan University,"Wuchang,Wuhan",Hubei,China
-INST1576,University of Stirling,Stirling,,Scotland
-INST1577,Maggie Walker Governors School,Richmond,VA,USA
-INST1578,Northeast Agricultural University,Harbin,Heilongjiang,China
-INST1579,Ocean University of China,QingDao,ShangDong,China
-INST1580,Bucknell University,Lewisburg,PA,USA
-INST1581,Westminster College,New Wilmington,PA,USA
-INST1582,University of Science And Techology Of China,HeFei,AnHui,China
-INST1583,Nankai university,Tianjin,Tianjin,China
-INST1584,Virginia Military Institute,Lexington,VA,USA
-INST1585,Scuola Monotecnica Superiore Dongemenese,Beijing Dongcheng District,Municipality of Beijing,China
-INST1586,Clarkson University,Potsdam,NY,USA
-INST1587,Appalachian State University,Boone,NC,USA
-INST1588,Brown University,Providence,RI,USA
-INST1589,Carnegie Mellon University,Pittsburgh,PA,USA
-INST1590,Saint Louis University,St. Louis,MO,USA
-INST1591,University of San Diego,San Diego,CA,USA
-INST1592,Illinois Institute of Technology,CHICAGO,IL,USA
-INST1593,Tufts University,Medford,MA,USA
-INST1594,Minnesota State University Moorhead,Moorhead,MN,USA
-INST1595,Xavier University,Cincinnati,OH,USA
-INST1596,The University of Western Ontario,London,ON,Canada
-INST1597,University of Kentucky,Lexington,KY,USA
-INST1598,Mercer University,Macon,GA,USA
-INST1599,Sewanee: the University of the South,Sewanee,Tennessee,USA
-INST1600,Amherst College,Amherst,MA,USA
-INST1601,University of West Georgia,Carrollton,GA,USA
-INST1602,Midlands Technical College,Columbia,SC,USA
-INST1603,Rhodes College,Memphis,TN,USA
-INST1604,Carroll College,Helena,MT,USA
-INST1605,Lafayette College,Easton,PA,USA
-INST1606,University of Texas at Austin,Austin,TX,USA
-INST1607,Eastern Michigan University,Ypsilanti,MI,USA
-INST1608,York University,Toronto,Ontario,Canada
-INST1609,Asbury University,Wilmore,KY,USA
-INST1610,University of Pittsburgh,Pittsburgh,PA,USA
-INST1611,Georgia Southern University,Statesboro,GA,USA
-INST1612,Dalton State College,Dalton,GA,USA
-INST1613,Richard Stockton College of New Jersey,Galloway,NJ,USA
-INST1614,Southern Connecticut State University,New Haven,CT,USA
-INST1615,University of Minnesota,Minneapolis,MN,USA
-INST1616,Colby College,Waterville,ME,USA
-INST1617,Ramapo College of New Jersey,Mahwah,NJ,USA
-INST1618,PLA University of Science and Technology,Nanjing,Jiangsu,China
-INST1619,Emory University,Atlanta,GA,USA
-INST1620,Southeastern Oklahoma State University,Durant,OK,USA
-INST1621,Shenyang University,Shenyang,Liaoning,China
-INST1622,Anhui University of Technology,Ma'anshan,,China
-INST1623,Xiamen University of Technology,Xiamen,Fujian,China
-INST1624,UC Berkeley,Berkeley,CA,USA
-INST1625,Universidad Autonoma de Yucatan,Merida,Yucatan,mexico
-INST1626,university,Tianjing,Tianjing,China
-INST1627,South China University of Technology,GuangZhou,GuangDong,China
-INST1628,Nanchang Institute of Technology,Nanchang,Jiangxi,China
-INST1629,Xi'an University of Finance & Economics,Xi'an,Shaanxi,China
-INST1630,Liaoning Normal University,Dalian,Liaoning,China
-INST1631,Jiangnan University,Wuxi,Jiangsu,China
-INST1632,Dongbei University of Finance and Economics,Dalian,LiaoNing,China
-INST1633,Yichun University,Yichun,Jiangxi,China
-INST1634,"School of Mathematical Sciences,Nanjing Normal University",Nanjing,Jiangsu,China
-INST1635,Sun Yat-sen University,Guang zhou,Guang dong,China
-INST1636,Southwest petroleum university,Chengdu,,China
-INST1637,Colorado State University,Fort Collins,CO,USA
-INST1638,The Stony Brook School,Stony Brook,NY,USA
-INST1639,Wuxi Big Bridge Academy,Wuxi,Jiangsu,China
-INST1640,Davidson College,Davidson,NC,USA
-INST1641,Slippery Rock University,Slippery Rock,PA,USA
-INST1642,Xiâ€™an University of Finance & Economics,Xi'an,Shaanxi,China
-INST1643,Shandong University of Finance and Economics,Jinan,Shandong Province,China
-INST1644,Northwest University for Nationalities,Lanzhou,Gansu,China
-INST1645,Cornell University,Ithaca,NY,USA
-INST1646,XI'AN UNIVERSITY OF FINANCE AND ECONOMICS,XI'an,Shaanxi,China
-INST1647,Wuhan Uniersity,Wuhan,Hubei,China
-INST1648,Hefei Normal University,Hefei,Anhui,China
-INST1649,Rensselaer Polytechnic Institute,Troy,NY,USA
-INST1650,Beijing Wuzi University,Beijing,Beijing,China
-INST1651,University of Sci&Tech of China,Hefei,Anhui,China
-INST1652,"International Institute of Information Technology, Hyderabad",Hyderabad,Telangana,India
-INST1653,University of Helsinki,Helsinki,N/A,Finland
-INST1654,Paivola School of Mathematics,Tarttila,,Finland
-INST1655,Northwest University for Nationalities,Gansu,Lanzhou,China
-INST1656,Albion College,Albion,MI,USA
-INST1657,Ocean University of China,qingdao,Shandong,China
-INST1658,Shandong Experimental High School,Jinan,Shandong,China
-INST1659,Zhejiang university,Hangzhou,Zhejiang,China
-INST1660,College of Mobile Telecommunications. Chongqing University of Posts and Telecom.,Chongqing,,China
-INST1661,QuFu Normal University,Ji ning,Shan Dong,China
-INST1662,Maths,Shanghai,,China
-INST1663,University of Central Florida,Orlando,FL,USA
-INST1664,"Northwestern Polytechnical University, P.R.CHINA",XI'AN,SHAANXI,China
-INST1665,Kwangwoon University,Seoul,,South Korea
-INST1666,Shandong University,æµŽå�—å¸‚,å±±ä¸œçœ�,China
-INST1667,Zhengzhou University,Zheng zhou,He nan,China
-INST1668,University of Maryland,College Park,MD,USA
-INST1669,Bard College,Annandale-on-Hudson,NY,USA
-INST1670,Beihang Univeristy,Beiing,,China
-INST1671,"University of Minnesota, Twin Cities",Minneapolis,MN,USA
-INST1672,Missouri Southern State University,Joplin,MO,USA
-INST1673,Coe College,Cedar Rapids,IA,USA
-INST1674,Penn State Abington,Abington,PA,USA
-INST1675,The Pennsylvania State University,University Park,PA,USA
-INST1676,Illinois Institute of Technology,Chicago,IL,USA
-INST1677,Purdue University,West Lafayette,IN,USA
-INST1678,University of Wisconsin - La Crosse,La Crosse,WI,USA
-INST1679,Winthrop University,Rock Hill,SC,USA
-INST1680,Georgetown University,Washington,DC,USA
-INST1681,Salisbury University,Salisbury,MD,USA
-INST1682,Morehead State University,Morehead,KY,USA
-INST1683,University of Oklahoma,Norman,OK,USA
-INST1684,Sonoma State University,Rohnert Park,CA,USA
-INST1685,Oregon State University,Corvallis,OR,USA
+INST0009,Nankai University,Tianjin,Tianjin,China
+INST0010,Shanghai University of Electric Power,Shanghai,,China
+INST0011,Huazhong Agricultural University,Wuhan,Hubei,China
+INST0012,South-west Jiaotong University,CHENGDU,SICHUAN,China
+INST0013,BNU-HKBU United International College,Zhuhai,Guangdong,China
+INST0014,Tianjin University of Commerce,Tianjin,China Mainland,China
+INST0015,High School Affiliated to People's University (RDFZ),Beijing,,China
+INST0016,South Western University of Finance and Economics,Chengdu,Sichuan,China
+INST0017,Huazhong Agriculture University,WuHan,Hubei,China
+INST0018,shenyang jianzhu university,shenyang,Liaoning,China
+INST0019,Idaho State University,Pocatello,ID,USA
+INST0020,University of Science and Technology of China,Hefei,Anhui,China
+INST0021,Nankai University,Tianjin Province,,China
+INST0022,Northwestern Polytechnical University,Xi'an,Shaanxi,China
+INST0023,Tongji University,shanghai,Shanghai,China
+INST0024,SUN YAT-SEN UNIVERSITY,GUANG ZHOU,Guang dong,China
+INST0025,Shijiazhuang Tiedao University,Shijiazhuang,Hebei,China
+INST0026,Wu Han University,Wuhan,Hubei,China
+INST0027,Fudan University,Shanghai,Shanghai,China
+INST0028,Shanxi University,Taiyuan,Shanxi,China
+INST0029,South-Central University for Nationalities,WuHan,HuBei,China
+INST0030,Chongqing University,Chongqing,Chongqing,China
+INST0031,South China Normal University,Guangzhou,Guangdong,China
+INST0032,Economics,beijing,beijing,China
+INST0033,East China University Of Science And Technology,Shanghai,Shanghai,China
+INST0034,Beijing National Day School,Beijing,,China
+INST0035,Beijing University of Aeronautics and Astronautics,Beijing,Beijing,China
+INST0036,.Renmin University of China,Beijing,Beijing,China
+INST0037,school of mathematics,shanghai,shanghai,China
+INST0038,University of International Business and Economics,Beijing,China,China
+INST0039,Shandong Institute of Business and Technology,Yantai,Shandong,China
+INST0040,Officer's college of CAPF,ChengDu,SiChuan,China
+INST0041,"School of Information, Renmin University of China",Beijing,Beijing,China
+INST0042,Panzhihua University,Pan Zhihua,SiChuan,China
+INST0043,Peking University,Beijing,Beijing,China
+INST0044,Donghua University,Shanghai,Shanghai,China
+INST0045,Beijing Normal University,Beijing,China,China
+INST0046,East China Institute of Technology,Nanchang,Jiangxi,China
+INST0047,Guangdong University of Foreign Studies,Guangzhou,Guangdong,China
+INST0048,Capital University of Economics and Business,Beijing,Beijing,China
+INST0049,Institute of Microelectronics,Beijing,Beijing,China
+INST0050,"Nankai university ,China",Tianjing,Tianjing,China
+INST0051,Lanzhou university,lanzhou,Gansu,China
+INST0052,Nanjing University,"Haian,Nantong",Jiangsu,China
+INST0053,Xi'an University of Posts and Telecommunications,Xi'an,Shaanxi,China
+INST0054,Southern Medical University,Guangzhou,Guangdong Province,China
+INST0055,Harbin Institute of Technology,Harbin,Heilongjiang,China
+INST0056,Sichuan University,Chengdu,Chengdu,China
+INST0057,Dalian Maritime University,Dalian,Liaoning,China
+INST0058,Zhejiang University,Hangzhou,Zhejiang,China
+INST0059,Zhongnan University of Economics and Law,Wuhan,Hubei,China
+INST0060,ZUEL,wuhan,hubei,China
+INST0061,East China Normal University,Shanghai,Shanghai,China
+INST0062,Shanxi University,"Taiyuan , Shanxi",,China
+INST0063,"FuYang Normal College, AnHui, China.",FuYang,,China
+INST0064,"Fuyang Normal College, Anhui province, China.",Fuyang,yingzhou,China
+INST0065,Shanghai Jiao Tong University,Shanghai,Shanghai,China
+INST0066,Shanghai Jiao Tong University,Shang Hai,Shang Hai,China
+INST0067,North China Electric Power University,Baoding,Hebei Province,China
+INST0068,Hainan University,HaiKou,HaiNan,China
+INST0069,School of Electrical Engineering,Wuhan,Hubei,China
+INST0070,Sacred Heart University,Fairfield,CT,USA
+INST0071,"School of Engineering, Sun Yat-Sen University",Guangzhou,Guangdong,China
+INST0072,South China Normal University,Guangzhou City,Guangdong,China
+INST0073,WuHan University Of Tecnology,WuHan,HuBei,China
+INST0074,Shandong University of Science and Technology,Qingdao,P.R.China,China
+INST0075,Shenyang Pharmaceutical University,Benxi,Liaoning,China
+INST0076,"School of Reliability and Systems Engineering,Beihang University",Beijing,Beijing,China
+INST0077,Yunnan Normal University,Kunming,Yunnan Province,China
+INST0078,Columbia University,New York,NY,USA
+INST0079,South China Agricultural University,Guangzhou,Guangdong,China
+INST0080,Tianjin University of Commerce,Tianjin,Tianjin,China
+INST0081,the city college of jilin jianzhu university,Changchun City,jilin,China
+INST0082,Beijing University of Technology,Beijing,Beijing,China
+INST0083,Southwestern University of Finance and Economics,ChengDu,Wenjiang,China
+INST0084,Taiyuan University,jinzhong,shanxi,China
+INST0085,Dalian Institute of Science and Technology,Dalian,Liaoning,China
+INST0086,Inner Mongolia Agricultural University,Hohhot,,China
+INST0087,Dongbei University of Finance and Economics,Dalian,Liaoning Province,China
+INST0088,University of International Business and Economics,Beijing,Beijing,China
+INST0089,University of International Business and Economy,Beijing,Chaoyang,China
+INST0090,University of International Business and Economics of China,Beijing,,China
+INST0091,Shanghai Universtiy of Finance and Economics,Shanghai,,China
+INST0092,Undergraduate course,Xi'an,Shan Xi,China
+INST0093,Hefei No.8 high school,Hefei,Anhui,China
+INST0094,RENMIN UNIVERSITY of CHINA,Beijing,China,China
+INST0095,Beijing Normal University,Beijing,Beijing,China
+INST0096,Communication University of China,Beijing,,China
+INST0097,Civil Aviation University of China,Tianjin,TianJin,China
+INST0098,"College of Science, Northeastern University, China",Shenyang,Liaoning,China
+INST0099,Southeast University,NANJING,JIANGSU,China
+INST0100,University of International Business and Economics,Beijing,Asia,China
+INST0101,Xiamen University,Xiamen,Fujian,China
+INST0102,South-Central University for Nationalities,Wu han,Hu bei,China
+INST0103,University of Internetional Business and Economics,Beijing,Beijing,China
+INST0104,Shanghai University of Financial & Economics,Shanghai,,China
+INST0105,Hexi University,Zhangye,Gansu,China
+INST0106,Beijing Institute of Technology,Beijing,Beijing,China
+INST0107,Nanjing University,Nanjing,Jiangsu,China
+INST0108,Xi'an University of Architecture and Technology,Xi' an,Shaanxi,China
+INST0109,University of Shanghai for Science and Technology,Shanghai,Shanghai,China
+INST0110,Universith of International Business and Economics,Beijing,,China
+INST0111,Southwest University of Finance and Economics,Chengdu,Sichuan,China
+INST0112,University of Business and Economics,Beijing,Beijing,China
+INST0113,Nanjing University,Nanjing,Jiangsu Province,China
+INST0114,Cheng Yi College of Jimei University,Xiamen,Fujian,China
+INST0115,USTC,Hefei,Anhui,China
+INST0116,university of international business and economics,Beijing China,Beijing,China
+INST0117,"University of International Business and Economics, China",Beijing,Beijing,China
+INST0118,UIBE,Beijing,Beijing,China
+INST0119,Shanghai Jiao Tong Univeresity,Shanghai,Shanghai,China
+INST0120,Sichuan Uinversity,Chengdu,Sichuan,China
+INST0121,Sun Yat-sen University&Peking University&Peking University,Guangzhou,,China
+INST0122,School of Statistics,Beijing,,China
+INST0123,Shandong university,Jinan,Shandong,China
+INST0124,Sichuan University,Chengdu,SichuanÂ ,China
+INST0125,Guangdong University of Finance,Guangzhou,GuangDong,China
+INST0126,Nanjing University of Information Science & Technology,"Nanjing,Jiangsu Province",,China
+INST0127,Zhejiang University,Hang Zhou,Zhe Jiang,China
+INST0128,Wheaton College (IL),Wheaton IL,IL,USA
+INST0129,Heilongjiang College of Construction,Harbin,Heilongjiang,China
+INST0130,Shenyang Normal University,Shenyang,Liaoning,China
+INST0131,Ningxia University,Yinchuan,the Ningxia Hui Autonomous Region,China
+INST0132,Minzu University of China,Beijing,Beijing,China
+INST0133,Shiyuan College of Guangxi Teachers Education University,Nanning,Guangxi,China
+INST0134,Beijing Normal University,Bei Jing,Bei Jing,China
+INST0135,Yangtze University,Jingzhou,Hubei,China
+INST0136,Nanjing University of Information Science and Technology,Nanjing,Jiangsu,China
+INST0137,Hangzhou Normal University,Hangzhou,Zhejiang,China
+INST0138,Changchun University of Science and Technology,Changchun,Jilin,China
+INST0139,Nanjing University of Information Science & Technology,Nanjing,Jiangsu,China
+INST0140,Heilongjiang University,Harbin,Heilongjiang,China
+INST0141,Changchun University of Science and Technology,Changchun,Ji Lin,China
+INST0142,Zhongnan University Of Economics And Laws,Wuhan,Hubei,China
+INST0143,He'nan Normal University,xinxiang,Henan,China
+INST0144,Central University of Finance and Ecomomics,Beijing,Asia,China
+INST0145,"State University of New York, University at Buffalo",Buffalo,NY,USA
+INST0146,Huazhon university of science and technology,Wuhan,Hubei,China
+INST0147,North China ELectric Power University,Beijing,BEIJING,China
+INST0148,BeijingÂ UniversityÂ ofÂ Post and Telecommunication,Beijing,Beijing,China
+INST0149,School of Mathematics,BeiJing,,China
+INST0150,Kunming University of Science and Technology,Kunming,Yunnan,China
+INST0151,Sichuan Agricultural University,Ya'an,Sichuan,China
+INST0152,South University of Science and Technology of China,Shenzhen,Guangdong,China
+INST0153,University of Science and Technology Beijing,Beijing,Beijing,China
+INST0154,University of International and Economics,Beijing,,China
+INST0155,Universitiy of International Business and Economics,Beijing,,China
+INST0156,University of International Business and Economics,Beijing,Chaoyang,China
+INST0157,Southeast University,Nanjing,Jiangsu Provience,China
+INST0158,The University of International Business and Economics,Being,,China
+INST0159,University of International Business and Econmics,Beijing,Beijing,China
+INST0160,Shandong University of Science and Technology,Qingdao,Shandong,China
+INST0161,IUPUI,Indianapolis,IN,USA
+INST0162,Anqing Normal University,Anqing,Anhui,China
+INST0163,Ningbo University,Ningbo,ZheJiang,China
+INST0164,Southeast University,Nanjing,Jiangsu Province,China
+INST0165,Statistic,Beijing,,China
+INST0166,Zhengzhou University,Zhengzhou,Henan,China
+INST0167,University of International Business and Economics,Beijng,,China
+INST0168,University of International and Business Economics,"Beijing,China",,China
+INST0169,University of Colorado Boulder,Boulder,CO,USA
+INST0170,"Beijing Normal University, Zhuhai",Zhuhai,Guangdong,China
+INST0171,"Beijing Normal University, Zhuhai",Zhuhai City,Guangdong,China
+INST0172,The University of International Business and Economics,Beijing,Beijing,China
+INST0173,University of International Business&Economics,Beijing,Beijing,China
+INST0174,Chengdu University of Information Technology,Chengdu City,Si Chuan Province,China
+INST0175,"Math Institution ,Beihang University",Beijing,China,China
+INST0176,"No. 10, Huixin Dongjie, Chaoyang District, Beijing, P.R. China",Beijing,Beijing,China
+INST0177,Beijing Forestry University,Beijing,Beijing,China
+INST0178,Beihua University,Jilin,Jilin,China
+INST0179,Minzu University of China,Beijng,,China
+INST0180,School of mathematics and statistics,Beijing,Beijing,China
+INST0181,PLA Imformation Engineering University,ZhengZhou,HeNan,China
+INST0182,Xi'an University of architecture and technology,Xi'an,Shanxi,China
+INST0183,Shandong Normal University,Jinan,Shandong,China
+INST0184,Tianjin University of Science and Technology,TianJin,TianJin,China
+INST0185,Inner Mongolia University,Hohhot,Inner Monglia,China
+INST0186,University of International Business and Economy,Beijing,Beijing,China
+INST0187,Qingdao Technical Colleage,Qingdao,Shandong,China
+INST0188,Undergraduate course,Beijing,Beijing,China
+INST0189,Heilongjiang University,Harbin,Heilongjiang Province,China
+INST0190,Hohai University,Nanjing,Jiangsu,China
+INST0191,"National Engineering Research Center for Multimedia Software, Wuhan University",Wuhan,Hubei,China
+INST0192,Guangdong University of Technology,Guangzhou,Guangdong,China
+INST0193,East China Normal University,Shanghai,East China,China
+INST0194,SOUTH WEST JIAOTONG UNIVERSITY,CHENG DU,SI CHUAN,China
+INST0195,Economics,Beijing,Bejing,China
+INST0196,Shanghai University of Finance and Ecomonics,Shanghai,,China
+INST0197,China University of Geosciences (Wuhan),Wuhan,Hubei,China
+INST0198,South China Normal University,Guang Zhou,Guang Dong,China
+INST0199,University,Beijing,,China
+INST0200,Sichuan Agriculture University,Chengdu,Sichuan,China
+INST0201,Anhui University Of Science & Technology,Huainan,Anhui,China
+INST0202,SYSU,Guangzhou,Guangzhou,China
+INST0203,The University Of International Business Economics,Beijing,Beijing,China
+INST0204,Qinghai University,Xining,Qinghai,China
+INST0205,Zhengzhou University,Zhengzhou,Henan Province,China
+INST0206,Shanghai University of Finanace and Economics,Shanghai,Shanghai,China
+INST0207,Business School of the University of International Business and Economics,Beijing,Beijing,China
+INST0208,"Heilongjiang University, China",Harbin,Heilongjiang,China
+INST0209,Tianjin Foreign Studies University,Tianjin,Tianjin,China
+INST0210,South China University of Technology,Guangzhou,Guangdong,China
+INST0211,East China Normal University,Shang Hai,Shang Hai,China
+INST0212,Harbin Institute of Technology,Weihai,Shandong,China
+INST0213,Central China Normal University,Wuhan,HUBEI,China
+INST0214,Southeast University,Nanjing,Jiangsuprovince,China
+INST0215,Tsinghua University,Beijing,China,China
+INST0216,Heilongjiang Institute of Technology,"Harbin,Heilongjiang Province,China",Heilongjiang,China
+INST0217,Shenyang Aerospace University,Shenyang,Liaoning,China
+INST0218,China Pharmaceutical University,Nanjing City,Jiangsu,China
+INST0219,XIDIAN UNIVERSITY,Xi'an,Shaanxi,China
+INST0220,South China Normal University,"Guangzhou, Guangdong, China",,China
+INST0221,Renmin University,Beijing,Beijing,China
+INST0222,Shenyang University,ShenYang,LiaoNing,China
+INST0223,Nankai University,"Nankai, Tianjin",Tianjin,China
+INST0224,Tian Jin University,TianJin,TianJin,China
+INST0225,"School of Mathematical Sciences, Beijing Normal University",Beijing,Beijing,China
+INST0226,South China Normal Univercity,Guangzhou,China,China
+INST0227,Dalian University of Technology,Dalian,Liaoning,China
+INST0228,Central University of Finance and Ecomomics,Beijng,,China
+INST0229,Nanjing University of Posts and Telecommunications,Nanjing,JiangSu,China
+INST0230,Huangzhong University of Science and Technology,Wuhan,Hubei,China
+INST0231,South China Institute of Software Engineering. GU,Guangzhou,Guangdong,China
+INST0232,Ocean University of China,Shandong,Qingdao,China
+INST0233,College of Petroleum Engineering,Qingdao,Shandong,China
+INST0234,Henan Normal University,Xin'xiang,Henan Province,China
+INST0235,The Huazhong University of Science and Technology,Wuhan,Hubei Province,China
+INST0236,China University of Geosciences,Wuhan,Hubei,China
+INST0237,Ocean University of China,Tsingtao,Shandong,China
+INST0238,Shanghai University of Finance & Economics,Shanghai,Shanghai,China
+INST0239,professor,Beijing,,China
+INST0240,BeiJing University Of Post And Telecommunication,Beijing,Haidian,China
+INST0241,China University of Petroleum,Qingdao,Shandong,China
+INST0242,Ocean University of China,Qingdao,Shandon,China
+INST0243,Changsha University,Changsha,Hunan,China
+INST0244,Jinjiang College of Sichuan University,meishan,Sichuan,China
+INST0245,Ocean University of China,Qingdao,Shandong,China
+INST0246,University of Michigan-Shanghai Jiao Tong University Joint Institute,Shanghai,,China
+INST0247,Sichuan Normal University,Chengdu,Sichuan,China
+INST0248,Wuhan University of Science and Technology,Wuhan,Hubei,China
+INST0249,Zhejiang University,Ningbo,Zhejiang,China
+INST0250,Jilin University,Changchun,Jilin Province,China
+INST0251,Jilin University of Finance and Economics,Changchun,Jinlin,China
+INST0252,China University of Petroleum (East China),Qingdao,Shandong,China
+INST0253,shenyang pharmaceutical university,Shenyang,liaoning,China
+INST0254,Sichuan University Jinjiang College,meishan,Sichuan,China
+INST0255,Huazhong University of Science & Technology,Wuhan,Hubei,China
+INST0256,Tsinghua University,Haidian,Beijing,China
+INST0257,South China University of China,Guangzhou,,China
+INST0258,Huazhong University Of Science & Technlology,Wuhan,Hubei,China
+INST0259,South China Normal University,Qingdao,Shandong,China
+INST0260,Zhejiang University,Hangzhou,Zhejiang Province,China
+INST0261,Tsinghua University,Beijing,Beijing,China
+INST0262,Tsinghua Univeristy,Beijing,Beijing,China
+INST0263,Jilin University.,Changchun,Jilin,China
+INST0264,shanghai Normal University,shanghai,China,China
+INST0265,Zhejiang Normal University,Jinhua,Zhejiang,China
+INST0266,Stanford University,Stanford,CA,USA
+INST0267,University of Macau,macau,macau,China
+INST0268,Yunnan University,Kunming,Yunnan,China
+INST0269,Tianjin University of Technology and Education,Tianjin,Tianjin,China
+INST0270,Hebei University of Technology,Tianjin,Tianjin,China
+INST0271,Hebei Normal University,Shijiazhuang,Hebei,China
+INST0272,Ocean university of China,Qingdao,Sandong,China
+INST0273,China University of Petroleum,Qingdao city,Shandong,China
+INST0274,North China Electric Power University Baoding,Baoding,Hebei,China
+INST0275,Huazhong University of Science and Technology,Wuhan,Hubei,China
+INST0276,Capital Medical University,Beijing,Beijing,China
+INST0277,Zhongnan University of Economics and Law,Wuhan,Hubei province,China
+INST0278,Luoyang Institute of Science and Technology,Luoyang,Henan,China
+INST0279,Shanghai university of finace and economic,Shanghai,Shanghai,China
+INST0280,Informantion Engineering,Dalian,Liaoning,China
+INST0281,Iinformantion Engineering,Dalian,Liaoning,China
+INST0282,Changchun architecture &civil engineering college,Changchun,Jilin,China
+INST0283,Shandong Agricultural University,Tai'an City,Shandong,China
+INST0284,South China Normal University,Guangzhou,Guangdong Province,China
+INST0285,Sun Yat-sen University,Zhuhai,Guangdong,China
+INST0286,Shenyang Ligong University,Shenyang,Liaoning,China
+INST0287,Information Engineering,Dalian,Liaoning,China
+INST0288,Harbin University of Commerce,Harbin,Heilongjiang,China
+INST0289,Chongqing Normal University,Chongqing,Chongqing,China
+INST0290,China University of Geoscience (Wuhan),Wuhan,Hubei,China
+INST0291,Lanzhou University of Technology,Lanzhou,Gansu,China
+INST0292,Lan Zhou University of Technology,Lan Zhou,Gansu,China
+INST0293,South China Agricultural University,Guangzhou,Tianhe,China
+INST0294,Lan Zhou University of Technology,Lan Zhou,Gan Su,China
+INST0295,Southwestern University of Finance and Economy,Chengdu,SiChuan,China
+INST0296,China Three Gorges University,Yichang,Hubei,China
+INST0297,East China University of Political Science and Law,Shanghai,Shanghai,China
+INST0298,Shenyang Agricultural University,SHENYANG,LIAONING,China
+INST0299,University of South China,Hengyang,Hunan,China
+INST0300,Peking University,Peking,Peking,China
+INST0301,Shandong Univercity,Jinan,Shandong Province,China
+INST0302,SUNY New Paltz University,New Paltz,NY,USA
+INST0303,"University of California, Los Angeles",Los Angeles,CA,USA
+INST0304,Chongqing University,Shapingba district,Chongqing,China
+INST0305,Dalian University,Dalian city,liaoning,China
+INST0306,SHANGHAI UNIVERSITY OF FINANCE AND ECONAMICS,SHANGHAI,SHANGHAI,China
+INST0307,Ocean University of China,Qingdao,Shangdong province,China
+INST0308,University of Science and Technology of China (USTC),Hefei,Anhui,China
+INST0309,TianJin University,TianJin China,TianJin,China
+INST0310,Naval Aeronautical and Astronautical University,Yantai,Shandong,China
+INST0311,Tianjin Polytechnic University,Tianjin,Tianjin,China
+INST0312,"College of Science, North China University of Technology",Beijing,Beijing,China
+INST0313,China University of Petroleum,Beijing,Beijing,China
+INST0314,Liaoning University,Shenyang,Liaoning,China
+INST0315,Tianjin University of Finance and Economics,Tianjin,Tianjin,China
+INST0316,Gansu Agricultural University,Lanzhou,Gansu,China
+INST0317,Southwest Jiaotong University Hope College Â ,Chengdu,Sichuan,China
+INST0318,Beijing Technology and Business University,Beijing,,China
+INST0319,Beijing Technology and Business University,Beijng,,China
+INST0320,Central University of Finance and Ecomomics,BEIJING,BEIJING,China
+INST0321,Shandong University(Weihai),Weihai,Shandong,China
+INST0322,Southwestern University of Finance and Economics,Chengdu,Sichuan Province,China
+INST0323,"The school of management, University of Science and Technology of China",Hefei,Anhui,China
+INST0324,The University of Texas at Dallas,Richardson,TX,USA
+INST0325,University of Manchester,Manchester,Manchester,United Kingdom
+INST0326,Milligan College,Milligan College,TN,USA
+INST0327,Northwestern Polytechnical University,xi 'an,Shanxi,China
+INST0328,University of Electronic Science and Technology of China,Chengdu,Sichuan,China
+INST0329,Shanghai Experimental School,Shanghai,Shanghai,China
+INST0330,City University of Hong Kong,Kowloon,,Hong Kong
+INST0331,Changsha University of Science & Technology,Changsha,Hunan,China
+INST0332,nanjing university of finance&economics,nanjing,jiangsu,China
+INST0333,Berlin School of Economics and Law,Berlin,Berlin,Germany
+INST0334,Southwestern University of Finance and Economics,Chengdu,Si Chuan Province,China
+INST0335,University of Science and Technology of China,"Hefei, Anhui",,China
+INST0336,Nanjing University,Nanjing,China,China
+INST0337,Tianjin University of Finance and Economics,Tianjin,China,China
+INST0338,Ordos Collegeï¼ŒInner Mongolia University,Erdos,Inner Mongolia Autonomous Region,China
+INST0339,Shenyang Institute of Engineering,Shenyang,Liaoning,China
+INST0340,College of Applied Science.Jiang Xi University of Science and Technology,Ganzhou,Jiang Xi,China
+INST0341,Jilin University of Finance and Economics,Changchun,Jilin Province,China
+INST0342,Southwest Jiaotong University,"E'meishan,Leshan",Sichuan,China
+INST0343,Chung Yuan Christian University,Chung Li,,Taiwan
+INST0344,China University of Political Science and Law,Beijing,Beijing,China
+INST0345,"College of Biochemical Engineering,Beijing Union University",Beijing,Beijing,China
+INST0346,Zhejiang Sci-Tech University,Hangzhou,Zhejiang Province,China
+INST0347,ShanDong University of Science and Technology4 years,Qingdao,Shandong,China
+INST0348,Minzu University of China,Beijing,China,China
+INST0349,Western Washington University,Bellingham,WA,USA
+INST0350,Dalian Nationalities University,Dalian,China,China
+INST0351,Dalian Nationalities University,Dalian,LIAONING,China
+INST0352,DaLian JiaoTong University,Dalian,Liaoning,China
+INST0353,University of International Relations,Beijing,Beijing,China
+INST0354,China University of Political science and Law,BEJING,,China
+INST0355,People's Public Security University of China,Beijing,Beijing,China
+INST0356,Chengdu University of Technology,Chengdu,Sichuan,China
+INST0357,Dongbei University of Finance and Economics,Dalian,Liaoning,China
+INST0358,Henan University of Science and Technology,Luoyang,Henan,China
+INST0359,Xi'an University of Finance and Economics,XI'AN,Shaanxi,China
+INST0360,School of Mathematical and Physical Science,Beijing,,China
+INST0361,Century College of Beijing University of Posts and Telecommunications,Beijing,Beijing,China
+INST0362,Central China Normal University,Wuhan,China,China
+INST0363,NC School of Science and Mathematics,Durham,NC,USA
+INST0364,Woodside Priory School,Portola Valley,CA,USA
+INST0365,Capital University of Economics and Business,BEI JING,BEI JING,China
+INST0366,Business College of Shanxi University,Taiyuan,Shanxi,China
+INST0367,Southwestern university of Finance and Economics,Chengdu,China,China
+INST0368,East China University of Science and Technology,Shanghai,Fengxian,China
+INST0369,Henan Polytechnic University,Jiaozuo City,Henan Province,China
+INST0370,Southwestern University of Finance and Economincs,Chengdu,Sichuan,China
+INST0371,Shenyang Agriculture University,Shenyang,Liaoning,China
+INST0372,Shaanxi University of Technology,Hanzhong,Shaanxi,China
+INST0373,Chongqing Technology and Business University,Chongqing,,China
+INST0374,Xijing University,Xi'an,Shaanxi,China
+INST0375,University of Macau,Macau,Macau SAR,China
+INST0376,P.R.China Beijing Normal University,Beijing,Beijing,China
+INST0377,Henan Normal University,Xinxiang,Henan Province,China
+INST0378,Sichuan University,Sichuan,,China
+INST0379,Mathematics,Shanghai,Shanghai,China
+INST0380,Beihai College of Beihang University,Beihai,Guangxi,China
+INST0381,UCSB,Santa Barbara,CA,USA
+INST0382,Loyola University Maryland,Baltimore,MD,USA
+INST0383,Wake Forest University,Winston Salem,NC,USA
+INST0384,Wesleyan College,Macon,GA,USA
+INST0385,"School of Architecture and Civil Engineering,Nantong University",Nan Tong,JiangSu,China
+INST0386,Beijing University of Techonolgy,Beijing,Beijing,China
+INST0387,College of science,Shanghai,Shanghai,China
+INST0388,"Shanghai Jiaotong University, China",Shanghai,Shanghai,China
+INST0389,New York University,New York,NY,USA
+INST0390,"China University of Petroleum, Beijing",Beijing,,China
+INST0391,Hexi Univercity,Zhangye,Gansu,China
+INST0392,Southwestern University of Finance and Economic,Chengdu,Sichuan,China
+INST0393,Beijing Normal University,Beijing,HaiDian,China
+INST0394,Northwest University,Xiâ€™an,Shaanxi Province,China
+INST0395,Northwest University,Xi'an,Shaanxi Province,China
+INST0396,South-Central University for Nationalities,Haidian District,Beijing,China
+INST0397,Jilin University,Changchun City,Jilin Province,China
+INST0398,Northwest A&F University,Yangling,Shannxi Province,China
+INST0399,Southwestern University of Financial and Economics,Chengdu,SiChuan,China
+INST0400,Shanghai University,Shanghai,Shanghai,China
+INST0401,Shandong University of Finance and Economics,Jinan,China,China
+INST0402,Shenzhen Polytechnic,Shenzhen,GuangDong,China
+INST0403,Qilu University Of Technology,Jinan,Shandong,China
+INST0404,Central South University,Changsha,Hunan,China
+INST0405,China Three Gorges University,Yi Chang,HuBei,China
+INST0406,Zhejiang University,Hangzhou City,Zhejiang Province,China
+INST0407,Shandong Jiaotong University,Ji Nan,Shan Dong,China
+INST0408,Qingdao University,Qingdao,Shandong,China
+INST0409,Software Engineering,ShangHai,,China
+INST0410,South Western University of Finance and Economics,"Chengdu City,Sichuan Province",,China
+INST0411,Shaanxi University of Science & Technology,Xi'an,,China
+INST0412,Anhui University of Finance and Economics,Bengbu,Anhui,China
+INST0413,Beijing Language and Culture University,Beijing,Beijing,China
+INST0414,Hohai University Changzhou Campus,Changzhou,Jiangsu,China
+INST0415,City University of Hong Kong,Hong Kong,,China
+INST0416,Southwest University of Science and Technology,Mianyang,Sichuan,China
+INST0417,Sichuan Agricultural University,Yaan,Sichuan,China
+INST0418,Hohai University Wentian College,Maanshan,Anhui,China
+INST0419,Shanghai Univisity,Shanghai,Shanghai,China
+INST0420,Hohai University,Changzhou,JiangSu,China
+INST0421,Shanghai univercity,Shanghai,Shanghai,China
+INST0422,Central University of Finance and Ecomomics,Beijing,Beijing Municipality,China
+INST0423,Shanghai Jiading No.1 High School,Shanghai,Shanghai,China
+INST0424,Department of Mathematics,Shanghai,,China
+INST0425,QuFu Normal University,Qufu,Shandong,China
+INST0426,Shanghai Lixin University of Commerce,Shanghai,,China
+INST0427,Shanghai University,Shanghai,baoshan,China
+INST0428,Wuhan Polytechnic University,Wuhan,Hubei,China
+INST0429,Beijing Jiaotong University,Beijing,,China
+INST0430,Sichuan University,Wuxi,,China
+INST0431,shanghai,shanghai,shanghai,China
+INST0432,Xi'an Jiaotong University,Xi'an,Shaanxi,China
+INST0433,USMA,West Point,NY,USA
+INST0434,Nantong University,Nantong,Jiangsu,China
+INST0435,HARBIN ENGINEERING UNIVERSITY,HARBIN,HEILONGJIANG,China
+INST0436,Chong Qing University,Shapingba,ChongQing,China
+INST0437,Neijiang Normal University,Neijiang,Sichuan,China
+INST0438,China University of Petrolem(Beijing),Beijing,Beijing,China
+INST0439,Beijing Institute of Technology,Beijing,Bejing,China
+INST0440,Liaoning Technical University,Huludao,Liaoning,China
+INST0441,Xi'an Jiaotong-Liverpool University,Suzhou,Jiangsu,China
+INST0442,Xiangtan University,Xiangtan,Hunan,China
+INST0443,Jiangxi Agricultural University,Nanchang,Jiangxi,China
+INST0444,Changchun University Of Science and Technology,Changchun,Jinlin,China
+INST0445,Nanjing Tech University,Nanjing,Jiangsu,China
+INST0446,HuNan University,Changsha,HuNan,China
+INST0447,Dalian Polytechnic University,Dalian,Liaoning,China
+INST0448,Foshan University,Foshan,Guangdong,China
+INST0449,Chengdu Technological University,chengdu,Sichuan,China
+INST0450,Shanghai University of International Business and Economics,Shanghai,Shanghai,China
+INST0451,Shanghai University of International Business and Economics,Shanghai,Songjiang,China
+INST0452,Peking University,Beijing,China,China
+INST0453,Virginia Western,Roanoke,VA,USA
+INST0454,Anhui Jianzhu University,Hefei,Anhui,China
+INST0455,Peking Univ.,Beijing,Beijing,China
+INST0456,"Sun Yat-sen University, Guangzhou",Guang Zhou,Asia,China
+INST0457,Bethel University,Arden Hills,MN,USA
+INST0458,Linfield College,McMinnville,OR,USA
+INST0459,China Jiangsu University,Zhenjiang,Jiangsu,China
+INST0460,Shanghai Finance University,Shanghai,,China
+INST0461,Wuhan University of technology,Wuhan,Hubei,China
+INST0462,EAST CHINA NORMAL UNIVERSITY,Shanghai,China,China
+INST0463,shaanxi university of technology,han zhong,shaanxi,China
+INST0464,Jilin University,Changchun,Jinlin,China
+INST0465,Henan University of Economics and Law,Zhengzhou,Henan,China
+INST0466,ShanDong University of Technology,ZiBo,ShanDong,China
+INST0467,Shenzhen Institute of Information Technology,Shenzhen,GuangDong,China
+INST0468,SKH Bishop Mok Sau Tseng Secondary School,Hongkong,Hongkong,China
+INST0469,BeiJing University Of Post And Telecommunication,Beijing,Asia,China
+INST0470,Sichuan University,"Chengdu, Sichuan",,China
+INST0471,Nanjing Tech Uinversity,Nanjing,Jiangsu,China
+INST0472,Chongqing University of Posts and Telecommunications,Chongqing,Chongqing,China
+INST0473,Shanghai Institute of Technology,Shanghai,Shanghai,China
+INST0474,Southwestern University of Finance and Economics,CHENGDU CITI,SICHUAN PROVINCE,China
+INST0475,"Tianjin University, People's Republic of China",Tianjin,,China
+INST0476,Shanghai Institute of Technology,shang hai,,China
+INST0477,Dalian Ocean University,Dalian,Liaoning,China
+INST0478,Sichuan University,Chendu,Sichuan,China
+INST0479,Nankai University,Tianjin City,Tianjin,China
+INST0480,Anhui University,Hefei,Anhui,China
+INST0481,Washington and Lee University,Lexington,VA,USA
+INST0482,Pacific Lutheran University,Tacoma,WA,USA
+INST0483,Cupertino High School,Cupertino,CA,USA
+INST0484,Chongqing Jiaotong University,Chongqing,Nanping,China
+INST0485,Shaoguan University,Shaoguan,Guangdong,China
+INST0486,Nankai University,Tianjin,Aisa,China
+INST0487,The Engineering & Technical college of Chengdu University of Technology,LESHAN,Sichuan Province,China
+INST0488,"Shanxi University, People's Republic of China",Taiyuan,Shanxi Province,China
+INST0489,"Taizhou Institute of Sci.&Tech.,NUST",Taizhou,,China
+INST0490,"Hunan University of Humanities,Science and Technology",Loudi,Hunan,China
+INST0491,Nanjing Normal University Taizhou College,Taizhou,,China
+INST0492,Tianjin University,Tianjin,China,China
+INST0493,Nanjing University of Aeronautics and Astronautics,Nanjing,Jiangsu,China
+INST0494,Guangzhou University,Guangzhou,Guangdong Province,China
+INST0495,"school of architecture civil engineering, Nantong University",Nantong,JiangSu,China
+INST0496,Qingdao Univrsity,Qingdao,Shandong,China
+INST0497,Shanghai University of Finance and Economics,Shanghai,P.R.China,China
+INST0498,Peking University,"Beijing,China",,China
+INST0499,Shanghai University of Finance & Economics (P R CHINA),Shanghai,,China
+INST0500,Yantai University,Yantai,Shandong,China
+INST0501,Montana Tech,Butte,MT,USA
+INST0502,Renmin University of China,Beiijing,Beijing,China
+INST0503,Chengdu Shishi Cambridge A-level Center,Chengdu,,China
+INST0504,Math School,Xiamen,Fujian,China
+INST0505,Shanghai University,Baoshan,Shanghai,China
+INST0506,Huzhou University,Huzhou,Zhejiang,China
+INST0507,Shandong University,Jinan,Shandong Province,China
+INST0508,Madonna University,Livonia,MI,USA
+INST0509,"The University of Tennessee, Knoxville",Knoxville,TN,USA
+INST0510,Liaoning Shihua University,Fushun,Wanghua,China
+INST0511,Nanjing University of Posts&Telecommunications,Nanjing,Jiangsu,China
+INST0512,Nanjing University of Posts & Telecommunications,Nanjing,Jiangshu,China
+INST0513,Central University of Finance and Ecomomics,Bejing,Bejing,China
+INST0514,Huizhou University,Huizhou,Guangdong,China
+INST0515,Eastern Oregon University,La Grande,OR,USA
+INST0516,Second Military Medical University,Shanghai,Yangpu,China
+INST0517,SouthwesternÂ UniversityÂ of Finance and Economics,Chengdu,Sichuan,China
+INST0518,Inner Mongolia University of Technology,Hohhot,Inner Mongolia,China
+INST0519,"Nankai University,China",Tianjin,Tianjin,China
+INST0520,Peking University,Beijing,"Beijing, P.R.CHINA",China
+INST0521,BeiJing University Of Post And Telecommunication,Beijing,Bejing,China
+INST0522,"Software Engineering Institute, East China Normal University",Shanghai,Shanghai,China
+INST0523,National University of Singapore,Singapore,,Singapore
+INST0524,NanChang Aeronautical University,NanChang,JiangXi,China
+INST0525,Henan University of Science & Technology,Luoyang,Henan,China
+INST0526,Nankai University,Tianjin China,,China
+INST0527,School of Digital Media and Design Art,Beijing,,China
+INST0528,Civil Aviation University of China,Tianjin,Dongliqu,China
+INST0529,University of Science & Technology Beijing,Beijing,Beijing,China
+INST0530,North China Electric poewr university,Bejing,Beijing,China
+INST0531,Suzhou University of Science and Technology,Jiangsu,Suzhou,China
+INST0532,WENZHOU UNIVERSITY,WENZHOU,ZHEJIANG,China
+INST0533,Ocean University of China,Qingdao City,Shandong Province,China
+INST0534,Jilin University,Chang Chun,Ji Lin Province,China
+INST0535,Dongguan University of Technology,Dongguan,Guangdong,China
+INST0536,Sun Yat-sen University,Guangzhou,Guangdong Province,China
+INST0537,Northeaster University (China),Shenyang,,China
+INST0538,Hefei University of Technology,Hefei,Anhui,China
+INST0539,SJTU-ParisTech Elite Institute of Technology,Shanghai,Shanghai,China
+INST0540,China Welfare Institute,Shanghai,Shanghai,China
+INST0541,College of Science and Technology of China Three Gorges University,YiChang,HuBei,China
+INST0542,Southwestern University of Finance and Economics,City: Chengdu,Sichuan,China
+INST0543,"University of Science and Technology,Beijing(USTB)",Beijing,Beijing,China
+INST0544,Southwest Jiaotong University,Chengdu,Sichuan Province,China
+INST0545,Southwest University,Beibei,Chongqing,China
+INST0546,Southwest Jiaotong University,Chengdu city,Sichuan,China
+INST0547,Hainan University,Danzhou,Hainan,China
+INST0548,Wuhan Universty,Wuhan,Hubei,China
+INST0549,"Tianjin University, China",Tianjin,Tianjin,China
+INST0550,Shenzhen University,Shenzhen,Guangdong Province,China
+INST0551,Henan normal university,Henan,XinXiang,China
+INST0552,Ocean University of China,Qindao,Shandong,China
+INST0553,Jiangsu Jianzhu Institute,Xuzhou,Jiangsu,China
+INST0554,Shandong University of Finance and Economics,Jinan,Shandong,China
+INST0555,Shanghai Jiao Tong University,SHANGHAI,CHINA,China
+INST0556,Henan Polytechnic University,Jiaozuo,Henan,China
+INST0557,LongDong University,Qingyang,Gausu,China
+INST0558,Henan Polytechnic University,Jiaozuo,Henan Province,China
+INST0559,Shandong University,Ji'nan,Shandong,China
+INST0560,Shanxi Medical University,Taiyuan,Shanxi,China
+INST0561,Shanghai University of Finance and Economics,SHANG HAI,,China
+INST0562,Software Engineering Institute,Shanghai,China,China
+INST0563,Huaqiao University,Quan Zhou,Feng Ze,China
+INST0564,Shangdong university,Jinan,Shandong Province,China
+INST0565,Guilin University of Electronic Technology,Guilin,Guangxi,China
+INST0566,Information,Beijing,,China
+INST0567,NKU School of Mathematical Science,Tianjin,Tianjin,China
+INST0568,Northeast Petroleum University,Daqing,Heilongjiang,China
+INST0569,Nankai University,Tianjin,China,China
+INST0570,Hebei University,Baoding,Hebei,China
+INST0571,University of Illinois,Urbana,IL,USA
+INST0572,Institute of Information Technology of Guilin University of Electronic Technology,Guilin,Guangxi,China
+INST0573,"Taishan University,China",Taian,Shandong,China
+INST0574,Liaoning Technical Universty,Fuxin,,China
+INST0575,Heilongjiang University of science and technology,Harbin,Heilongjiang,China
+INST0576,Sichuan University,Chengdu,Sichuan Province,China
+INST0577,Shanghai University of Finance and Economy,Shanghai,Shanghai,China
+INST0578,University of Science and Technology Beijing,Beijing,Asia,China
+INST0579,"Department of Economics, Minzu University of China",Beijing,Beijing,China
+INST0580,"University of International Bussiness and Economy,Beijing,China",Beijing,,China
+INST0581,College of Computer and Control Engineering,Tian Jin,,China
+INST0582,Xi'an Shiyou University,Xi'an,Shannxi,China
+INST0583,Hebei Normal University,Shijiazhuang,Hebei Province,China
+INST0584,Northeast Yucai Foreign Language School,shenyang,Liaoning,China
+INST0585,South China Normal University,Guangzhou,Â Guangdong Province,China
+INST0586,Undergraduate course,Jinan,Shandong Province,China
+INST0587,Dalian Neusoft University of information,Dalian,Liaoning,China
+INST0588,South China University of Technology,Guang Zhou,,China
+INST0589,BeiJing University Of Post And Telecommunication,Haidian,Beijing,China
+INST0590,Hunan Normal University,Changsha,Hunan,China
+INST0591,Sichuan Agricultural University,Du Jiangyan,Sichuan,China
+INST0592,Leshan Normal University,Leshan,Sichuan,China
+INST0593,School of Electronic and Engineering,Beijing,Beijing,China
+INST0594,China University of Petroleum(East China),Qingdao,ShanDong province,China
+INST0595,Wuhan University,Wuhan,Hubei Province,China
+INST0596,National University of defense technology,Changsha,Hunan,China
+INST0597,WUHAN TEXTILE UNIVERSITY,WUHAN,HUBEI,China
+INST0598,Jiangsu Normal University,Xuzhou,Jiangsu,China
+INST0599,Huaqiao University,Fujian,Xiamen,China
+INST0600,Southwestern University of Finance and Economics University,Chengdu,Sichuan,China
+INST0601,Guizhou University,Guiyang,Guizhou,China
+INST0602,Guangxi University,Nanning,Guangxi,China
+INST0603,Henan University of Technology,Zhengzhou,Henan,China
+INST0604,Shenzhen University,Shenzhen,Guangdong,China
+INST0605,Hu Bei University of Economics,Wuhan,Hubei,China
+INST0606,South China Normal University,Guangzhou,Tianhe,China
+INST0607,Nanjing University,Nanjing,Jiangsu Provence,China
+INST0608,Hu Bei Univeristy of Economics,WuHan,HuBei,China
+INST0609,"Zhejiang University, China",Hangzhou,Zhejiang,China
+INST0610,Henan University,Kaifeng,Henan,China
+INST0611,Officer College of Chinese People's Armed Police Force,Chengdu,Sichuan,China
+INST0612,Shanxi Agricultural University,Jinzhong,Shanxi,China
+INST0613,North China Electric Power University,Baoding,Hebei,China
+INST0614,China University of Geosciences (Beijing),Beijing,Beijing,China
+INST0615,Nanyang Normal University,Nanyang,Henan,China
+INST0616,JiangXi University of Science and Technology,Ganzhou,Jiangxi,China
+INST0617,North China Electric Power University Science & Technology College,Baoding,Hebei,China
+INST0618,Qiannan Normal College for Nationalities,Duyun,Guizhou,China
+INST0619,Wuhan University,Wuhan,Select One,China
+INST0620,South China Normal University,Guangzhou,China,China
+INST0621,Wuhan University,Wuhan City,Hubei Province,China
+INST0622,Taiyuan University of Technology,Taiyuan,Shanxi,China
+INST0623,China university of Geosciences,Beijing,Beijing,China
+INST0624,Capital Normal University,Beijing,Beijing,China
+INST0625,Anhui Normal University,Wuhu,Anhui Province,China
+INST0626,Northwest A&F University,Yangling,Shaanxi,China
+INST0627,South China Normal Uniyersity,Guangzhou,Guangdong,China
+INST0628,mathematics,TianJin,TianJin,China
+INST0629,The Capital University of Economics and Business,Beijing,Beijing,China
+INST0630,South China Normal University,Canton,,China
+INST0631,Hendrix College,Conway,AR,USA
+INST0632,Virginia Western Community College,Roanoke,VA,USA
+INST0633,Bloomsburg University,Bloomsburg,PA,USA
+INST0634,Temple University,Philadelphia,PA,USA
+INST0635,Meredith College,Raleigh,NC,USA
+INST0636,Central Washington University,Ellensburg,WA,USA
+INST0637,University of Manchester,Manchester,Great Manchester,United Kingdom
+INST0638,University of St. Thomas,Saint Paul,MN,USA
+INST0639,Ludong University,Yantai,Shandong,China
+INST0640,"School of Architecture and Civil Engineering,Nantong University",NanTong,JiangSu,China
+INST0641,East China Normal University,"Shang Hai, China",,China
+INST0642,Franklin & Marshall College,Lancaster,PA,USA
+INST0643,Xihua University,Chengdu,SiChuan,China
+INST0644,The Southwestern University of Finance and Economics,Chengdu,Sichuan,China
+INST0645,South China Normal University,Guangzhou,Guangzhou,China
+INST0646,Henan Normal University,XinXiang,china,China
+INST0647,Tianjin University,Tianjin,Nankai District,China
+INST0648,Hubei University,Wuhan,Hubei,China
+INST0649,Institut Teknologi Bandung,Bandung,Jabar,Indonesia
+INST0650,Binjiang College of Nanjing University of Information Science & Tecnology,Nanjing,Jiangsu,China
+INST0651,Shanxi University of Finance and Economics,Taiyuan,Shanxi,China
+INST0652,Shandong University of Science & Technology,Taian,Shandong,China
+INST0653,Xi'an University of Architecture and Technology,Xi'an,Shannxi,China
+INST0654,South China Normal University,Guangdong Province,,China
+INST0655,Zhengzhou University Of Light Industry,Zhengzhou,Henan,China
+INST0656,Zhengzhou University of Light Institution,Zhengzhou,Henan,China
+INST0657,Zhengzhou University of Light Industry,Zhengzhou City,Henan province,China
+INST0658,South China University of Technology,Tianhe Distric,Guangzhou,China
+INST0659,Nankai University,Tianjin,Non-US/Non-Canadian,China
+INST0660,Chengdu University of Information Technology,Chengdu,Sichuan,China
+INST0661,Wuhan Univercity,Wuhan,Hubei,China
+INST0662,Chang'an University,Xi'an,Shaanxi,China
+INST0663,Northeastern University,Shenyang,Liaoning,China
+INST0664,University of International Business and Ecomomics,Beijing,Beijing,China
+INST0665,College of Sciences ; Northeastern University,Shenyang,Liaoning,China
+INST0666,Dalian Polytechnic University,DaLian,Liaoning Province,China
+INST0667,Nanjing University of Science and Technology,Nanjing,Jiangsu,China
+INST0668,Yancheng Teachers University,Yancheng,Jiangsu,China
+INST0669,China Univercity of Geosciencesï¼ŒBeijing,Beijing,Beijing,China
+INST0670,Inner Mongolia University For The Nationlities,Tongliao,Inner Mongolia Autonomous Region,China
+INST0671,Guangdong Polytechnic Normal University,guangzhou,Guangdong,China
+INST0672,The Chinese University of Hong Kong,Hong Kong,Hong Kong,China
+INST0673,Shanghai University Of Engineering Science,ShangHai,SongJiang,China
+INST0674,"College of Electronic Information and Optical Engineering, Nankai University",Tianjin,,China
+INST0675,Georgetown College,Georgetown,KY,USA
+INST0676,Union College,Schenectady,NY,USA
+INST0677,Northeastern University at Qinhuangdao,Qinhuangdao,Hebei,China
+INST0678,University of Science and Technology of Beijing,Beijing,,China
+INST0679,Beihang Univeristy,Haidian,Beijing,China
+INST0680,South China Normal University,Guanghzhou,Asia,China
+INST0681,Jiansu Jianzhu University,Xuzhou,Jiangsu,China
+INST0682,JiangXi Normal University,NanChang,JiangXi,China
+INST0683,Xi'an University of Architecture and Technology,Xiâ€˜an,Shaanxi,China
+INST0684,Guangxi Teachers Education University,Nanning,Guangxi,China
+INST0685,Beihang Univeristy,Beijjing,Beijing,China
+INST0686,Sun Yat-Sen University,Guangzhou City,Guangzhou Province,China
+INST0687,Zhejiang University of Science and Technology,Hangzhou,,China
+INST0688,Shihezi University,Xinjiang,Shi Hezi,China
+INST0689,Beijing Information Science & Technology University,Beijing,Haidian,China
+INST0690,Zhejiang University City College,Hangzhou,Zhejiang,China
+INST0691,Zhejiang Gongshang University,Hangzhou,Zhejiang,China
+INST0692,South China Normal Univercity,Guangdong,Asia,China
+INST0693,Hunan University of Commerce,Changsha,Hunan,China
+INST0694,Henan University of Urban Construction,Pingdingshan,Henan,China
+INST0695,North China Electric Power University,Changping,Beijing,China
+INST0696,Yangzhou University,Yangzhou,,China
+INST0697,Jiangxi University of Traditional Chinese Medicine,Nanchang,,China
+INST0698,"121 Zhangjialukou, Huaxiang Fengtai District, Beijing,China",Beijing,Beijing,China
+INST0699,The Hong Kong Polytechnic University,Hong Kong,,Hong Kong
+INST0700,University of Science & Technology of China,Hefei,Anhui,China
+INST0701,Xi'an University of Technology,Xi'an,Shaanxi,China
+INST0702,James Madison University,Harrisonburg,VA,USA
+INST0703,University of Science and Technology of China,"Hefei City,",,China
+INST0704,Xi'an University of Architechture&Technology,Xi'an,Shaanxi,China
+INST0705,School of Computer Science and Techonology,Jinan,Shandong Province,China
+INST0706,Institution of Information Science and Technology,Beijing,China,China
+INST0707,UniversitÃ© de Technologie de CompiÃ¨gne,COMPIEGNE,,France
+INST0708,University of Dayton,Dayton,OH,USA
+INST0709,Goshen College,Goshen,IN,USA
+INST0710,Nankai University,Tian Jin,tianjin,China
+INST0711,New York Institute of Technology,New York,NY,USA
+INST0712,University of New Mexico,Albuquerque,NM,USA
+INST0713,Western Connecticut State University,Danbury,CT,USA
+INST0714,U.S. Air Force Academy,USAF Academy,CO,USA
+INST0715,Lamar University,Beaumont,TX,USA
+INST0716,Erasmus University Rotterdam,Rotterdam,,Netherlands
+INST0717,Northwest Missouri State University,Maryville,MO,USA
+INST0718,The Second Artillery Engineering University,Xi'an,Shaanxi,China
+INST0719,"Shanghai U. of Finance and Economics, School of Economics",Shanghai,Shanghai,China
+INST0720,China Jiliang University,Hangzhou,Zhejiang,China
+INST0721,Huaihai Institute of Technology,Lianyungang,Jiangsu,China
+INST0722,Nanchang University,Nanchang,Jiangxi,China
+INST0723,The Second Artillery Engineering University,Xi'an,Shanxi,China
+INST0724,Zhejiang University,"Hangzhou, Zhejiang Province",,China
+INST0725,Xi'an Eurasia University,Xi'an,Shaanxi,China
+INST0726,University of Science and Technology of China,Heifei,Anhui,China
+INST0727,China Agricultural University,Beijing,,China
+INST0728,University of Shanghai for Science & Technology,Shanghai,Shanghai,China
+INST0729,TIANJIN POLYTECHNIC UNIVERSITY,TIAN JIN,,China
+INST0730,School of information& School of Science,Beijing,,China
+INST0731,Zhejiang Chinese Medical University,Hangzhou,Zhejiang,China
+INST0732,Institution of Thermal Science and Power Systems,HangZhou,ZheJiang,China
+INST0733,PekingUniversity(PKU),Beijing,,China
+INST0734,Renmin Universuty of China,Beijing,Beijing,China
+INST0735,FuZhou College of Foreign Studies and Trade,Fuzhou,Fujian,China
+INST0736,Gannan Normal University,Ganzhou,Jiangxi,China
+INST0737,Guangdong University of Finance and Economics,Guangzhou,Guangdong,China
+INST0738,Guangdong University of Finance & Economics,Guangzhou,Guangdong,China
+INST0739,GuangDong University of Foreign Studies,Guangzhou,GuangDong Province,China
+INST0740,Fuzhou University,Fuzhou,Fujian,China
+INST0741,Fudan University,Shanghai,P.R.China,China
+INST0742,Sichuan Agricultural University,Chengdu,Sichuan,China
+INST0743,Beijing University of Aeronautics and Astronautics,Beijing,Changping,China
+INST0744,Xi'an University of Technology,Xi'an,Shaanxi province,China
+INST0745,China University of Geosciences,Beijing,Haidian District,China
+INST0746,Shanghai Kongjiang High School,Shanghai,,China
+INST0747,Westminster College,Salt Lake City,UT,USA
+INST0748,The University of Edinburgh,Edinburgh,MIdlothian,United Kingdom
+INST0749,Henan Normal University,Henan Xinxiang,China,China
+INST0750,GUANGDONG PHARMACEUTICAL UNIVERSITY,Zhongshan,Guangdong,China
+INST0751,Jacksonville University,Jacksonville,FL,USA
+INST0752,University of Washington,Seattle,WA,USA
+INST0753,University of Wisconsin-Stevens Point,Stevens Point,WI,USA
+INST0754,Humboldt State University,Arcata,CA,USA
+INST0755,Shanghai Foreign Language School,Shanghai,Shanghai,China
+INST0756,Lawrence Technological University,Southfield,MI,USA
+INST0757,Inner Mongolia University For The Nationalities,Tongliao,the Inner Mongolia Autonomous Region,China
+INST0758,BeiJing University Of Post And Telecommunication,Beijing,Haidian Distric,China
+INST0759,"Xitucheng 10th Road, Haidian District.Beijing Univ. of Posts and Telecomm. Beijing, Beijing 100876",Beijing,Beijing,China
+INST0760,Shandong university of finance and economics in China,jinan,,China
+INST0761,"Shenzhen University, China",Shenzhen,Guangdong,China
+INST0762,Shenyang Normal University,Liaoning Province Shenyang City,Asia,China
+INST0763,BeiJing University Of Post And Telecommunication,Beijing,China,China
+INST0764,Heilongjiang University,Harbin,Outside US,China
+INST0765,Beijing Union University,Beijing,Beijing,China
+INST0766,Fudan University,Berkeley,CA,USA
+INST0767,Hangzhou Normal University Qianjiang College,Hangzhou,Zhejiang,China
+INST0768,Xiâ€™an University of Architecture and Technology,Xiâ€™an,Shaanxi Province,China
+INST0769,Hannan University,Haikou,Hainan,China
+INST0770,Fujian Agriculture and Forestry University,Fuzhou,Fujian,China
+INST0771,Renmin University of China,Beijing,Beijing Municipality,China
+INST0772,Beihang Univeristy,Beijng,,China
+INST0773,Institute of Scientific & Engineering Computing,Hangzhou,Zhejiang,China
+INST0774,Hainan University,Haikou,Hainan Province,China
+INST0775,Sun Yat-sen University,Guangzhou City,Guangdong Province,China
+INST0776,Changsha University of Science and Technology,Changsha,Hunan,China
+INST0777,"University of California, San Diego",La Jolla,CA,USA
+INST0778,Wuhan Univ.,Wuhan,Hubei,China
+INST0779,Hunan Police Academy,Changsha,Hunan,China
+INST0780,Guangdong University Of Finance and Economy,Guangzhou,Guangdong,China
+INST0781,Guangdong University of Foreign Studies,guangzhou,guangzhou,China
+INST0782,Beihang Univeristy,Beijing,Beijng,China
+INST0783,University of Science and Technology Liaoning,Anshan,Liaoning,China
+INST0784,Shenyang Institute of Technology,Fushun,Liaoning,China
+INST0785,East China Normal Univeristy,Shanghai,,China
+INST0786,South China Normal University,Shenzhen,Guangdong,China
+INST0787,university,Shanghai,minhang,China
+INST0788,Guangdong University of Finance and Economics,Guangzhou,Guangzhou,China
+INST0789,ZhengzhouÂ University,Zhengzhou,Henan,China
+INST0790,Guangdong University of Finance and Econonmics,Guangzhou,,China
+INST0791,North University of China,Taiyuan,Shanxi,China
+INST0792,X1'an University of Architecture and Technology,Xi'an,Shaanxi,China
+INST0793,Shandong University of Finance and Economics,shandong,jinan,China
+INST0794,Sam Houston State University,Huntsville,TX,USA
+INST0795,Jinan University,Guanghzou,Guangdong,China
+INST0796,Austin Peay State University,Clarksville,TN,USA
+INST0797,Jinan University,Guangzhou,Guangdong,China
+INST0798,Ocean University of China,Qingdao,Shandong Province,China
+INST0799,School of Computer Science and Technology,Jinan,Shandong Province,China
+INST0800,Zhejiang University,Beijing,,China
+INST0801,Zhejiang Industry & Trade Vocational College,Wenzhou,Zhejiang,China
+INST0802,The University of Dallas,Irving,TX,USA
+INST0803,University of North Texas,Denton,TX,USA
+INST0804,University of Michigan,Ann Arbor,MI,USA
+INST0805,Pacific University,Forest Grove,OR,USA
+INST0806,University of Wisconsin-Madison,Madison,WI,USA
+INST0807,University of Cambridge,Cambriddge,,United Kingdom
+INST0808,Binghamton University (SUNY),Binghamton,NY,USA
+INST0809,University of Colorado Denver,Denver,CO,USA
+INST0810,Grand View University,Des Moines,IA,USA
+INST0811,Wartburg College,Waverly,IA,USA
+INST0812,concordia college NY,pleasantville,NY,USA
+INST0813,concordia college NY,bronxville,NY,USA
+INST0814,Indiana University of Pennsylvania,Indiana,PA,USA
+INST0815,Trinity,San Antonio,TX,USA
+INST0816,Clemson University,Clemson,SC,USA
+INST0817,Colorado College,Colorado Springs,CO,USA
+INST0818,Zhejiang University of Technology,Hangzhou,,China
+INST0819,West Anhui University,Luâ€™an,Anhui,China
+INST0820,NORTH CHINA INSTITUTE OF SCIENCE AND TECHNOLOGY,BEIJING,BEIJING,China
+INST0821,China University of Geosciences Beijing,Beijing,Haidian District,China
+INST0822,Jinan University Zhuhai Campus,Zhuhai,GuangDong,China
+INST0823,West Ahui University,Luâ€™an,Anhui,China
+INST0824,Jiangxi University of Finance and Economics,Nanchang,Jiangxi,China
+INST0825,Southwest Jiaotong University,Leshan,SiChuan,China
+INST0826,Xi'an University of Architecture and Technology,Xi'an,Shaanxi Province,China
+INST0827,Zhejiang University of Finance and Economics,Hangzhou,Zhejiang,China
+INST0828,Zhengzhou Information Engineering University,Zhengzhou,Henan,China
+INST0829,Xi'an University of Architecture and Techonology,Xi'an,Shaanxi Province,China
+INST0830,ZaoZhuang University,ZaoZhuang,ShanDong Province,China
+INST0831,SOUTH CHINA UNIVERSITY OF TECHNOLOGY,ShenZhen,GuangDong,China
+INST0832,University of International Business and Economics,"BeiJing,chaoyang district",BeiJing,China
+INST0833,Naval Aeronautical Engineering Institute Qingdao Campus,Qingdao,Shandong,China
+INST0834,Institution of Innovation; Northeastern University,Shenyang,Liaoning,China
+INST0835,Renming University,Beijing,,China
+INST0836,Xinjiang University,Urumchi,Xinjiang Autonomous Region,China
+INST0837,ShuGuang School,Zigong,Sichuan,China
+INST0838,Wuhan University,Wu Han,Hubei Province,China
+INST0839,Northeast Forestry University,Harbin,Heilongjiang,China
+INST0840,Research Center of Control & Simulation; Northeastern University,Shenyang,Liaoning,China
+INST0841,WuYi University,Wuyishan,Fujian,China
+INST0842,Hebei United University,Tangshan,Hebei,China
+INST0843,Department of Mathematics and Institute of Natural Sciences,SHANGHAI,SHANGHAI,China
+INST0844,Xinyang Normal University,Xinyang,Henan,China
+INST0845,Information Engineering University,Zhengzhou,Henan,China
+INST0846,Tianjin University,Nankai,Tianjin,China
+INST0847,Tarim University,alaer,Sinkiang,China
+INST0848,Minzu University of China,Bejing,Beijing,China
+INST0849,School of Materials and Metallurgy; Northeastern University,Shenyang,Liaoning,China
+INST0850,College of Information Science and Engineering; Northeastern University,Shenyang,Liaoning,China
+INST0851,Institute of Metallurgical Resource and Environmental Engineering ; Northeastern University,Shenyang,Liaoning,China
+INST0852,Institute of Mechatronics Engineering; Northeastern University,Shenyang,Liaoning,China
+INST0853,"School of Mechanical Engineering and Automation, Northeastern University",Shenyang,Liaoning,China
+INST0854,Yunnan Normal University,Kunming,Chenggong New District,China
+INST0855,Virtual reality and simulation; Northeastern University,Shenyang,Liaoning,China
+INST0856,Institution of Intelligent Robots and Pattern Recognition; Northeastern University,Shenyang,Liaoning,China
+INST0857,Institute of Artificial Intelligence and Robotics; Northeastern University,Shenyang,Liaoning,China
+INST0858,College of Information Science & Engineering; Northeastern University,Shenyang,Liaoning,China
+INST0859,Pattern Recognition ;Northeastern University,Shenyang,Liaoning,China
+INST0860,Institution of Metallurgy Resources and Environmental Engineering; Northeastern University,Shenyang,Liaoning,China
+INST0861,Materials and metallurgy; Northeastern University,Shenyang,Liaoning,China
+INST0862,Institute of Computer System;Northeastern University,Shenyang,Liaoning,China
+INST0863,Institute of Electrical Engineering and Automation; Northeastern University,Shenyang,Liaoning,China
+INST0864,The Hong Kong Polytechnic University,Kowloon,Hong Kong,China
+INST0865,South China University Of Technology,Guangzgou,,China
+INST0866,Truman State University,Kirksville,MO,USA
+INST0867,Kansas State University,Manhattan,KS,USA
+INST0868,Tianjin Agricultural University,Tinjin,86,China
+INST0869,Key Laboratory of Medical Image Computing; Northeastern University,Shenyang,Liaoning,China
+INST0870,Communication University of ChinaÂ ,Beijing,Beijing,China
+INST0871,Signal and information processing; Northeastern University,Shenyang,Liaoning,China
+INST0872,Robotics and Automation; Northeastern University,Shenyang,Liaoning,China
+INST0873,Sino-Dutch Biomedical and Information Engineering School; Northeastern University,Shenyang,Liaoning,China
+INST0874,Institution of Pattern Recognition ;Northeastern University,Shenyang,Liaoning,China
+INST0875,Shantou University,Shantou,Guangdong,China
+INST0876,Key Laboratory of Ecological Utilization of Multi-metal Intergrown Ores of Ministry of Education &School of Materials and Metall,Shenyang,Liaoning,China
+INST0877,Institution of Software; Northeastern University,Shenyang,Liaoning,China
+INST0878,Southwest Petroleum University,Chengdu City,Sichuan Province,China
+INST0879,Quanzhou Normal University,quanzhou,fujian,China
+INST0880,Sichuan University,Albany,NY,USA
+INST0881,Lehigh University,Bethlehem,PA,USA
+INST0882,Belhaven University,Jackson,MS,USA
+INST0883,Inner Mongolia University,Hohhot,Inner Mongolia Autonomous Region,China
+INST0884,Shandong University of Fianace and Economics,Jinan,Shandong,China
+INST0885,"Shandong University of Science and Technology,",Tai'an city,Shandong province,China
+INST0886,"Ningbo Institute of Technology, Zhejiang University",Ningbo City,Zhejiang,China
+INST0887,Xi'an Aeromautical Polytechnic Institute,Xi'an,Shaanxi,China
+INST0888,Hong Kong University of Science and Technology,Clear Water Bay-Kowloon,,Hong Kong
+INST0889,HuaQiao University,QuanZhou,FuJian,China
+INST0890,HuaQiao University,Quan Zhou,Fu Jian,China
+INST0891,Wuhan University,Wuhan,China,China
+INST0892,School of Mathematics,Chengdu City,Sichuan,China
+INST0893,Huazhong University of Science and Technolog,Wuhan,Hubei,China
+INST0894,China University of Mining and Technology,Xuzhou,Jiangsu,China
+INST0895,"Wuhan University,China","Wuhan,China",Wuhan,China
+INST0896,University of Science and Technology of China,"Hefei, China",,China
+INST0897,Wuhan Universtity,Wuhan,Hubei,China
+INST0898,College of Science,Beijing,,China
+INST0899,Dongbei University of Finance and Economics,"Dalian,China",Dalian,China
+INST0900,Electrical engineering,HangZhou,,China
+INST0901,"School of Mathematical Sciences, Xiamen University",Xiamen,Fujian,China
+INST0902,Tianjin Univ. of Commerce,Tianjin,Tianjin,China
+INST0903,American Heritage School Plantation,Plantation,FL,USA
+INST0904,Huainan Normal University,Huainan,Anhui,China
+INST0905,Mount Holyoke College,South Hadley,MA,USA
+INST0906,Beijing Normal University,Beijing,HaiDian District,China
+INST0907,The University of Business and Economics,Beijing,,China
+INST0908,Univeristy of International Business and Economics,Beijing,,China
+INST0909,Peking University,Beijing,HaiDian,China
+INST0910,College of Software; Northeastern University,Shenyang,Liaoning,China
+INST0911,Institute of Digital media technology; Northeastern University,Shenyang,Liaoning,China
+INST0912,Software College; Northeastern University,Shenyang,Liaoning,China
+INST0913,University of Illinois at Urbana-Champaign,Urbana,IL,USA
+INST0914,Binzhou University,Binzhoou,Shandong,China
+INST0915,Binzhou University,Binzhou,Shandong,China
+INST0916,Guangdong University of Petrochemical Technology,Maoming,Guangdong,China
+INST0917,Jinling Institute of Technology,Nanjing,Jiangsu,China
+INST0918,Hebei Finance University,Baoding,Hebei,China
+INST0919,Liaocheng University,Liaocheng,Shandong,China
+INST0920,HEBEI FANANCE UNIVERSITY,Baoding,Hebei,China
+INST0921,Army Officer Academy,Hefei,Anhui,China
+INST0922,Liaocheng Univ.,Liaocheng,Shandong,China
+INST0923,University of Science and Technoloy of China,Hefei,Anhui,China
+INST0924,Hangzhou Dianzi University,Hangzhou,Zhejiang,China
+INST0925,Nankai University,Tianjin,Nankai,China
+INST0926,Huaqiao University,Xiamen,Fujian,China
+INST0927,The University of Shanghai for Science and Technology,Shanghai,Shanghai,China
+INST0928,Shijiazhuang University,Shijiazhuang,Hebei,China
+INST0929,Shijiazhuang University,Shijiazhuang,Hebei Province,China
+INST0930,Macau University of Science and Technology,Macau,,China
+INST0931,Yunnan Minzu University,kunming,yunnan,China
+INST0932,Faculty of Information Science and Engineering; Northeastern University,Shenyang,Liaoning,China
+INST0933,Shihezi University,Shihezi,Xinjiang,China
+INST0934,School of Science of Tianjin University,Tian Jin,China,China
+INST0935,"Northeastern University, China",Shenyang,Liaoning,China
+INST0936,ShiHeZi University,ShiHiZi,xinjiang,China
+INST0937,School of Information Science and Engineering; Northeastern University,Shenyang,Liaoning,China
+INST0938,Harbin Medical University,Harbin,Hei Long Jiang,China
+INST0939,JiangXi College of Construction,NanChang,JiangXi,China
+INST0940,CentralÂ ChinaÂ NormalÂ University,Wuhan,Hubei,China
+INST0941,Shanghai University for Science and Technology,Shanghai,Shanghai,China
+INST0942,Institution of Maths ; Northeastern University,Shenyang,Liaoning,China
+INST0943,School of Sciences;Northeastern University,Shenyang,Liaoning,China
+INST0944,SOUTHWEST UNIVERSITY FOR NATIONALITIES,CHENGDU,SICHUAN,China
+INST0945,Xuhai College of China University of Mining and Technology,Xuzhou,Jiangsu,China
+INST0946,Huazhong Agricultural University Chutian College,Wuhan,Hubei,China
+INST0947,"Xiamen University,China",Xiamen,Fujian,China
+INST0948,Shenyang University of Technology,Shenyang,Liaoning,China
+INST0949,Xuzhou Institute of Technology,Xuzhou,Jiangsu,China
+INST0950,North China University of Water Resources and Electric Power,Zhengzhou,Henan Province,China
+INST0951,Xiâ€™an University Of Architecture and Technology,Xiâ€™an,Shaanxi,China
+INST0952,"Ningbo Institute of Technology, Zhejiang University",Ningbo,Zhejiang,China
+INST0953,Hubei University of Technology,Wuhan,Hubei Province,China
+INST0954,Taizhou Ploytechnic College,Taizhou,Jiangsu,China
+INST0955,Naval University of Engineering,Wuhan,Hubei,China
+INST0956,Henan Institute of Science and Technology,Xinxiang,Henan,China
+INST0957,Naval University of Engineering,Wuahn,Hubei,China
+INST0958,Teacher,Beijing,Beijing,China
+INST0959,Jinling High School,Nanjing,Jiang Su,China
+INST0960,South-Center University For Nationalities,Wuhan,Hubei Province,China
+INST0961,SiChuan University,Chengdu,Sichaun,China
+INST0962,Physics School of Nankai University,Tianjin,Tianjin,China
+INST0963,"City College, Wuhan University of Science and Technology",Wuhan,Hubei,China
+INST0964,professor,Wuhan,Hubei,China
+INST0965,Chongqing University of Science and Technology,Chongqing,,China
+INST0966,mathematics and systems science institute,Beijing,Beijing,China
+INST0967,Fujian Normal University,Fuzhou,Fujian,China
+INST0968,minzu univercity of China,Beijing,Beijing,China
+INST0969,the Central University of Finance and Economics,Beijing,Beijing,China
+INST0970,University of Delaware,Newark,DE,USA
+INST0971,Kunming University,Kunming,Yunnan,China
+INST0972,University of Richmond,RIchmond,VA,USA
+INST0973,Rose-Hulman Institute of Technology,Terre Haute,IN,USA
+INST0974,Quantitative Economics Research Institute of Nankai University,Tianjin,Tianjin,China
+INST0975,Institution of Mathematics; Northeastern University,Shenyang,Liaoning,China
+INST0976,east china university of political science and law,shanghai,songjiang,China
+INST0977,University at Buffalo (SUNY),Buffalo,NY,USA
+INST0978,Roger Williams University,Bristol,RI,USA
+INST0979,College of Sciences,Shenyang,Liaoning,China
+INST0980,Northern Kentucky University,Highland Heights,KY,USA
+INST0981,Academy of Armored Forces Engineering,Beijing,Beijing,China
+INST0982,University of Nebraska-Lincoln,Lincoln,NE,USA
+INST0983,Institute of Systems Science; Northeastern University,Shenyang,Liaoning,China
+INST0984,Colgate University,Hamilton,NY,USA
+INST0985,Grinnell College,Grinnell,IA,USA
+INST0986,Shippensburg University,Shippensburg,PA,USA
+INST0987,Harvey Mudd College,Claremont,CA,USA
+INST0988,University of Puget Sound,Tacoma,WA,USA
+INST0989,Simpson College,Indianola,IA,USA
+INST0990,"California State University, Fullerton",Fullerton,CA,USA
+INST0991,Bryn Athyn College,Bryn Athyn,PA,USA
+INST0992,Seattle Pacific University,Seattle,WA,USA
+INST0993,South Dakota School of Mines & Technology,Rapid City,SD,USA
+INST0994,University of Minnesota - Twin Cities,"Minneapolis,",MN,USA
+INST0995,Duquesne University,Pittsburgh,PA,USA
+INST0996,Ulster University,Bealfast,Northern Ireland,United Kingdom
+INST0997,University of Wisconsin--River Falls,River Falls,WI,USA
+INST0998,California Polytechnic State University,San Luis Obispo,CA,USA
+INST0999,Dalhousie University,Halifax,Nova Scotia,Canada
+INST1000,University of Adelaide,Adelaide,SA,Australia
+INST1001,Department of Mathematics; Northeastern University,Shenyang,Liaoning,China
+INST1002,East China Normal University(China),"Shanghai,China",Shanghai,China
+INST1003,Harbin University of Science and Technology,Harbin,Heilongjiang,China
+INST1004,Shandong University of Science and Technologyï¼ŒChina,Qingdao City,Shandong Province,China
+INST1005,Huaiyin Normal University,Huaian,Jiangsu,China
+INST1006,Air Force Engineering University,Xi'an,Shaanxi,China
+INST1007,Chongqing University of Science & Technology,Chongqing,,China
+INST1008,Nanjing Agricultural University,Nanjing,Jiangsu,China
+INST1009,Qinghai University,Xining,Qingha,China
+INST1010,Luoyang Normal University,Luoyang,Henan,China
+INST1011,South China University of Technology,Guangzhou,Guabgdong,China
+INST1012,Qingdao University of Science and Technology,Qingdao,Shandong,China
+INST1013,Fudan Univerity,Shanghai,,China
+INST1014,Sichuan Agriculture University,WENJIANG,SICHUAN,China
+INST1015,Undergraduate,Beijing,Beijing,China
+INST1016,Xi'an university of architecture & technology,Xi'an,Shannxi,China
+INST1017,"Beijing Institute of Technology, Zhuhai",Zhuhai,Guangdong,China
+INST1018,City University of Hong Kong,City University of Hong Kong,,Hong Kong
+INST1019,Seattle University,Seattle,WA,USA
+INST1020,Nanjing College of Information Technology,Nanjing,Jiangsu,China
+INST1021,Harbin University of Science and Technology Rongcheng,Rongcheng,Shandong,China
+INST1022,Nanjing Foreign Language School,Nanjing,Jiangsu,China
+INST1023,Shenzhen University,Shenzhen,Select One,China
+INST1024,Southern Medical University,Guangzhou,Guangdong,China
+INST1025,Telkom University,Bandung,Indonesia,Indonesia
+INST1026,Hainu University,Haikou,Hainan,China
+INST1027,Shandong University,Jinan,Shandong China,China
+INST1028,Shanghai Maritime University,Shanghai,Shanghai,China
+INST1029,Huanggang Normal University,Huanggang,Hubei Province,China
+INST1030,Ocean Univercity of China,Qingdao City Shandong Province,,China
+INST1031,"Qinggong College, Hebei United University",Tangshan,Hebei,China
+INST1032,University of Jinan,Jinan,Shandong,China
+INST1033,Soochow university,Suzhou,,China
+INST1034,Shanghai University,Shanghai,China,China
+INST1035,Linyi Number 7 middle school,Linyi,Shandong Provience,China
+INST1036,Shanghai Jiao Tong University,Shanghai,Asia,China
+INST1037,undergraduate,hangzhou,zhejiang,China
+INST1038,China University of Mining and Technology-Beijing,Beijing,,China
+INST1039,Xiamen University,Xiamen,Fujian Province,China
+INST1040,Sichuan Normal University Chengdu College,Chengdu,Sichuan,China
+INST1041,GuangDong Ocean University,Zhan Jiang,Guangdong,China
+INST1042,GuangDong Ocean University,Zhan Jiang,Guang Dong,China
+INST1043,Linnaeus University,Vaxjo,kronoberg,Sweden
+INST1044,Dezhou University,Dezhou,Shandong,China
+INST1045,Mount St. Mary's University,Emmitsburg,MD,USA
+INST1046,East China Normal University,Shanghai,Minhang,China
+INST1047,Virginia Tech,Blacksburg,VA,USA
+INST1048,ZhongKai University of Agriculture and Engineering,GuangZhou,GuangDong,China
+INST1049,minzu univercity of china,beijing,Asia,China
+INST1050,Jilin University of Finance and Economics,Changchun,Jilin,China
+INST1051,Central University of Finance and Ecomomics,Beijing,Not Applicable,China
+INST1052,Indiana University Bloomington,Bloomington,IN,USA
+INST1053,University of Wisconsin Milwaukee,Milwaukee,WI,USA
+INST1054,Louisiana Tech University,Ruston,LA,USA
+INST1055,Ohio University,Athens,OH,USA
+INST1056,Miami University,Oxford,OH,USA
+INST1057,Maryville College,Maryville,TN,USA
+INST1058,University of Utah,Salt Lake City,UT,USA
+INST1059,Duke University,Durham,NC,USA
+INST1060,University of Liverpool,Liverpool,Merseyside,United Kingdom
+INST1061,Wells College,Aurora,NY,USA
+INST1062,Smith College,Northampton,MA,USA
+INST1063,University of Denver,Denver,CO,USA
+INST1064,Ithaca College,Ithaca,NY,USA
+INST1065,University of Ontario Institute of Technology,Oshawa,Ontario,Canada
+INST1066,Roanoke College,Salem,VA,USA
+INST1067,University of Minnesota Duluth,Duluth,MN,USA
+INST1068,Cal Poly Pomona,Pomona,CA,USA
+INST1069,Olin College,Needham,MA,USA
+INST1070,Kansas Wesleyan University,Salina,KS,USA
+INST1071,Wentworth Institute of Technology,Boston,MA,USA
+INST1072,Randolph College,Lynchburg,VA,USA
+INST1073,The College of Idaho,Caldwell,ID,USA
+INST1074,Regis University,Denver,CO,USA
+INST1075,Metropolitan State University of Denver,Denver,CO,USA
+INST1076,Cornell College,Mount Vernon,IA,USA
+INST1077,Georgia College,Milledgeville,GA,USA
+INST1078,The College of Wooster,Wooster,OH,USA
+INST1079,College of Wooster,Wooster,OH,USA
+INST1080,Snake River HS,Blackfoot,ID,USA
+INST1081,Youngstown State University,Youngstown,OH,USA
+INST1082,Kenyon College,Gambier,OH,USA
+INST1083,Research Institution for computational science and Engineering,Hangzhou,,China
+INST1084,Shandong University of Technology,Zibo,Shandong Province,China
+INST1085,Qingdao agricultural university,Qingdao,Shandong,China
+INST1086,Shandong university of science and technology,Shandong Qingdao,,China
+INST1087,Nanjing Forestry University,Nanjing,,China
+INST1088,Shandong University of Technology,Zibo,Shangdong,China
+INST1089,Chongqing University of Science and Technology,é‡�åº†,ChongQing,China
+INST1090,Soochow universuty,Suzhou,,China
+INST1091,Zhongnan University of Economics and Law,Wuhan,China,China
+INST1092,Wuhan University,"Wuchang, Wuhan",Hubei Province,China
+INST1093,Syracuse University,Syracuse,NY,USA
+INST1094,Qingdao Agricultural Universiry,Qingdao,Shandong,China
+INST1095,Shandong Jianzhu University,Jinan,Shandong,China
+INST1096,Shaanxi Electronic Technical College,Xi'an,SHAANXI,China
+INST1097,School of Information,Beijing,,China
+INST1098,Fujian University of Technology,Fuzhou,Fujian,China
+INST1099,ISS of Wuhan University,Wuhan,Hubei Province,China
+INST1100,Beijing University of Chemical Technology,"Chaoyang District, Beijing",Beijing,China
+INST1101,Beijing University of Chemical Technology,"Caoyang District,",Beijing,China
+INST1102,Bejing University of Chemical Technology,Chaoyang District,Beijing,China
+INST1103,Beijing University of Chemical Technology,Chaoyang District,Beijing,China
+INST1104,Yanshan University,Qinhuangdao,Hebei,China
+INST1105,Northeast Normal University,Changchun,,China
+INST1106,Jinhua Polytechnic,Jinhua,Zhejiang,China
+INST1107,Hong Kong Baptist University,Kowloon,,Hong Kong
+INST1108,Nanjing University,Nanjing,Qixia,China
+INST1109,Inner Mongolia University of Finance and Economics,Hohhot,Inner Mongolia,China
+INST1110,"University of International Business and Economics, School of Finance",Beijing,,China
+INST1111,Huaibei Normal University,Huaibei,Anhui,China
+INST1112,Xinjiang University,Urumqi,Xinjiang,China
+INST1113,Shandong University,Jinan Shandong Province,Shandong Province,China
+INST1114,Air Force Logistics College,Xuzhou,Jiangsu Province,China
+INST1115,GuangDong Vocational College of Environmental Protetion Engineering,FoShan,GuangDong Province,China
+INST1116,University of Cambridge,Cambridge,,United Kingdom
+INST1117,Jinshan College of Fujian Agriculture and Forestry University,Fuzhou,Fujian,China
+INST1118,Shenzhen Middle School,Shenzhen,Guangdong,China
+INST1119,Universitat AutÃ²noma de Barcelona,Bellaterra,Barcelona,Spain
+INST1120,Zhejiang A&F University,Hangzhou,Zhejiang,China
+INST1121,ZHEJIANG UNIVERSITY,shanghai,shanghai,China
+INST1122,"Zhejiang University, China","Hangzhou, Zhejiang Province",,China
+INST1123,the Capital Normal University,Beijing,Asia,China
+INST1124,Nottingham Trent University,Nottingham,,United Kingdom
+INST1125,Chongqing University of Technology,Chongqing,Chongqing,China
+INST1126,shenzhen unviersity,Shenzhen,Guandong,China
+INST1127,Chengdu College of Univ. of Elec. Sci. and Tech. of China,Chengdu,Sichuan,China
+INST1128,Wuhan University,"Wuchang,Wuhan",Hubei,China
+INST1129,University of Stirling,Stirling,,Scotland
+INST1130,Maggie Walker Governors School,Richmond,VA,USA
+INST1131,Northeast Agricultural University,Harbin,Heilongjiang,China
+INST1132,Ocean University of China,QingDao,ShangDong,China
+INST1133,Bucknell University,Lewisburg,PA,USA
+INST1134,Westminster College,New Wilmington,PA,USA
+INST1135,University of Science And Techology Of China,HeFei,AnHui,China
+INST1136,Virginia Military Institute,Lexington,VA,USA
+INST1137,Scuola Monotecnica Superiore Dongemenese,Beijing Dongcheng District,Municipality of Beijing,China
+INST1138,Clarkson University,Potsdam,NY,USA
+INST1139,Appalachian State University,Boone,NC,USA
+INST1140,Brown University,Providence,RI,USA
+INST1141,Carnegie Mellon University,Pittsburgh,PA,USA
+INST1142,Saint Louis University,St. Louis,MO,USA
+INST1143,University of San Diego,San Diego,CA,USA
+INST1144,Illinois Institute of Technology,CHICAGO,IL,USA
+INST1145,Tufts University,Medford,MA,USA
+INST1146,Minnesota State University Moorhead,Moorhead,MN,USA
+INST1147,Xavier University,Cincinnati,OH,USA
+INST1148,The University of Western Ontario,London,ON,Canada
+INST1149,University of Kentucky,Lexington,KY,USA
+INST1150,Mercer University,Macon,GA,USA
+INST1151,Sewanee: the University of the South,Sewanee,Tennessee,USA
+INST1152,Amherst College,Amherst,MA,USA
+INST1153,University of West Georgia,Carrollton,GA,USA
+INST1154,Midlands Technical College,Columbia,SC,USA
+INST1155,Rhodes College,Memphis,TN,USA
+INST1156,Carroll College,Helena,MT,USA
+INST1157,Lafayette College,Easton,PA,USA
+INST1158,University of Texas at Austin,Austin,TX,USA
+INST1159,Eastern Michigan University,Ypsilanti,MI,USA
+INST1160,York University,Toronto,Ontario,Canada
+INST1161,Asbury University,Wilmore,KY,USA
+INST1162,University of Pittsburgh,Pittsburgh,PA,USA
+INST1163,Georgia Southern University,Statesboro,GA,USA
+INST1164,Dalton State College,Dalton,GA,USA
+INST1165,Richard Stockton College of New Jersey,Galloway,NJ,USA
+INST1166,Southern Connecticut State University,New Haven,CT,USA
+INST1167,University of Minnesota,Minneapolis,MN,USA
+INST1168,Colby College,Waterville,ME,USA
+INST1169,Ramapo College of New Jersey,Mahwah,NJ,USA
+INST1170,PLA University of Science and Technology,Nanjing,Jiangsu,China
+INST1171,Emory University,Atlanta,GA,USA
+INST1172,Southeastern Oklahoma State University,Durant,OK,USA
+INST1173,Anhui University of Technology,Ma'anshan,,China
+INST1174,Xiamen University of Technology,Xiamen,Fujian,China
+INST1175,UC Berkeley,Berkeley,CA,USA
+INST1176,Universidad Autonoma de Yucatan,Merida,Yucatan,mexico
+INST1177,university,Tianjing,Tianjing,China
+INST1178,Nanchang Institute of Technology,Nanchang,Jiangxi,China
+INST1179,Xi'an University of Finance & Economics,Xi'an,Shaanxi,China
+INST1180,Liaoning Normal University,Dalian,Liaoning,China
+INST1181,Jiangnan University,Wuxi,Jiangsu,China
+INST1182,Yichun University,Yichun,Jiangxi,China
+INST1183,"School of Mathematical Sciences,Nanjing Normal University",Nanjing,Jiangsu,China
+INST1184,Southwest petroleum university,Chengdu,,China
+INST1185,Colorado State University,Fort Collins,CO,USA
+INST1186,The Stony Brook School,Stony Brook,NY,USA
+INST1187,Wuxi Big Bridge Academy,Wuxi,Jiangsu,China
+INST1188,Davidson College,Davidson,NC,USA
+INST1189,Slippery Rock University,Slippery Rock,PA,USA
+INST1190,Xiâ€™an University of Finance & Economics,Xi'an,Shaanxi,China
+INST1191,Shandong University of Finance and Economics,Jinan,Shandong Province,China
+INST1192,Northwest University for Nationalities,Lanzhou,Gansu,China
+INST1193,Cornell University,Ithaca,NY,USA
+INST1194,Wuhan Uniersity,Wuhan,Hubei,China
+INST1195,Hefei Normal University,Hefei,Anhui,China
+INST1196,Rensselaer Polytechnic Institute,Troy,NY,USA
+INST1197,Beijing Wuzi University,Beijing,Beijing,China
+INST1198,University of Sci&Tech of China,Hefei,Anhui,China
+INST1199,"International Institute of Information Technology, Hyderabad",Hyderabad,Telangana,India
+INST1200,University of Helsinki,Helsinki,N/A,Finland
+INST1201,Paivola School of Mathematics,Tarttila,,Finland
+INST1202,Northwest University for Nationalities,Gansu,Lanzhou,China
+INST1203,Albion College,Albion,MI,USA
+INST1204,Shandong Experimental High School,Jinan,Shandong,China
+INST1205,College of Mobile Telecommunications. Chongqing University of Posts and Telecom.,Chongqing,,China
+INST1206,QuFu Normal University,Ji ning,Shan Dong,China
+INST1207,Maths,Shanghai,,China
+INST1208,University of Central Florida,Orlando,FL,USA
+INST1209,"Northwestern Polytechnical University, P.R.CHINA",XI'AN,SHAANXI,China
+INST1210,Kwangwoon University,Seoul,,South Korea
+INST1211,Shandong University,æµŽå�—å¸‚,å±±ä¸œçœ�,China
+INST1212,Zhengzhou University,Zheng zhou,He nan,China
+INST1213,University of Maryland,College Park,MD,USA
+INST1214,Bard College,Annandale-on-Hudson,NY,USA
+INST1215,Beihang Univeristy,Beiing,,China
+INST1216,Missouri Southern State University,Joplin,MO,USA
+INST1217,Coe College,Cedar Rapids,IA,USA
+INST1218,Penn State Abington,Abington,PA,USA
+INST1219,The Pennsylvania State University,University Park,PA,USA
+INST1220,Purdue University,West Lafayette,IN,USA
+INST1221,University of Wisconsin - La Crosse,La Crosse,WI,USA
+INST1222,Winthrop University,Rock Hill,SC,USA
+INST1223,Georgetown University,Washington,DC,USA
+INST1224,Salisbury University,Salisbury,MD,USA
+INST1225,Morehead State University,Morehead,KY,USA
+INST1226,University of Oklahoma,Norman,OK,USA
+INST1227,Sonoma State University,Rohnert Park,CA,USA
+INST1228,Oregon State University,Corvallis,OR,USA
