@@ -4,9 +4,9 @@
     <property name="src.dir" value="src"/>
     <property name="build.dir" value="build"/>
     <property name="classes.dir" value="${build.dir}/classes"/>
-    <property name="main.class" value="ContestResultsSplitter"/>
     <property name="javac.release" value="21"/>
-    <property name="run.args" value="2015.csv Institutions.csv Teams.csv"/>
+    <property name="main.class" value="ContestResultsSplitter"/>
+    <property name="run.args" value="2015.csv StatisticsReport.txt"/>
 
     <target name="clean" description="Remove compiled build output.">
         <delete dir="${build.dir}"/>
@@ -21,7 +21,7 @@
                release="${javac.release}"/>
     </target>
 
-    <target name="run" depends="compile" description="Compile and run the CSV splitter.">
+    <target name="run" depends="compile" description="Compile and run the part 2 statistics report.">
         <java classname="${main.class}" fork="true" failonerror="true">
             <classpath>
                 <pathelement location="${classes.dir}"/>

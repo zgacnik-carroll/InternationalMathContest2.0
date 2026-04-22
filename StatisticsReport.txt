@@ -1,0 +1,1297 @@
+Average teams entered per institution: 7.96
+
+Institutions ordered by number of teams
+BeiJing University Of Post And Telecommunication, Beijing, Beijing, China | 332
+Sun Yat-sen University, GuangZhou, GuangDong, China | 258
+Harbin Institute of Technology, Harbin, Heilongjiang, China | 207
+Central South University, Changsha, Hunan, China | 202
+Dalian University of Technology, Dalian, Liaoning, China | 187
+Beihang Univeristy, Beijing, Beijing, China | 169
+Shanghai Jiao Tong University, Shanghai, Shanghai, China | 157
+Zhejiang University, Hangzhou, Zhejiang, China | 141
+Central University of Finance and Ecomomics, Beijing, Asia, China | 135
+Peking University, Beijing, Beijing, China | 123
+Nankai University, Tianjin, Tianjin, China | 122
+Wu Han University, Wuhan, Hubei, China | 116
+University of International Business and Economics, Beijing, Beijing, China | 109
+North China Electric Power University Baoding, Baoding, Hebei, China | 103
+HARBIN ENGINEERING UNIVERSITY, HARBIN, HEILONGJIANG, China | 101
+South China Normal University, Guangzhou, Guangdong, China | 101
+Dalian Maritime University, Dalian, Liaoning, China | 100
+National University of defense technology, Changsha, Hunan, China | 100
+Harbin Institute of Technology, Weihai, Shandong, China | 96
+North China ELectric Power University, Beijing, BEIJING, China | 96
+Tongji University, shanghai, Shanghai, China | 94
+Beijing Institute of Technology, Beijing, Beijing, China | 89
+Capital University of Economics and Business, Beijing, Beijing, China | 86
+shenyang jianzhu university, shenyang, Liaoning, China | 86
+Chongqing University, Chongqing, Chongqing, China | 84
+Jilin University., Changchun, Jilin, China | 81
+China University of Petroleum, Qingdao, Shandong, China | 76
+South Western University of Finance and Economics, Chengdu, Sichuan, China | 72
+.Renmin University of China, Beijing, Beijing, China | 69
+Shanghai University, Shanghai, Shanghai, China | 69
+Shandong University of Science and Technology, Qingdao, Shandong, China | 65
+South China University of Technology, Guangzhou, Guangdong, China | 62
+University of International Business and Economics, Beijing, China, China | 62
+Shanghai University of Finance and Economics, Shanghai, Shanghai, China | 61
+Beijing Normal University, Zhuhai, Zhuhai, Guangdong, China | 59
+Tsinghua University, Beijing, Beijing, China | 59
+East China Normal University, Shanghai, Shanghai, China | 58
+China Agricultural University, Beijing, China | 54
+XIDIAN UNIVERSITY, Xi'an, Shaanxi, China | 53
+Sichuan University, Chengdu, Sichuan, China | 52
+Beijing Normal University, Beijing, China, China | 51
+Anhui University of Finance and Economics, Bengbu, Anhui, China | 49
+Chongqing University of Posts and Telecommunications, Chongqing, Chongqing, China | 49
+Shandong University, Jinan, Shandong Province, China | 48
+University of Electronic Science and Technology of China, Chengdu, Sichuan, China | 48
+University of Science and Technology of China, Hefei, Anhui, China | 48
+Minzu University of China, Beijing, Beijing, China | 47
+South-west Jiaotong University, CHENGDU, SICHUAN, China | 47
+Nanjing University, Nanjing, Jiangsu, China | 46
+China University of Petroleum, Beijing, Beijing, China | 44
+Shandong university, Jinan, Shandong, China | 43
+Southwest University, Beibei, Chongqing, China | 41
+Huazhong University of Science and Technology, Wuhan, Hubei, China | 40
+HuNan University, Changsha, HuNan, China | 40
+Southeast University, Nanjing, Jiangsu Provience, China | 40
+Tian Jin University, TianJin, TianJin, China | 40
+Fudan University, Shanghai, Shanghai, China | 39
+Shandong University(Weihai), Weihai, Shandong, China | 38
+Northwest University, Xiâ€™an, Shaanxi Province, China | 36
+Xiangtan University, Xiangtan, Hunan, China | 36
+Northwestern Polytechnical University, Xi'an, Shaanxi, China | 35
+Xiamen University, Xiamen, Fujian, China | 35
+Air Force Engineering University, Xi'an, Shaanxi, China | 34
+Beijing Jiaotong University, Beijing, China | 34
+Dalian Nationalities University, Dalian, LIAONING, China | 34
+Xi'an Jiaotong University, Xi'an, Shaanxi, China | 34
+Henan Polytechnic University, Jiaozuo City, Henan Province, China | 32
+Tianjin Polytechnic University, Tianjin, Tianjin, China | 32
+Zhongnan University of Economics and Law, Wuhan, Hubei, China | 32
+He'nan Normal University, xinxiang, Henan, China | 31
+Nanjing University of Science and Technology, Nanjing, Jiangsu, China | 31
+Northeast Agricultural University, Harbin, Heilongjiang, China | 31
+Zhengzhou University, Zhengzhou, Henan, China | 31
+Chongqing Jiaotong University, Chongqing, Nanping, China | 30
+Nanchang University, Nanchang, Jiangxi, China | 30
+Beijing Normal University, Beijing, Beijing, China | 29
+Wuhan University of technology, Wuhan, Hubei, China | 29
+Yunnan University, Kunming, Yunnan, China | 29
+Inner Mongolia University, Hohhot, Inner Mongolia Autonomous Region, China | 28
+Xi'an University of Architecture and Technology, Xi' an, Shaanxi, China | 28
+East China University Of Science And Technology, Shanghai, Shanghai, China | 27
+Fuzhou University, Fuzhou, Fujian, China | 27
+Hainan University, HaiKou, HaiNan, China | 27
+Lanzhou university, lanzhou, Gansu, China | 26
+College of Sciences ; Northeastern University, Shenyang, Liaoning, China | 25
+Guangdong University of Technology, Guangzhou, Guangdong, China | 25
+Huazhong Agricultural University, Wuhan, Hubei, China | 25
+Simpson College, Indianola, IA, USA | 25
+Zhejiang Gongshang University, Hangzhou, Zhejiang, China | 25
+Guangdong University of Finance and Economics, Guangzhou, Guangdong, China | 24
+Xi'an Jiaotong-Liverpool University, Suzhou, Jiangsu, China | 24
+Beijing Forestry University, Beijing, Beijing, China | 23
+Guangxi University, Nanning, Guangxi, China | 23
+Shenzhen Polytechnic, Shenzhen, GuangDong, China | 23
+North University of China, Taiyuan, Shanxi, China | 22
+University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai, China | 22
+China University of Mining and Technology, Xuzhou, Jiangsu, China | 21
+Northwest University, Xi'an, Shaanxi Province, China | 21
+SOUTHWEST UNIVERSITY FOR NATIONALITIES, CHENGDU, SICHUAN, China | 21
+China Jiliang University, Hangzhou, Zhejiang, China | 20
+Hebei United University, Tangshan, Hebei, China | 20
+Nanjing University of Posts and Telecommunications, Nanjing, JiangSu, China | 20
+Nantong University, Nantong, Jiangsu, China | 20
+The Second Artillery Engineering University, Xi'an, Shaanxi, China | 20
+Academy of Armored Forces Engineering, Beijing, Beijing, China | 19
+Chengdu University of Technology, Chengdu, Sichuan, China | 19
+College of Information Science and Engineering; Northeastern University, Shenyang, Liaoning, China | 19
+Guangdong University of Finance & Economics, Guangzhou, Guangdong, China | 19
+Hangzhou Normal University, Hangzhou, Zhejiang, China | 19
+Shandong University of Technology, Zibo, Shandong Province, China | 19
+shanghai Normal University, shanghai, China, China | 19
+Soochow university, Suzhou, China | 19
+Southeast University, Nanjing, Jiangsu Province, China | 19
+Tianjin University, China, Tianjin, Tianjin, China | 19
+Chang'an University, Xi'an, Shaanxi, China | 18
+Fujian Normal University, Fuzhou, Fujian, China | 18
+Hu Bei University of Economics, Wuhan, Hubei, China | 18
+Ocean University of China, Qingdao, Shandong, China | 18
+Beijing Technology and Business University, Beijing, China | 17
+Hangzhou Dianzi University, Hangzhou, Zhejiang, China | 17
+PLA University of Science and Technology, Nanjing, Jiangsu, China | 17
+Donghua University, Shanghai, Shanghai, China | 16
+Harbin University of Science and Technology, Harbin, Heilongjiang, China | 16
+Jinan University Zhuhai Campus, Zhuhai, GuangDong, China | 16
+Shaanxi University of Technology, Hanzhong, Shaanxi, China | 16
+Tsinghua University, Beijing, China, China | 16
+Yantai University, Yantai, Shandong, China | 16
+Anhui University, Hefei, Anhui, China | 15
+Beijing University of Technology, Beijing, Beijing, China | 15
+Information Engineering University, Zhengzhou, Henan, China | 15
+Northeastern University at Qinhuangdao, Qinhuangdao, Hebei, China | 15
+ShanDong University of Technology, ZiBo, ShanDong, China | 15
+Southwest University of Science and Technology, Mianyang, Sichuan, China | 15
+China University of Political Science and Law, Beijing, Beijing, China | 14
+Dezhou University, Dezhou, Shandong, China | 14
+Hebei University, Baoding, Hebei, China | 14
+Henan University, Kaifeng, Henan, China | 14
+Ludong University, Yantai, Shandong, China | 14
+Nanjing University of Information Science & Technology, Nanjing, Jiangsu, China | 14
+Northeast Forestry University, Harbin, Heilongjiang, China | 14
+School of Mathematical Sciences,Nanjing Normal University, Nanjing, Jiangsu, China | 14
+Shenyang University of Technology, Shenyang, Liaoning, China | 14
+University of South China, Hengyang, Hunan, China | 14
+Xi'an University of Finance and Economics, XI'AN, Shaanxi, China | 14
+Zhejiang University of Technology, Hangzhou, China | 14
+Chongqing University of Technology, Chongqing, Chongqing, China | 13
+Civil Aviation University of China, Tianjin, TianJin, China | 13
+Harbin University of Commerce, Harbin, Heilongjiang, China | 13
+Henan University of Science and Technology, Luoyang, Henan, China | 13
+Shanghai Foreign Language School, Shanghai, Shanghai, China | 13
+Shanghai Maritime University, Shanghai, Shanghai, China | 13
+Software College; Northeastern University, Shenyang, Liaoning, China | 13
+University of Shanghai for Science and Technology, Shanghai, Shanghai, China | 13
+Beijing Institute of Technology, Zhuhai, Zhuhai, Guangdong, China | 12
+Central University of Finance and Ecomomics, BEIJING, BEIJING, China | 12
+Dongbei University of Finance and Economics, Dalian, Liaoning, China | 12
+Hebei Finance University, Baoding, Hebei, China | 12
+Hefei University of Technology, Hefei, Anhui, China | 12
+Huizhou University, Huizhou, Guangdong, China | 12
+Jinan University, Guanghzou, Guangdong, China | 12
+Neijiang Normal University, Neijiang, Sichuan, China | 12
+North China Electric Power University, Baoding, Hebei Province, China | 12
+North China Electric Power University, Changping, Beijing, China | 12
+North China University of Water Resources and Electric Power, Zhengzhou, Henan Province, China | 12
+Northeastern University, Shenyang, Liaoning, China | 12
+Shanghai Finance University, Shanghai, China | 12
+Shanxi University, Taiyuan, Shanxi, China | 12
+Taiyuan University of Technology, Taiyuan, Shanxi, China | 12
+Cheng Yi College of Jimei University, Xiamen, Fujian, China | 11
+China University of Geosciences (Beijing), Beijing, Beijing, China | 11
+Chongqing Technology and Business University, Chongqing, China | 11
+Henan Polytechnic University, Jiaozuo, Henan, China | 11
+Hohai University, Nanjing, Jiangsu, China | 11
+Nanjing Tech University, Nanjing, Jiangsu, China | 11
+Naval University of Engineering, Wuhan, Hubei, China | 11
+Shanghai Jiading No.1 High School, Shanghai, Shanghai, China | 11
+Zhengzhou Information Engineering University, Zhengzhou, Henan, China | 11
+Beijing University of Aeronautics and Astronautics, Beijing, Beijing, China | 10
+Department of Mathematics; Northeastern University, Shenyang, Liaoning, China | 10
+Fujian University of Technology, Fuzhou, Fujian, China | 10
+Hohai University Changzhou Campus, Changzhou, Jiangsu, China | 10
+Jiangnan University, Wuxi, Jiangsu, China | 10
+Nanjing University of Posts & Telecommunications, Nanjing, Jiangshu, China | 10
+Qingdao agricultural university, Qingdao, Shandong, China | 10
+Shanghai University of International Business and Economics, Shanghai, Songjiang, China | 10
+Sichuan Agricultural University, Ya'an, Sichuan, China | 10
+South China Agricultural University, Guangzhou, Tianhe, China | 10
+Southeast University, Nanjing, Jiangsuprovince, China | 10
+University of Science and Technology Beijing, Beijing, Beijing, China | 10
+Zhejiang Normal University, Jinhua, Zhejiang, China | 10
+Zhejiang University City College, Hangzhou, Zhejiang, China | 10
+Carroll College, Helena, MT, USA | 9
+Central China Normal University, Wuhan, HUBEI, China | 9
+China University of Geosciences (Wuhan), Wuhan, Hubei, China | 9
+Guangzhou University, Guangzhou, Guangdong Province, China | 9
+Guilin University of Electronic Technology, Guilin, Guangxi, China | 9
+Hebei University of Technology, Tianjin, Tianjin, China | 9
+Hubei University of Technology, Wuhan, Hubei Province, China | 9
+Inner Mongolia University of Finance and Economics, Hohhot, Inner Mongolia, China | 9
+Jinan University, Guangzhou, Guangdong, China | 9
+nanjing university of finance&economics, nanjing, jiangsu, China | 9
+Shantou University, Shantou, Guangdong, China | 9
+Shenyang Ligong University, Shenyang, Liaoning, China | 9
+Sichuan Agricultural University, Chengdu, Sichuan, China | 9
+Tsinghua Univeristy, Beijing, Beijing, China | 9
+Tsinghua University, Haidian, Beijing, China | 9
+Zhejiang Sci-Tech University, Hangzhou, Zhejiang Province, China | 9
+Army Officer Academy, Hefei, Anhui, China | 8
+BNU-HKBU United International College, Zhuhai, Guangdong, China | 8
+Chongqing University of Science & Technology, Chongqing, China | 8
+Henan Normal University, Xinxiang, Henan Province, China | 8
+Informantion Engineering, Dalian, Liaoning, China | 8
+Institute of Artificial Intelligence and Robotics; Northeastern University, Shenyang, Liaoning, China | 8
+Nanjing University of Information Science and Technology, Nanjing, Jiangsu, China | 8
+Ningbo University, Ningbo, ZheJiang, China | 8
+South University of Science and Technology of China, Shenzhen, Guangdong, China | 8
+Southwest Petroleum University, Chengdu City, Sichuan Province, China | 8
+University of International Relations, Beijing, Beijing, China | 8
+Davidson College, Davidson, NC, USA | 7
+Harvey Mudd College, Claremont, CA, USA | 7
+Institution of Mathematics; Northeastern University, Shenyang, Liaoning, China | 7
+Jacksonville University, Jacksonville, FL, USA | 7
+Nanjing University of Posts&Telecommunications, Nanjing, Jiangsu, China | 7
+Naval Aeronautical and Astronautical University, Yantai, Shandong, China | 7
+NC School of Science and Mathematics, Durham, NC, USA | 7
+Ningbo Institute of Technology, Zhejiang University, Ningbo, Zhejiang, China | 7
+North China Electric Power University, Baoding, Hebei, China | 7
+Qingdao University, Qingdao, Shandong, China | 7
+Shandong University of Science and Technology,, Tai'an city, Shandong province, China | 7
+University of Colorado Boulder, Boulder, CO, USA | 7
+Virginia Tech, Blacksburg, VA, USA | 7
+Wuhan University, Wuhan, Hubei Province, China | 7
+Xi'an University of Technology, Xi'an, Shaanxi, China | 7
+Youngstown State University, Youngstown, OH, USA | 7
+Anhui Normal University, Wuhu, Anhui Province, China | 6
+Anqing Normal University, Anqing, Anhui, China | 6
+Beijing Union University, Beijing, Beijing, China | 6
+BeiJing University Of Post And Telecommunication, Beijing, Haidian, China | 6
+Beijing Wuzi University, Beijing, Beijing, China | 6
+BeijingÂ UniversityÂ ofÂ Post and Telecommunication, Beijing, Beijing, China | 6
+Binjiang College of Nanjing University of Information Science & Tecnology, Nanjing, Jiangsu, China | 6
+China university of Geosciences, Beijing, Beijing, China | 6
+China University of Mining and Technology-Beijing, Beijing, China | 6
+Dalian Institute of Science and Technology, Dalian, Liaoning, China | 6
+Guangdong University of Foreign Studies, Guangzhou, Guangdong, China | 6
+Inner Mongolia University For The Nationlities, Tongliao, Inner Mongolia Autonomous Region, China | 6
+Nanjing Tech Uinversity, Nanjing, Jiangsu, China | 6
+Nanjing University, Nanjing, Jiangsu Province, China | 6
+Nanjing University of Aeronautics and Astronautics, Nanjing, Jiangsu, China | 6
+Pattern Recognition ;Northeastern University, Shenyang, Liaoning, China | 6
+Shandong University of Technology, Zibo, Shangdong, China | 6
+Shanxi University, Taiyuan , Shanxi, China | 6
+Shenzhen University, Shenzhen, Guangdong, China | 6
+South-Central University for Nationalities, WuHan, HuBei, China | 6
+UC Berkeley, Berkeley, CA, USA | 6
+UIBE, Beijing, Beijing, China | 6
+University of Washington, Seattle, WA, USA | 6
+WENZHOU UNIVERSITY, WENZHOU, ZHEJIANG, China | 6
+Yichun University, Yichun, Jiangxi, China | 6
+Yunnan Normal University, Kunming, Chenggong New District, China | 6
+Albion College, Albion, MI, USA | 5
+Beijing University of Chemical Technology, Chaoyang District, Beijing, China | 5
+Binzhou University, Binzhou, Shandong, China | 5
+Cal Poly Pomona, Pomona, CA, USA | 5
+Capital University of Economics and Business, BEI JING, BEI JING, China | 5
+Changsha University, Changsha, Hunan, China | 5
+China University of Petroleum, Qingdao city, Shandong, China | 5
+College of Petroleum Engineering, Qingdao, Shandong, China | 5
+DaLian JiaoTong University, Dalian, Liaoning, China | 5
+Gannan Normal University, Ganzhou, Jiangxi, China | 5
+Guangdong Polytechnic Normal University, guangzhou, Guangdong, China | 5
+Hangzhou Normal University Qianjiang College, Hangzhou, Zhejiang, China | 5
+Huanggang Normal University, Huanggang, Hubei Province, China | 5
+Institut Teknologi Bandung, Bandung, Jabar, Indonesia | 5
+Key Laboratory of Medical Image Computing; Northeastern University, Shenyang, Liaoning, China | 5
+Lanzhou University of Technology, Lanzhou, Gansu, China | 5
+Liaoning Shihua University, Fushun, Wanghua, China | 5
+Linfield College, McMinnville, OR, USA | 5
+Mount Holyoke College, South Hadley, MA, USA | 5
+New York University, New York, NY, USA | 5
+Northwestern Polytechnical University, xi 'an, Shanxi, China | 5
+Qilu University Of Technology, Jinan, Shandong, China | 5
+Qinggong College, Hebei United University, Tangshan, Hebei, China | 5
+Qinghai University, Xining, Qinghai, China | 5
+School of Mechanical Engineering and Automation, Northeastern University, Shenyang, Liaoning, China | 5
+Shandong Institute of Business and Technology, Yantai, Shandong, China | 5
+Shandong University of Science & Technology, Taian, Shandong, China | 5
+Shanghai Experimental School, Shanghai, Shanghai, China | 5
+Soochow universuty, Suzhou, China | 5
+Southeast University, NANJING, JIANGSU, China | 5
+Southwestern University of Finance and Economics, Chengdu, Sichuan Province, China | 5
+Tianjin University of Finance and Economics, Tianjin, Tianjin, China | 5
+University of Wisconsin-Madison, Madison, WI, USA | 5
+Virtual reality and simulation; Northeastern University, Shenyang, Liaoning, China | 5
+Wartburg College, Waverly, IA, USA | 5
+Wuhan University of Science and Technology, Wuhan, Hubei, China | 5
+Xuzhou Institute of Technology, Xuzhou, Jiangsu, China | 5
+Yancheng Teachers University, Yancheng, Jiangsu, China | 5
+Yunnan Normal University, Kunming, Yunnan Province, China | 5
+Beihua University, Jilin, Jilin, China | 4
+Beijing Information Science & Technology University, Beijing, Haidian, China | 4
+Beijing National Day School, Beijing, China | 4
+Bucknell University, Lewisburg, PA, USA | 4
+Chengdu College of Univ. of Elec. Sci. and Tech. of China, Chengdu, Sichuan, China | 4
+China University of Petroleum (East China), Qingdao, Shandong, China | 4
+China University of Political science and Law, BEJING, China | 4
+Coe College, Cedar Rapids, IA, USA | 4
+Cornell University, Ithaca, NY, USA | 4
+Dalian Nationalities University, Dalian, China, China | 4
+Dalian Neusoft University of information, Dalian, Liaoning, China | 4
+Dalian Polytechnic University, DaLian, Liaoning Province, China | 4
+GuangDong Ocean University, Zhan Jiang, Guang Dong, China | 4
+Guangdong University of Petrochemical Technology, Maoming, Guangdong, China | 4
+Heilongjiang University, China, Harbin, Heilongjiang, China | 4
+Henan University of Urban Construction, Pingdingshan, Henan, China | 4
+Hohai University, Changzhou, JiangSu, China | 4
+Huainan Normal University, Huainan, Anhui, China | 4
+Huazhong University of Science & Technology, Wuhan, Hubei, China | 4
+Humboldt State University, Arcata, CA, USA | 4
+Institution of Intelligent Robots and Pattern Recognition; Northeastern University, Shenyang, Liaoning, China | 4
+JiangXi Normal University, NanChang, JiangXi, China | 4
+Jinling Institute of Technology, Nanjing, Jiangsu, China | 4
+Mount St. Mary's University, Emmitsburg, MD, USA | 4
+Nanjing Agricultural University, Nanjing, Jiangsu, China | 4
+Nanjing Forestry University, Nanjing, China | 4
+Nankai University, Tianjin, Aisa, China | 4
+Northern Kentucky University, Highland Heights, KY, USA | 4
+Paivola School of Mathematics, Tarttila, Finland | 4
+Peking University, Beijing, China, China | 4
+Qingdao University of Science and Technology, Qingdao, Shandong, China | 4
+Rensselaer Polytechnic Institute, Troy, NY, USA | 4
+Seattle University, Seattle, WA, USA | 4
+Shandong University of Finance and Economics, Jinan, Shandong, China | 4
+Shanghai Institute of Technology, Shanghai, Shanghai, China | 4
+Shenyang Institute of Technology, Fushun, Liaoning, China | 4
+Shenyang Normal University, Shenyang, Liaoning, China | 4
+Shippensburg University, Shippensburg, PA, USA | 4
+Sichuan Normal University Chengdu College, Chengdu, Sichuan, China | 4
+Signal and information processing; Northeastern University, Shenyang, Liaoning, China | 4
+Slippery Rock University, Slippery Rock, PA, USA | 4
+Taishan University,China, Taian, Shandong, China | 4
+The Engineering & Technical college of Chengdu University of Technology, LESHAN, Sichuan Province, China | 4
+University of California, Los Angeles, Los Angeles, CA, USA | 4
+University of Illinois, Urbana, IL, USA | 4
+University of Kentucky, Lexington, KY, USA | 4
+University of Science & Technology Beijing, Beijing, Beijing, China | 4
+Western Washington University, Bellingham, WA, USA | 4
+Westminster College, Salt Lake City, UT, USA | 4
+Xavier University, Cincinnati, OH, USA | 4
+Xi'an University of architecture and technology, Xi'an, Shanxi, China | 4
+Xi'an University of Posts and Telecommunications, Xi'an, Shaanxi, China | 4
+Xi'an University of Technology, Xi'an, Shaanxi province, China | 4
+Zhejiang A&F University, Hangzhou, Zhejiang, China | 4
+Zhejiang University of Finance and Economics, Hangzhou, Zhejiang, China | 4
+Air Force Logistics College, Xuzhou, Jiangsu Province, China | 3
+Appalachian State University, Boone, NC, USA | 3
+Asbury University, Wilmore, KY, USA | 3
+Beijing Language and Culture University, Beijing, Beijing, China | 3
+Bethel University, Arden Hills, MN, USA | 3
+Century College of Beijing University of Posts and Telecommunications, Beijing, Beijing, China | 3
+China University of Geosciences, Wuhan, Hubei, China | 3
+China University of Petroleum, Beijing, Beijing, China | 3
+Chongqing University of Science and Technology, Chongqing, China | 3
+Chongqing University of Science and Technology, é‡�åº†, ChongQing, China | 3
+City University of Hong Kong, Hong Kong, China | 3
+Clarkson University, Potsdam, NY, USA | 3
+Colby College, Waterville, ME, USA | 3
+College of Science, Beijing, China | 3
+Colorado College, Colorado Springs, CO, USA | 3
+Columbia University, New York, NY, USA | 3
+Duke University, Durham, NC, USA | 3
+Duquesne University, Pittsburgh, PA, USA | 3
+East China Normal University, Shang Hai, China, China | 3
+Economics, beijing, beijing, China | 3
+Emory University, Atlanta, GA, USA | 3
+Franklin & Marshall College, Lancaster, PA, USA | 3
+GuangDong Vocational College of Environmental Protetion Engineering, FoShan, GuangDong Province, China | 3
+Harbin University of Science and Technology Rongcheng, Rongcheng, Shandong, China | 3
+Heilongjiang University, Harbin, Heilongjiang, China | 3
+Heilongjiang University, Harbin, Outside US, China | 3
+Henan Institute of Science and Technology, Xinxiang, Henan, China | 3
+Henan University of Technology, Zhengzhou, Henan, China | 3
+Hexi Univercity, Zhangye, Gansu, China | 3
+Huzhou University, Huzhou, Zhejiang, China | 3
+Indiana University Bloomington, Bloomington, IN, USA | 3
+Information Engineering, Dalian, Liaoning, China | 3
+Inner Mongolia University of Technology, Hohhot, Inner Mongolia, China | 3
+Institute of Electrical Engineering and Automation; Northeastern University, Shenyang, Liaoning, China | 3
+Institute of Mechatronics Engineering; Northeastern University, Shenyang, Liaoning, China | 3
+Institution of Maths ; Northeastern University, Shenyang, Liaoning, China | 3
+Jiangsu Normal University, Xuzhou, Jiangsu, China | 3
+Jiangxi University of Traditional Chinese Medicine, Nanchang, China | 3
+Jilin University, Changchun, Jinlin, China | 3
+Jinshan College of Fujian Agriculture and Forestry University, Fuzhou, Fujian, China | 3
+Lawrence Technological University, Southfield, MI, USA | 3
+Leshan Normal University, Leshan, Sichuan, China | 3
+Liaocheng University, Liaocheng, Shandong, China | 3
+Liaoning University, Shenyang, Liaoning, China | 3
+Madonna University, Livonia, MI, USA | 3
+Materials and metallurgy; Northeastern University, Shenyang, Liaoning, China | 3
+Nankai University,China, Tianjin, Tianjin, China | 3
+Nanyang Normal University, Nanyang, Henan, China | 3
+National University of Singapore, Singapore, Singapore | 3
+Naval Aeronautical Engineering Institute Qingdao Campus, Qingdao, Shandong, China | 3
+Ningbo Institute of Technology, Zhejiang University, Ningbo City, Zhejiang, China | 3
+North China Electric Power University Science & Technology College, Baoding, Hebei, China | 3
+Northwest University for Nationalities, Lanzhou, Gansu, China | 3
+Officer's college of CAPF, ChengDu, SiChuan, China | 3
+Pacific Lutheran University, Tacoma, WA, USA | 3
+QuFu Normal University, Qufu, Shandong, China | 3
+Ramapo College of New Jersey, Mahwah, NJ, USA | 3
+Research Center of Control & Simulation; Northeastern University, Shenyang, Liaoning, China | 3
+Sam Houston State University, Huntsville, TX, USA | 3
+School of Sciences;Northeastern University, Shenyang, Liaoning, China | 3
+Seattle Pacific University, Seattle, WA, USA | 3
+Shaanxi Electronic Technical College, Xi'an, SHAANXI, China | 3
+Shandong Jianzhu University, Jinan, Shandong, China | 3
+Shanghai University of International Business and Economics, Shanghai, Shanghai, China | 3
+Shanxi Medical University, Taiyuan, Shanxi, China | 3
+Sichuan Agricultural University, Yaan, Sichuan, China | 3
+Sichuan Normal University, Chengdu, Sichuan, China | 3
+South China Agricultural University, Guangzhou, Guangdong, China | 3
+South China Normal University, Guang Zhou, Guang Dong, China | 3
+South China Normal University, Guangzhou, Tianhe, China | 3
+South China Normal University, Guangzhou, China, China | 3
+South China Normal University, Guangzhou, P.R. China, Guangzhou, Guangdong, China | 3
+South-Central University for Nationalities, Wu han, Hu bei, China | 3
+Southwest Jiaotong University, Chengdu, Sichuan Province, China | 3
+Southwestern University of Finance and Economics, ChengDu, Wenjiang, China | 3
+Sun Yat-sen University, Zhuhai, Guangdong, China | 3
+Sun Yat-Sen University, Guangzhou City, Guangzhou Province, China | 3
+SUNY New Paltz University, New Paltz, NY, USA | 3
+The Stony Brook School, Stony Brook, NY, USA | 3
+The University of Shanghai for Science and Technology, Shanghai, Shanghai, China | 3
+Tianjin Agricultural University, Tinjin, 86, China | 3
+Tianjin University, Nankai, Tianjin, China | 3
+Trinity, San Antonio, TX, USA | 3
+University of California, San Diego, La Jolla, CA, USA | 3
+University of Manchester, Manchester, Manchester, United Kingdom | 3
+University of Minnesota, Minneapolis, MN, USA | 3
+University of Minnesota Duluth, Duluth, MN, USA | 3
+University of Puget Sound, Tacoma, WA, USA | 3
+University of San Diego, San Diego, CA, USA | 3
+University of Science and Technology Liaoning, Anshan, Liaoning, China | 3
+University of Utah, Salt Lake City, UT, USA | 3
+USMA, West Point, NY, USA | 3
+Wake Forest University, Winston Salem, NC, USA | 3
+West Ahui University, Luâ€™an, Anhui, China | 3
+West Anhui University, Luâ€™an, Anhui, China | 3
+Winthrop University, Rock Hill, SC, USA | 3
+WUHAN TEXTILE UNIVERSITY, WUHAN, HUBEI, China | 3
+Xiamen University of Technology, Xiamen, Fujian, China | 3
+Xijing University, Xi'an, Shaanxi, China | 3
+Xinyang Normal University, Xinyang, Henan, China | 3
+Xuhai College of China University of Mining and Technology, Xuzhou, Jiangsu, China | 3
+Yanshan University, Qinhuangdao, Hebei, China | 3
+Yunnan Minzu University, kunming, yunnan, China | 3
+Zhejiang University, Hangzhou, Zhejiang Province, China | 3
+Zhejiang University of Science and Technology, Hangzhou, China | 3
+Zhongnan University of Economics and Law, Wuhan, Hubei province, China | 3
+Anhui Jianzhu University, Hefei, Anhui, China | 2
+Austin Peay State University, Clarksville, TN, USA | 2
+Bard College, Annandale-on-Hudson, NY, USA | 2
+Beihang Univeristy, Beijing, Beijng, China | 2
+Beijing Normal University, Zhuhai, Zhuhai City, Guangdong, China | 2
+BeiJing University Of Post And Telecommunication, Beijing, Bejing, China | 2
+Belhaven University, Jackson, MS, USA | 2
+California Polytechnic State University, San Luis Obispo, CA, USA | 2
+Capital Medical University, Beijing, Beijing, China | 2
+Central University of Finance and Ecomomics, Beijng, China | 2
+Chengdu University of Information Technology, Chengdu, Sichuan, China | 2
+China Jiangsu University, Zhenjiang, Jiangsu, China | 2
+China Three Gorges University, Yichang, Hubei, China | 2
+China Welfare Institute, Shanghai, Shanghai, China | 2
+Clemson University, Clemson, SC, USA | 2
+Colgate University, Hamilton, NY, USA | 2
+College of Applied Science.Jiang Xi University of Science and Technology, Ganzhou, Jiang Xi, China | 2
+College of Computer and Control Engineering, Tian Jin, China | 2
+College of Information Science & Engineering; Northeastern University, Shenyang, Liaoning, China | 2
+College of Science, Northeastern University, China, Shenyang, Liaoning, China | 2
+College of Sciences, Shenyang, Liaoning, China | 2
+College of Software; Northeastern University, Shenyang, Liaoning, China | 2
+College of Wooster, Wooster, OH, USA | 2
+concordia college NY, pleasantville, NY, USA | 2
+Dalian Ocean University, Dalian, Liaoning, China | 2
+Dongbei University of Finance and Economics, Dalian, Liaoning Province, China | 2
+East China Institute of Technology, Nanchang, Jiangxi, China | 2
+EAST CHINA NORMAL UNIVERSITY, Shanghai, China, China | 2
+East China University of Political Science and Law, Shanghai, Shanghai, China | 2
+east china university of political science and law, shanghai, songjiang, China | 2
+Faculty of Information Science and Engineering; Northeastern University, Shenyang, Liaoning, China | 2
+Fuyang Normal College, Anhui province, China., Fuyang, yingzhou, China | 2
+FuYang Normal College, AnHui, China., FuYang, China | 2
+Gansu Agricultural University, Lanzhou, Gansu, China | 2
+Grinnell College, Grinnell, IA, USA | 2
+Guangdong University of Finance and Economics, Guangzhou, Guangzhou, China | 2
+GuangDong University of Foreign Studies, Guangzhou, GuangDong Province, China | 2
+Guizhou University, Guiyang, Guizhou, China | 2
+Hefei No.8 high school, Hefei, Anhui, China | 2
+Heilongjiang University, Harbin, Heilongjiang Province, China | 2
+Henan Polytechnic University, Jiaozuo, Henan Province, China | 2
+Hendrix College, Conway, AR, USA | 2
+Hexi University, Zhangye, Gansu, China | 2
+Huaibei Normal University, Huaibei, Anhui, China | 2
+Huaihai Institute of Technology, Lianyungang, Jiangsu, China | 2
+Huangzhong University of Science and Technology, Wuhan, Hubei, China | 2
+Huaqiao University, Fujian, Xiamen, China | 2
+Huazhong Agricultural University Chutian College, Wuhan, Hubei, China | 2
+Huazhong Agriculture University, WuHan, Hubei, China | 2
+Huazhong University of Science and Technolog, Wuhan, Hubei, China | 2
+Hunan Normal University, Changsha, Hunan, China | 2
+Hunan Police Academy, Changsha, Hunan, China | 2
+Idaho State University, Pocatello, ID, USA | 2
+Illinois Institute of Technology, CHICAGO, IL, USA | 2
+Indiana University of Pennsylvania, Indiana, PA, USA | 2
+Inner Mongolia University For The Nationalities, Tongliao, the Inner Mongolia Autonomous Region, China | 2
+Institute of Computer System;Northeastern University, Shenyang, Liaoning, China | 2
+Institute of Digital media technology; Northeastern University, Shenyang, Liaoning, China | 2
+Institute of Metallurgical Resource and Environmental Engineering ; Northeastern University, Shenyang, Liaoning, China | 2
+Institute of Systems Science; Northeastern University, Shenyang, Liaoning, China | 2
+Institution of Metallurgy Resources and Environmental Engineering; Northeastern University, Shenyang, Liaoning, China | 2
+Institution of Pattern Recognition ;Northeastern University, Shenyang, Liaoning, China | 2
+Institution of Software; Northeastern University, Shenyang, Liaoning, China | 2
+James Madison University, Harrisonburg, VA, USA | 2
+JiangXi College of Construction, NanChang, JiangXi, China | 2
+Jiangxi University of Finance and Economics, Nanchang, Jiangxi, China | 2
+JiangXi University of Science and Technology, Ganzhou, Jiangxi, China | 2
+Key Laboratory of Ecological Utilization of Multi-metal Intergrown Ores of Ministry of Education &School of Materials and Metall, Shenyang, Liaoning, China | 2
+Kunming University of Science and Technology, Kunming, Yunnan, China | 2
+Kwangwoon University, Seoul, South Korea | 2
+Lafayette College, Easton, PA, USA | 2
+Louisiana Tech University, Ruston, LA, USA | 2
+Macau University of Science and Technology, Macau, China | 2
+Mercer University, Macon, GA, USA | 2
+minzu univercity of China, Beijing, Beijing, China | 2
+Minzu University of China, Beijing, China, China | 2
+Montana Tech, Butte, MT, USA | 2
+Nanjing College of Information Technology, Nanjing, Jiangsu, China | 2
+Nankai University, Tian Jin, tianjin, China | 2
+NORTH CHINA INSTITUTE OF SCIENCE AND TECHNOLOGY, BEIJING, BEIJING, China | 2
+Northeast Petroleum University, Daqing, Heilongjiang, China | 2
+Northeastern University, China, Shenyang, Liaoning, China | 2
+Ocean University of China, Qingdao, Shandon, China | 2
+Oregon State University, Corvallis, OR, USA | 2
+P.R.China Beijing Normal University, Beijing, Beijing, China | 2
+Pacific University, Forest Grove, OR, USA | 2
+Panzhihua University, Pan Zhihua, SiChuan, China | 2
+RENMIN UNIVERSITY of CHINA, Beijing, China, China | 2
+Rhodes College, Memphis, TN, USA | 2
+Richard Stockton College of New Jersey, Galloway, NJ, USA | 2
+Roanoke College, Salem, VA, USA | 2
+Robotics and Automation; Northeastern University, Shenyang, Liaoning, China | 2
+Sacred Heart University, Fairfield, CT, USA | 2
+Saint Louis University, St. Louis, MO, USA | 2
+School of Engineering, Sun Yat-Sen University, Guangzhou, Guangdong, China | 2
+School of Information Science and Engineering; Northeastern University, Shenyang, Liaoning, China | 2
+School of Information, Renmin University of China, Beijing, Beijing, China | 2
+School of Materials and Metallurgy; Northeastern University, Shenyang, Liaoning, China | 2
+School of Reliability and Systems Engineering,Beihang University, Beijing, Beijing, China | 2
+Second Military Medical University, Shanghai, Yangpu, China | 2
+Shandong Jiaotong University, Ji Nan, Shan Dong, China | 2
+Shandong Normal University, Jinan, Shandong, China | 2
+Shandong University of Finance and Economics, Jinan, China, China | 2
+Shandong University of Science and Technology, Qingdao, P.R.China, China | 2
+Shandong University of Science and Technologyï¼ŒChina, Qingdao City, Shandong Province, China | 2
+Shanghai Institute of Technology, shang hai, China | 2
+Shanghai Jiao Tong University, Shang Hai, Shang Hai, China | 2
+Shanghai Lixin University of Commerce, Shanghai, China | 2
+Shanghai univercity, Shanghai, Shanghai, China | 2
+Shanghai University of Electric Power, Shanghai, China | 2
+Shaoguan University, Shaoguan, Guangdong, China | 2
+Shenyang University, ShenYang, LiaoNing, China | 2
+Shenzhen Middle School, Shenzhen, Guangdong, China | 2
+Shenzhen University, Shenzhen, Select One, China | 2
+Shenzhen University, China, Shenzhen, Guangdong, China | 2
+Shijiazhuang Tiedao University, Shijiazhuang, Hebei, China | 2
+Shijiazhuang University, Shijiazhuang, Hebei Province, China | 2
+Sichuan University, Sichuan, China | 2
+Sino-Dutch Biomedical and Information Engineering School; Northeastern University, Shenyang, Liaoning, China | 2
+South China Institute of Software Engineering. GU, Guangzhou, Guangdong, China | 2
+South China Normal University, Guangzhou, Guangdong Province, China | 2
+SOUTH WEST JIAOTONG UNIVERSITY, CHENG DU, SI CHUAN, China | 2
+Southern Medical University, Guangzhou, Guangdong Province, China | 2
+Southwest Jiaotong University, Chengdu city, Sichuan, China | 2
+State University of New York, University at Buffalo, Buffalo, NY, USA | 2
+SUN YAT-SEN UNIVERSITY, GUANG ZHOU, Guang dong, China | 2
+Suzhou University of Science and Technology, Jiangsu, Suzhou, China | 2
+The College of Idaho, Caldwell, ID, USA | 2
+The University of Dallas, Irving, TX, USA | 2
+The University of International Business and Economics, Beijing, Beijing, China | 2
+The University of Western Ontario, London, ON, Canada | 2
+Tianjin Foreign Studies University, Tianjin, Tianjin, China | 2
+TianJin University, TianJin China, TianJin, China | 2
+Tianjin University, Tianjin, China, China | 2
+Tianjin University of Commerce, Tianjin, China Mainland, China | 2
+Tianjin University of Commerce, Tianjin, Tianjin, China | 2
+Tianjin University of Finance and Economics, Tianjin, China, China | 2
+Tianjin University of Science and Technology, TianJin, TianJin, China | 2
+Truman State University, Kirksville, MO, USA | 2
+Undergraduate course, Jinan, Shandong Province, China | 2
+Union College, Schenectady, NY, USA | 2
+Universidad Autonoma de Yucatan, Merida, Yucatan, mexico | 2
+Universitat AutÃ²noma de Barcelona, Bellaterra, Barcelona, Spain | 2
+University, Beijing, China | 2
+University of Adelaide, Adelaide, SA, Australia | 2
+University of Central Florida, Orlando, FL, USA | 2
+University of Colorado Denver, Denver, CO, USA | 2
+university of international business and economics, Beijing China, Beijing, China | 2
+University of International Business and Economics, Beijing, Chaoyang, China | 2
+University of International Business and Economics, China, Beijing, Beijing, China | 2
+University of Internetional Business and Economics, Beijing, Beijing, China | 2
+University of Macau, macau, macau, China | 2
+University of Macau, Macau, Macau SAR, China | 2
+University of Minnesota - Twin Cities, Minneapolis,, MN, USA | 2
+University of Ontario Institute of Technology, Oshawa, Ontario, Canada | 2
+University of Pittsburgh, Pittsburgh, PA, USA | 2
+University of Shanghai for Science & Technology, Shanghai, Shanghai, China | 2
+University of Stirling, Stirling, Scotland | 2
+University of Wisconsin Milwaukee, Milwaukee, WI, USA | 2
+USTC, Hefei, Anhui, China | 2
+Virginia Military Institute, Lexington, VA, USA | 2
+Virginia Western, Roanoke, VA, USA | 2
+Washington and Lee University, Lexington, VA, USA | 2
+Wells College, Aurora, NY, USA | 2
+Wentworth Institute of Technology, Boston, MA, USA | 2
+Wesleyan College, Macon, GA, USA | 2
+Western Connecticut State University, Danbury, CT, USA | 2
+Westminster College, New Wilmington, PA, USA | 2
+Wuhan Univ., Wuhan, Hubei, China | 2
+Wuhan University, Wuhan, Select One, China | 2
+Xi'an Eurasia University, Xi'an, Shaanxi, China | 2
+Xi'an University of Architecture and Technology, Xiâ€˜an, Shaanxi, China | 2
+Xinjiang University, Urumqi, Xinjiang, China | 2
+Yangtze University, Jingzhou, Hubei, China | 2
+York University, Toronto, Ontario, Canada | 2
+ZaoZhuang University, ZaoZhuang, ShanDong Province, China | 2
+Zhejiang Chinese Medical University, Hangzhou, Zhejiang, China | 2
+Zhejiang Industry & Trade Vocational College, Wenzhou, Zhejiang, China | 2
+Zhejiang University, Hang Zhou, Zhe Jiang, China | 2
+ZhongKai University of Agriculture and Engineering, GuangZhou, GuangDong, China | 2
+121 Zhangjialukou, Huaxiang Fengtai District, Beijing,China, Beijing, Beijing, China | 1
+American Heritage School Plantation, Plantation, FL, USA | 1
+Amherst College, Amherst, MA, USA | 1
+Anhui University Of Science & Technology, Huainan, Anhui, China | 1
+Anhui University of Technology, Ma'anshan, China | 1
+Beihai College of Beihang University, Beihai, Guangxi, China | 1
+Beihang Univeristy, Haidian, Beijing, China | 1
+Beihang Univeristy, Beijjing, Beijing, China | 1
+Beihang Univeristy, Beijng, China | 1
+Beihang Univeristy, Beiing, China | 1
+Beijing Institute of Technology, Beijing, Bejing, China | 1
+Beijing Normal University, Bei Jing, Bei Jing, China | 1
+Beijing Normal University, Beijing, HaiDian, China | 1
+Beijing Normal University, Beijing, HaiDian District, China | 1
+Beijing Technology and Business University, Beijng, China | 1
+Beijing University of Aeronautics and Astronautics, Beijing, Changping, China | 1
+Beijing University of Chemical Technology, Chaoyang District, Beijing, Beijing, China | 1
+Beijing University of Chemical Technology, Caoyang District,, Beijing, China | 1
+BeiJing University Of Post And Telecommunication, Beijing, Asia, China | 1
+BeiJing University Of Post And Telecommunication, Haidian, Beijing, China | 1
+BeiJing University Of Post And Telecommunication, Beijing, Haidian Distric, China | 1
+BeiJing University Of Post And Telecommunication, Beijing, China, China | 1
+Beijing University of Techonolgy, Beijing, Beijing, China | 1
+Bejing University of Chemical Technology, Chaoyang District, Beijing, China | 1
+Berlin School of Economics and Law, Berlin, Berlin, Germany | 1
+Binghamton University (SUNY), Binghamton, NY, USA | 1
+Binzhou University, Binzhoou, Shandong, China | 1
+Bloomsburg University, Bloomsburg, PA, USA | 1
+Brown University, Providence, RI, USA | 1
+Bryn Athyn College, Bryn Athyn, PA, USA | 1
+Business College of Shanxi University, Taiyuan, Shanxi, China | 1
+Business School of the University of International Business and Economics, Beijing, Beijing, China | 1
+California State University, Fullerton, Fullerton, CA, USA | 1
+Capital Normal University, Beijing, Beijing, China | 1
+Carnegie Mellon University, Pittsburgh, PA, USA | 1
+Central China Normal University, Wuhan, China, China | 1
+Central University of Finance and Ecomomics, Beijing, Beijing Municipality, China | 1
+Central University of Finance and Ecomomics, Bejing, Bejing, China | 1
+Central University of Finance and Ecomomics, Beijing, Not Applicable, China | 1
+Central Washington University, Ellensburg, WA, USA | 1
+CentralÂ ChinaÂ NormalÂ University, Wuhan, Hubei, China | 1
+Changchun architecture &civil engineering college, Changchun, Jilin, China | 1
+Changchun University of Science and Technology, Changchun, Jilin, China | 1
+Changchun University of Science and Technology, Changchun, Ji Lin, China | 1
+Changchun University Of Science and Technology, Changchun, Jinlin, China | 1
+Changsha University of Science & Technology, Changsha, Hunan, China | 1
+Changsha University of Science and Technology, Changsha, Hunan, China | 1
+Chengdu Shishi Cambridge A-level Center, Chengdu, China | 1
+Chengdu Technological University, chengdu, Sichuan, China | 1
+Chengdu University of Information Technology, Chengdu City, Si Chuan Province, China | 1
+China Pharmaceutical University, Nanjing City, Jiangsu, China | 1
+China Three Gorges University, Yi Chang, HuBei, China | 1
+China Univercity of Geosciencesï¼ŒBeijing, Beijing, Beijing, China | 1
+China University of Geoscience (Wuhan), Wuhan, Hubei, China | 1
+China University of Geosciences, Beijing, Haidian District, China | 1
+China University of Geosciences Beijing, Beijing, Haidian District, China | 1
+China University of Petrolem(Beijing), Beijing, Beijing, China | 1
+China University of Petroleum(East China), Qingdao, ShanDong province, China | 1
+Chong Qing University, Shapingba, ChongQing, China | 1
+Chongqing Normal University, Chongqing, Chongqing, China | 1
+Chongqing University, Shapingba district, Chongqing, China | 1
+Chung Yuan Christian University, Chung Li, Taiwan | 1
+City College, Wuhan University of Science and Technology, Wuhan, Hubei, China | 1
+City University of Hong Kong, Kowloon, Hong Kong | 1
+City University of Hong Kong, City University of Hong Kong, Hong Kong | 1
+Civil Aviation University of China, Tianjin, Dongliqu, China | 1
+College of Biochemical Engineering,Beijing Union University, Beijing, Beijing, China | 1
+College of Electronic Information and Optical Engineering, Nankai University, Tianjin, China | 1
+College of Mobile Telecommunications. Chongqing University of Posts and Telecom., Chongqing, China | 1
+College of science, Shanghai, Shanghai, China | 1
+College of Science and Technology of China Three Gorges University, YiChang, HuBei, China | 1
+College of Science, North China University of Technology, Beijing, Beijing, China | 1
+Colorado State University, Fort Collins, CO, USA | 1
+Communication University of China, Beijing, China | 1
+Communication University of ChinaÂ , Beijing, Beijing, China | 1
+concordia college NY, bronxville, NY, USA | 1
+Cornell College, Mount Vernon, IA, USA | 1
+Cupertino High School, Cupertino, CA, USA | 1
+Dalhousie University, Halifax, Nova Scotia, Canada | 1
+Dalian Polytechnic University, Dalian, Liaoning, China | 1
+Dalian University, Dalian city, liaoning, China | 1
+Dalton State College, Dalton, GA, USA | 1
+Department of Economics, Minzu University of China, Beijing, Beijing, China | 1
+Department of Mathematics, Shanghai, China | 1
+Department of Mathematics and Institute of Natural Sciences, SHANGHAI, SHANGHAI, China | 1
+Dongbei University of Finance and Economics, Dalian,China, Dalian, China | 1
+Dongguan University of Technology, Dongguan, Guangdong, China | 1
+East China Normal Univeristy, Shanghai, China | 1
+East China Normal University, Shanghai, East China, China | 1
+East China Normal University, Shang Hai, Shang Hai, China | 1
+East China Normal University, Shanghai, Minhang, China | 1
+East China Normal University(China), Shanghai,China, Shanghai, China | 1
+East China University of Science and Technology, Shanghai, Fengxian, China | 1
+Eastern Michigan University, Ypsilanti, MI, USA | 1
+Eastern Oregon University, La Grande, OR, USA | 1
+Economics, Beijing, Bejing, China | 1
+Electrical engineering, HangZhou, China | 1
+Erasmus University Rotterdam, Rotterdam, Netherlands | 1
+Foshan University, Foshan, Guangdong, China | 1
+Fudan Univerity, Shanghai, China | 1
+Fudan University, Shanghai, P.R.China, China | 1
+Fudan University, Berkeley, CA, USA | 1
+Fujian Agriculture and Forestry University, Fuzhou, Fujian, China | 1
+FuZhou College of Foreign Studies and Trade, Fuzhou, Fujian, China | 1
+Georgetown College, Georgetown, KY, USA | 1
+Georgetown University, Washington, DC, USA | 1
+Georgia College, Milledgeville, GA, USA | 1
+Georgia Southern University, Statesboro, GA, USA | 1
+Goshen College, Goshen, IN, USA | 1
+Grand View University, Des Moines, IA, USA | 1
+GuangDong Ocean University, Zhan Jiang, Guangdong, China | 1
+GUANGDONG PHARMACEUTICAL UNIVERSITY, Zhongshan, Guangdong, China | 1
+Guangdong University of Finance, Guangzhou, GuangDong, China | 1
+Guangdong University Of Finance and Economy, Guangzhou, Guangdong, China | 1
+Guangdong University of Finance and Econonmics, Guangzhou, China | 1
+Guangdong University of Foreign Studies, guangzhou, guangzhou, China | 1
+Guangxi Teachers Education University, Nanning, Guangxi, China | 1
+Hainan University, Danzhou, Hainan, China | 1
+Hainan University, Haikou, Hainan Province, China | 1
+Hainu University, Haikou, Hainan, China | 1
+Hannan University, Haikou, Hainan, China | 1
+Harbin Medical University, Harbin, Hei Long Jiang, China | 1
+HEBEI FANANCE UNIVERSITY, Baoding, Hebei, China | 1
+Hebei Normal University, Shijiazhuang, Hebei, China | 1
+Hebei Normal University, Shijiazhuang, Hebei Province, China | 1
+Hefei Normal University, Hefei, Anhui, China | 1
+Heilongjiang College of Construction, Harbin, Heilongjiang, China | 1
+Heilongjiang Institute of Technology, Harbin,Heilongjiang Province,China, Heilongjiang, China | 1
+Heilongjiang University of science and technology, Harbin, Heilongjiang, China | 1
+Henan Normal University, Xin'xiang, Henan Province, China | 1
+Henan normal university, Henan, XinXiang, China | 1
+Henan Normal University, XinXiang, china, China | 1
+Henan Normal University, Henan Xinxiang, China, China | 1
+Henan University of Economics and Law, Zhengzhou, Henan, China | 1
+Henan University of Science & Technology, Luoyang, Henan, China | 1
+High School Affiliated to People's University (RDFZ), Beijing, China | 1
+Hohai University Wentian College, Maanshan, Anhui, China | 1
+Hong Kong Baptist University, Kowloon, Hong Kong | 1
+Hong Kong University of Science and Technology, Clear Water Bay-Kowloon, Hong Kong | 1
+Hu Bei Univeristy of Economics, WuHan, HuBei, China | 1
+Huaiyin Normal University, Huaian, Jiangsu, China | 1
+Huaqiao University, Quan Zhou, Feng Ze, China | 1
+HuaQiao University, QuanZhou, FuJian, China | 1
+HuaQiao University, Quan Zhou, Fu Jian, China | 1
+Huaqiao University, Xiamen, Fujian, China | 1
+Huazhon university of science and technology, Wuhan, Hubei, China | 1
+Huazhong University Of Science & Technlology, Wuhan, Hubei, China | 1
+Hubei University, Wuhan, Hubei, China | 1
+Hunan University of Commerce, Changsha, Hunan, China | 1
+Hunan University of Humanities,Science and Technology, Loudi, Hunan, China | 1
+Iinformantion Engineering, Dalian, Liaoning, China | 1
+Information, Beijing, China | 1
+Inner Mongolia Agricultural University, Hohhot, China | 1
+Inner Mongolia University, Hohhot, Inner Monglia, China | 1
+Institute of Information Technology of Guilin University of Electronic Technology, Guilin, Guangxi, China | 1
+Institute of Microelectronics, Beijing, Beijing, China | 1
+Institute of Scientific & Engineering Computing, Hangzhou, Zhejiang, China | 1
+Institution of Information Science and Technology, Beijing, China, China | 1
+Institution of Innovation; Northeastern University, Shenyang, Liaoning, China | 1
+Institution of Thermal Science and Power Systems, HangZhou, ZheJiang, China | 1
+International Institute of Information Technology, Hyderabad, Hyderabad, Telangana, India | 1
+ISS of Wuhan University, Wuhan, Hubei Province, China | 1
+Ithaca College, Ithaca, NY, USA | 1
+IUPUI, Indianapolis, IN, USA | 1
+Jiangsu Jianzhu Institute, Xuzhou, Jiangsu, China | 1
+Jiangxi Agricultural University, Nanchang, Jiangxi, China | 1
+Jiansu Jianzhu University, Xuzhou, Jiangsu, China | 1
+Jilin University, Changchun, Jilin Province, China | 1
+Jilin University, Changchun City, Jilin Province, China | 1
+Jilin University, Chang Chun, Ji Lin Province, China | 1
+Jilin University of Finance and Economics, Changchun, Jinlin, China | 1
+Jilin University of Finance and Economics, Changchun, Jilin Province, China | 1
+Jilin University of Finance and Economics, Changchun, Jilin, China | 1
+Jinhua Polytechnic, Jinhua, Zhejiang, China | 1
+Jinjiang College of Sichuan University, meishan, Sichuan, China | 1
+Jinling High School, Nanjing, Jiang Su, China | 1
+Kansas State University, Manhattan, KS, USA | 1
+Kansas Wesleyan University, Salina, KS, USA | 1
+Kenyon College, Gambier, OH, USA | 1
+Kunming University, Kunming, Yunnan, China | 1
+Lamar University, Beaumont, TX, USA | 1
+Lan Zhou University of Technology, Lan Zhou, Gansu, China | 1
+Lan Zhou University of Technology, Lan Zhou, Gan Su, China | 1
+Lehigh University, Bethlehem, PA, USA | 1
+Liaocheng Univ., Liaocheng, Shandong, China | 1
+Liaoning Normal University, Dalian, Liaoning, China | 1
+Liaoning Technical University, Huludao, Liaoning, China | 1
+Liaoning Technical Universty, Fuxin, China | 1
+Linnaeus University, Vaxjo, kronoberg, Sweden | 1
+Linyi Number 7 middle school, Linyi, Shandong Provience, China | 1
+LongDong University, Qingyang, Gausu, China | 1
+Loyola University Maryland, Baltimore, MD, USA | 1
+Luoyang Institute of Science and Technology, Luoyang, Henan, China | 1
+Luoyang Normal University, Luoyang, Henan, China | 1
+Maggie Walker Governors School, Richmond, VA, USA | 1
+Maryville College, Maryville, TN, USA | 1
+Math Institution ,Beihang University, Beijing, China, China | 1
+Math School, Xiamen, Fujian, China | 1
+Mathematics, Shanghai, Shanghai, China | 1
+mathematics, TianJin, TianJin, China | 1
+mathematics and systems science institute, Beijing, Beijing, China | 1
+Maths, Shanghai, China | 1
+Meredith College, Raleigh, NC, USA | 1
+Metropolitan State University of Denver, Denver, CO, USA | 1
+Miami University, Oxford, OH, USA | 1
+Midlands Technical College, Columbia, SC, USA | 1
+Milligan College, Milligan College, TN, USA | 1
+Minnesota State University Moorhead, Moorhead, MN, USA | 1
+minzu univercity of china, beijing, Asia, China | 1
+Minzu University of China, Beijng, China | 1
+Minzu University of China, Bejing, Beijing, China | 1
+Missouri Southern State University, Joplin, MO, USA | 1
+Morehead State University, Morehead, KY, USA | 1
+NanChang Aeronautical University, NanChang, JiangXi, China | 1
+Nanchang Institute of Technology, Nanchang, Jiangxi, China | 1
+Nanjing Foreign Language School, Nanjing, Jiangsu, China | 1
+Nanjing Normal University Taizhou College, Taizhou, China | 1
+Nanjing University, Haian,Nantong, Jiangsu, China | 1
+Nanjing University, Nanjing, China, China | 1
+Nanjing University, Nanjing, Jiangsu Provence, China | 1
+Nanjing University, Nanjing, Qixia, China | 1
+Nanjing University of Information Science & Technology, Nanjing,Jiangsu Province, China | 1
+Nankai University, Tianjin Province, China | 1
+Nankai University, Nankai, Tianjin, Tianjin, China | 1
+Nankai University, Tianjin City, Tianjin, China | 1
+Nankai University, Tianjin China, China | 1
+Nankai University, Tianjin, China, China | 1
+Nankai University, Tianjin, Non-US/Non-Canadian, China | 1
+Nankai University, Tianjin, Nankai, China | 1
+Nankai university ,China, Tianjing, Tianjing, China | 1
+National Engineering Research Center for Multimedia Software, Wuhan University, Wuhan, Hubei, China | 1
+Naval University of Engineering, Wuahn, Hubei, China | 1
+New York Institute of Technology, New York, NY, USA | 1
+Ningxia University, Yinchuan, the Ningxia Hui Autonomous Region, China | 1
+NKU School of Mathematical Science, Tianjin, Tianjin, China | 1
+No. 10, Huixin Dongjie, Chaoyang District, Beijing, P.R. China, Beijing, Beijing, China | 1
+North China Electric poewr university, Bejing, Beijing, China | 1
+North China Electric Power Univercity, Changping, Beijing, China | 1
+Northeast Normal University, Changchun, China | 1
+Northeast Yucai Foreign Language School, shenyang, Liaoning, China | 1
+Northeaster University (China), Shenyang, China | 1
+Northwest A&F University, Yangling, Shannxi Province, China | 1
+Northwest A&F University, Yangling, Shaanxi, China | 1
+Northwest Missouri State University, Maryville, MO, USA | 1
+Northwest University for Nationalities, Gansu, Lanzhou, China | 1
+Northwestern Polytechnical University, P.R.CHINA, XI'AN, SHAANXI, China | 1
+Nottingham Trent University, Nottingham, United Kingdom | 1
+Ocean Univercity of China, Qingdao City Shandong Province, China | 1
+Ocean University of China, Shandong, Qingdao, China | 1
+Ocean University of China, Tsingtao, Shandong, China | 1
+Ocean university of China, Qingdao, Sandong, China | 1
+Ocean University of China, Qingdao, Shangdong province, China | 1
+Ocean University of China, Qingdao City, Shandong Province, China | 1
+Ocean University of China, Qindao, Shandong, China | 1
+Ocean University of China, Qingdao, Shandong Province, China | 1
+Ocean University of China, QingDao, ShangDong, China | 1
+Officer College of Chinese People's Armed Police Force, Chengdu, Sichuan, China | 1
+Ohio University, Athens, OH, USA | 1
+Olin College, Needham, MA, USA | 1
+Ordos Collegeï¼ŒInner Mongolia University, Erdos, Inner Mongolia Autonomous Region, China | 1
+Peking Univ., Beijing, Beijing, China | 1
+Peking University, Peking, Peking, China | 1
+Peking University, Beijing,China, China | 1
+Peking University, Beijing, Beijing, P.R.CHINA, China | 1
+Peking University, Beijing, HaiDian, China | 1
+PekingUniversity(PKU), Beijing, China | 1
+Penn State Abington, Abington, PA, USA | 1
+People's Public Security University of China, Beijing, Beijing, China | 1
+Physics School of Nankai University, Tianjin, Tianjin, China | 1
+PLA Imformation Engineering University, ZhengZhou, HeNan, China | 1
+professor, Beijing, China | 1
+professor, Wuhan, Hubei, China | 1
+Purdue University, West Lafayette, IN, USA | 1
+Qiannan Normal College for Nationalities, Duyun, Guizhou, China | 1
+Qingdao Agricultural Universiry, Qingdao, Shandong, China | 1
+Qingdao Technical Colleage, Qingdao, Shandong, China | 1
+Qingdao Univrsity, Qingdao, Shandong, China | 1
+Qinghai University, Xining, Qingha, China | 1
+Quantitative Economics Research Institute of Nankai University, Tianjin, Tianjin, China | 1
+Quanzhou Normal University, quanzhou, fujian, China | 1
+QuFu Normal University, Ji ning, Shan Dong, China | 1
+Randolph College, Lynchburg, VA, USA | 1
+Regis University, Denver, CO, USA | 1
+Renmin University, Beijing, Beijing, China | 1
+Renmin University of China, Beiijing, Beijing, China | 1
+Renmin University of China, Beijing, Beijing Municipality, China | 1
+Renmin Universuty of China, Beijing, Beijing, China | 1
+Renming University, Beijing, China | 1
+Research Institution for computational science and Engineering, Hangzhou, China | 1
+Roger Williams University, Bristol, RI, USA | 1
+Rose-Hulman Institute of Technology, Terre Haute, IN, USA | 1
+Salisbury University, Salisbury, MD, USA | 1
+School of Architecture and Civil Engineering,Nantong University, Nan Tong, JiangSu, China | 1
+School of Architecture and Civil Engineering,Nantong University, NanTong, JiangSu, China | 1
+school of architecture civil engineering, Nantong University, Nantong, JiangSu, China | 1
+School of Computer Science and Technology, Jinan, Shandong Province, China | 1
+School of Computer Science and Techonology, Jinan, Shandong Province, China | 1
+School of Digital Media and Design Art, Beijing, China | 1
+School of Electrical Engineering, Wuhan, Hubei, China | 1
+School of Electronic and Engineering, Beijing, Beijing, China | 1
+School of Information, Beijing, China | 1
+School of information& School of Science, Beijing, China | 1
+School of Mathematical and Physical Science, Beijing, China | 1
+School of Mathematical Sciences, Beijing Normal University, Beijing, Beijing, China | 1
+School of Mathematical Sciences, Xiamen University, Xiamen, Fujian, China | 1
+school of mathematics, shanghai, shanghai, China | 1
+School of Mathematics, BeiJing, China | 1
+School of Mathematics, Chengdu City, Sichuan, China | 1
+School of mathematics and statistics, Beijing, Beijing, China | 1
+School of Science of Tianjin University, Tian Jin, China, China | 1
+School of Statistics, Beijing, China | 1
+Scuola Monotecnica Superiore Dongemenese, Beijing Dongcheng District, Municipality of Beijing, China | 1
+Sewanee: the University of the South, Sewanee, Tennessee, USA | 1
+Shaanxi University of Science & Technology, Xi'an, China | 1
+shaanxi university of technology, han zhong, shaanxi, China | 1
+Shandong Agricultural University, Tai'an City, Shandong, China | 1
+Shandong Experimental High School, Jinan, Shandong, China | 1
+Shandong Univercity, Jinan, Shandong Province, China | 1
+Shandong University, Ji'nan, Shandong, China | 1
+Shandong University, Jinan, Shandong China, China | 1
+Shandong University, Jinan Shandong Province, Shandong Province, China | 1
+Shandong University, æµŽå�—å¸‚, å±±ä¸œçœ�, China | 1
+Shandong University of Fianace and Economics, Jinan, Shandong, China | 1
+Shandong University of Finance and Economics, shandong, jinan, China | 1
+Shandong University of Finance and Economics, Jinan, Shandong Province, China | 1
+Shandong university of finance and economics in China, jinan, China | 1
+Shandong university of science and technology, Shandong Qingdao, China | 1
+ShanDong University of Science and Technology4 years, Qingdao, Shandong, China | 1
+Shandong University, Shandong, China, Jinan, Shandong, China | 1
+Shangdong university, Jinan, Shandong Province, China | 1
+shanghai, shanghai, shanghai, China | 1
+Shanghai Jiao Tong Univeresity, Shanghai, Shanghai, China | 1
+Shanghai Jiao Tong University, SHANGHAI, CHINA, China | 1
+Shanghai Jiao Tong University, Shanghai, Asia, China | 1
+Shanghai Jiaotong University, China, Shanghai, Shanghai, China | 1
+Shanghai Kongjiang High School, Shanghai, China | 1
+Shanghai U. of Finance and Economics, School of Economics, Shanghai, Shanghai, China | 1
+Shanghai University, Shanghai, baoshan, China | 1
+Shanghai University, Baoshan, Shanghai, China | 1
+Shanghai University, Shanghai, China, China | 1
+Shanghai University for Science and Technology, Shanghai, Shanghai, China | 1
+Shanghai University Of Engineering Science, ShangHai, SongJiang, China | 1
+Shanghai university of finace and economic, Shanghai, Shanghai, China | 1
+Shanghai University of Finanace and Economics, Shanghai, Shanghai, China | 1
+Shanghai University of Finance & Economics, Shanghai, Shanghai, China | 1
+Shanghai University of Finance & Economics (P R CHINA), Shanghai, China | 1
+Shanghai University of Finance and Ecomonics, Shanghai, China | 1
+SHANGHAI UNIVERSITY OF FINANCE AND ECONAMICS, SHANGHAI, SHANGHAI, China | 1
+Shanghai University of Finance and Economics, Shanghai, P.R.China, China | 1
+Shanghai University of Finance and Economics, SHANG HAI, China | 1
+Shanghai University of Finance and Economy, Shanghai, Shanghai, China | 1
+Shanghai University of Financial & Economics, Shanghai, China | 1
+Shanghai Universtiy of Finance and Economics, Shanghai, China | 1
+Shanghai Univisity, Shanghai, Shanghai, China | 1
+Shanxi Agricultural University, Jinzhong, Shanxi, China | 1
+Shanxi University of Finance and Economics, Taiyuan, Shanxi, China | 1
+Shanxi University, People's Republic of China, Taiyuan, Shanxi Province, China | 1
+Shenyang Aerospace University, Shenyang, Liaoning, China | 1
+Shenyang Agricultural University, SHENYANG, LIAONING, China | 1
+Shenyang Agriculture University, Shenyang, Liaoning, China | 1
+Shenyang Institute of Engineering, Shenyang, Liaoning, China | 1
+Shenyang Normal University, Liaoning Province Shenyang City, Asia, China | 1
+Shenyang Pharmaceutical University, Benxi, Liaoning, China | 1
+shenyang pharmaceutical university, Shenyang, liaoning, China | 1
+Shenzhen Institute of Information Technology, Shenzhen, GuangDong, China | 1
+Shenzhen University, Shenzhen, Guangdong Province, China | 1
+shenzhen unviersity, Shenzhen, Guandong, China | 1
+Shihezi University, Xinjiang, Shi Hezi, China | 1
+Shihezi University, Shihezi, Xinjiang, China | 1
+ShiHeZi University, ShiHiZi, xinjiang, China | 1
+Shijiazhuang University, Shijiazhuang, Hebei, China | 1
+Shiyuan College of Guangxi Teachers Education University, Nanning, Guangxi, China | 1
+ShuGuang School, Zigong, Sichuan, China | 1
+Sichuan Agricultural University, Du Jiangyan, Sichuan, China | 1
+Sichuan Agriculture University, Chengdu, Sichuan, China | 1
+Sichuan Agriculture University, WENJIANG, SICHUAN, China | 1
+Sichuan Uinversity, Chengdu, Sichuan, China | 1
+Sichuan University, Chengdu, Chengdu, China | 1
+Sichuan University, Chengdu, SichuanÂ , China | 1
+Sichuan University, Wuxi, China | 1
+Sichuan University, Chengdu, Sichuan, China | 1
+Sichuan University, Chendu, Sichuan, China | 1
+Sichuan University, Chengdu, Sichuan Province, China | 1
+Sichuan University, Albany, NY, USA | 1
+SiChuan University, Chengdu, Sichaun, China | 1
+Sichuan University Jinjiang College, meishan, Sichuan, China | 1
+SJTU-ParisTech Elite Institute of Technology, Shanghai, Shanghai, China | 1
+SKH Bishop Mok Sau Tseng Secondary School, Hongkong, Hongkong, China | 1
+Smith College, Northampton, MA, USA | 1
+Snake River HS, Blackfoot, ID, USA | 1
+Software Engineering, ShangHai, China | 1
+Software Engineering Institute, Shanghai, China, China | 1
+Software Engineering Institute, East China Normal University, Shanghai, Shanghai, China | 1
+Sonoma State University, Rohnert Park, CA, USA | 1
+South China Normal Univercity, Guangzhou, China, China | 1
+South China Normal Univercity, Guangdong, Asia, China | 1
+South China Normal University, Guangzhou City, Guangdong, China | 1
+South China Normal University, Guangzhou, Guangdong, China, China | 1
+South China Normal University, Qingdao, Shandong, China | 1
+South China Normal University, Guangzhou, Â Guangdong Province, China | 1
+South China Normal University, Canton, China | 1
+South China Normal University, Guangzhou, Guangzhou, China | 1
+South China Normal University, Guangdong Province, China | 1
+South China Normal University, Guanghzhou, Asia, China | 1
+South China Normal University, Shenzhen, Guangdong, China | 1
+South China Normal Uniyersity, Guangzhou, Guangdong, China | 1
+South China University of China, Guangzhou, China | 1
+South China University of Technology, Guang Zhou, China | 1
+South China University of Technology, Tianhe Distric, Guangzhou, China | 1
+SOUTH CHINA UNIVERSITY OF TECHNOLOGY, ShenZhen, GuangDong, China | 1
+South China University Of Technology, Guangzgou, China | 1
+South China University of Technology, Guangzhou, Guabgdong, China | 1
+South Dakota School of Mines & Technology, Rapid City, SD, USA | 1
+South Western University of Finance and Economics, Chengdu City,Sichuan Province, China | 1
+South-Center University For Nationalities, Wuhan, Hubei Province, China | 1
+South-Central University for Nationalities, Haidian District, Beijing, China | 1
+Southeastern Oklahoma State University, Durant, OK, USA | 1
+Southern Connecticut State University, New Haven, CT, USA | 1
+Southern Medical University, Guangzhou, Guangdong, China | 1
+Southwest Jiaotong University, E'meishan,Leshan, Sichuan, China | 1
+Southwest Jiaotong University, Leshan, SiChuan, China | 1
+Southwest Jiaotong University Hope College Â , Chengdu, Sichuan, China | 1
+Southwest petroleum university, Chengdu, China | 1
+Southwest University of Finance and Economics, Chengdu, Sichuan, China | 1
+Southwestern University of Finance and Economic, Chengdu, Sichuan, China | 1
+Southwestern University of Finance and Economics, Chengdu, Si Chuan Province, China | 1
+Southwestern university of Finance and Economics, Chengdu, China, China | 1
+Southwestern University of Finance and Economics, CHENGDU CITI, SICHUAN PROVINCE, China | 1
+Southwestern University of Finance and Economics, City: Chengdu, Sichuan, China | 1
+Southwestern University of Finance and Economics University, Chengdu, Sichuan, China | 1
+Southwestern University of Finance and Economincs, Chengdu, Sichuan, China | 1
+Southwestern University of Finance and Economy, Chengdu, SiChuan, China | 1
+Southwestern University of Financial and Economics, Chengdu, SiChuan, China | 1
+SouthwesternÂ UniversityÂ of Finance and Economics, Chengdu, Sichuan, China | 1
+Stanford University, Stanford, CA, USA | 1
+Statistic, Beijing, China | 1
+Sun Yat-sen University, Guangzhou, Guangdong Province, China | 1
+Sun Yat-sen University, Guangzhou City, Guangdong Province, China | 1
+Sun Yat-sen University&Peking University&Peking University, Guangzhou, China | 1
+Sun Yat-sen University, Guangzhou, Guang Zhou, Asia, China | 1
+Syracuse University, Syracuse, NY, USA | 1
+SYSU, Guangzhou, Guangzhou, China | 1
+Taiyuan University, jinzhong, shanxi, China | 1
+Taizhou Institute of Sci.&Tech.,NUST, Taizhou, China | 1
+Taizhou Ploytechnic College, Taizhou, Jiangsu, China | 1
+Tarim University, alaer, Sinkiang, China | 1
+Teacher, Beijing, Beijing, China | 1
+Telkom University, Bandung, Indonesia, Indonesia | 1
+Temple University, Philadelphia, PA, USA | 1
+the Capital Normal University, Beijing, Asia, China | 1
+The Capital University of Economics and Business, Beijing, Beijing, China | 1
+the Central University of Finance and Economics, Beijing, Beijing, China | 1
+The Chinese University of Hong Kong, Hong Kong, Hong Kong, China | 1
+the city college of jilin jianzhu university, Changchun City, jilin, China | 1
+The College of Wooster, Wooster, OH, USA | 1
+The Hong Kong Polytechnic University, Hong Kong, Hong Kong | 1
+The Hong Kong Polytechnic University, Kowloon, Hong Kong, China | 1
+The Huazhong University of Science and Technology, Wuhan, Hubei Province, China | 1
+The Pennsylvania State University, University Park, PA, USA | 1
+The school of management, University of Science and Technology of China, Hefei, Anhui, China | 1
+The Second Artillery Engineering University, Xi'an, Shanxi, China | 1
+The Southwestern University of Finance and Economics, Chengdu, Sichuan, China | 1
+The University of Business and Economics, Beijing, China | 1
+The University of Edinburgh, Edinburgh, MIdlothian, United Kingdom | 1
+The University of International Business and Economics, Being, China | 1
+The University Of International Business Economics, Beijing, Beijing, China | 1
+The University of Tennessee, Knoxville, Knoxville, TN, USA | 1
+The University of Texas at Dallas, Richardson, TX, USA | 1
+TIANJIN POLYTECHNIC UNIVERSITY, TIAN JIN, China | 1
+Tianjin Univ. of Commerce, Tianjin, Tianjin, China | 1
+Tianjin University, Tianjin, Nankai District, China | 1
+Tianjin University of Technology and Education, Tianjin, Tianjin, China | 1
+Tianjin University, People's Republic of China, Tianjin, China | 1
+Tufts University, Medford, MA, USA | 1
+U.S. Air Force Academy, USAF Academy, CO, USA | 1
+UCSB, Santa Barbara, CA, USA | 1
+Ulster University, Bealfast, Northern Ireland, United Kingdom | 1
+Undergraduate, Beijing, Beijing, China | 1
+undergraduate, hangzhou, zhejiang, China | 1
+Undergraduate course, Xi'an, Shan Xi, China | 1
+Undergraduate course, Beijing, Beijing, China | 1
+Univeristy of International Business and Economics, Beijing, China | 1
+Universith of International Business and Economics, Beijing, China | 1
+Universitiy of International Business and Economics, Beijing, China | 1
+university, Shanghai, minhang, China | 1
+university, Tianjing, Tianjing, China | 1
+University at Buffalo (SUNY), Buffalo, NY, USA | 1
+University of Business and Economics, Beijing, Beijing, China | 1
+University of Cambridge, Cambriddge, United Kingdom | 1
+University of Cambridge, Cambridge, United Kingdom | 1
+University of Dayton, Dayton, OH, USA | 1
+University of Delaware, Newark, DE, USA | 1
+University of Denver, Denver, CO, USA | 1
+University of Helsinki, Helsinki, N/A, Finland | 1
+University of Illinois at Urbana-Champaign, Urbana, IL, USA | 1
+University of International and Business Economics, Beijing,China, China | 1
+University of International and Economics, Beijing, China | 1
+University of International Business and Ecomomics, Beijing, Beijing, China | 1
+University of International Business and Econmics, Beijing, Beijing, China | 1
+University of International Business and Economics, Beijing, Asia, China | 1
+University of International Business and Economics, Beijng, China | 1
+University of International Business and Economics, BeiJing,chaoyang district, BeiJing, China | 1
+University of International Business and Economics of China, Beijing, China | 1
+University of International Business and Economics, School of Finance, Beijing, China | 1
+University of International Business and Economy, Beijing, Chaoyang, China | 1
+University of International Business and Economy, Beijing, Beijing, China | 1
+University of International Business&Economics, Beijing, Beijing, China | 1
+University of International Bussiness and Economy,Beijing,China, Beijing, China | 1
+University of Jinan, Jinan, Shandong, China | 1
+University of Liverpool, Liverpool, Merseyside, United Kingdom | 1
+University of Manchester, Manchester, Great Manchester, United Kingdom | 1
+University of Maryland, College Park, MD, USA | 1
+University of Michigan, Ann Arbor, MI, USA | 1
+University of Nebraska-Lincoln, Lincoln, NE, USA | 1
+University of New Mexico, Albuquerque, NM, USA | 1
+University of North Texas, Denton, TX, USA | 1
+University of Oklahoma, Norman, OK, USA | 1
+University of Richmond, RIchmond, VA, USA | 1
+University of Sci&Tech of China, Hefei, Anhui, China | 1
+University of Science & Technology of China, Hefei, Anhui, China | 1
+University of Science and Technology Beijing, Beijing, Asia, China | 1
+University of Science and Technology of Beijing, Beijing, China | 1
+University of Science and Technology of China, Hefei, Anhui, China | 1
+University of Science and Technology of China, Hefei City,, China | 1
+University of Science and Technology of China, Heifei, Anhui, China | 1
+University of Science and Technology of China, Hefei, China, China | 1
+University of Science and Technology of China (USTC), Hefei, Anhui, China | 1
+University of Science and Technology,Beijing(USTB), Beijing, Beijing, China | 1
+University of Science and Technoloy of China, Hefei, Anhui, China | 1
+University of Science And Techology Of China, HeFei, AnHui, China | 1
+University of St. Thomas, Saint Paul, MN, USA | 1
+University of Texas at Austin, Austin, TX, USA | 1
+University of West Georgia, Carrollton, GA, USA | 1
+University of Wisconsin - La Crosse, La Crosse, WI, USA | 1
+University of Wisconsin--River Falls, River Falls, WI, USA | 1
+University of Wisconsin-Stevens Point, Stevens Point, WI, USA | 1
+UniversitÃ© de Technologie de CompiÃ¨gne, COMPIEGNE, France | 1
+Virginia Western Community College, Roanoke, VA, USA | 1
+Wheaton College (IL), Wheaton IL, IL, USA | 1
+Woodside Priory School, Portola Valley, CA, USA | 1
+Wuhan Polytechnic University, Wuhan, Hubei, China | 1
+Wuhan Uniersity, Wuhan, Hubei, China | 1
+Wuhan Univercity, Wuhan, Hubei, China | 1
+Wuhan University, Wuhan City, Hubei Province, China | 1
+Wuhan University, Wu Han, Hubei Province, China | 1
+Wuhan University, Wuhan, China, China | 1
+Wuhan University, Wuchang, Wuhan, Hubei Province, China | 1
+Wuhan University, Wuchang,Wuhan, Hubei, China | 1
+WuHan University Of Tecnology, WuHan, HuBei, China | 1
+Wuhan University,China, Wuhan,China, Wuhan, China | 1
+Wuhan Universtity, Wuhan, Hubei, China | 1
+Wuhan Universty, Wuhan, Hubei, China | 1
+Wuxi Big Bridge Academy, Wuxi, Jiangsu, China | 1
+WuYi University, Wuyishan, Fujian, China | 1
+X1'an University of Architecture and Technology, Xi'an, Shaanxi, China | 1
+Xi'an Aeromautical Polytechnic Institute, Xi'an, Shaanxi, China | 1
+Xi'an Shiyou University, Xi'an, Shannxi, China | 1
+Xi'an University of Architechture&Technology, Xi'an, Shaanxi, China | 1
+Xi'an university of architecture & technology, Xi'an, Shannxi, China | 1
+Xi'an University of Architecture and Technology, Xi'an, Shannxi, China | 1
+Xi'an University of Architecture and Technology, Xi'an, Shaanxi Province, China | 1
+Xi'an University of Architecture and Techonology, Xi'an, Shaanxi Province, China | 1
+Xi'an University of Finance & Economics, Xi'an, Shaanxi, China | 1
+Xiamen University, Xiamen, Fujian Province, China | 1
+Xiamen University,China, Xiamen, Fujian, China | 1
+Xihua University, Chengdu, SiChuan, China | 1
+Xinjiang University, Urumchi, Xinjiang Autonomous Region, China | 1
+Xitucheng 10th Road, Haidian District.Beijing Univ. of Posts and Telecomm. Beijing, Beijing 100876, Beijing, Beijing, China | 1
+Xiâ€™an University of Architecture and Technology, Xiâ€™an, Shaanxi Province, China | 1
+Xiâ€™an University Of Architecture and Technology, Xiâ€™an, Shaanxi, China | 1
+Xiâ€™an University of Finance & Economics, Xi'an, Shaanxi, China | 1
+Yangzhou University, Yangzhou, China | 1
+Zhejiang University, Ningbo, Zhejiang, China | 1
+Zhejiang University, Hangzhou City, Zhejiang Province, China | 1
+Zhejiang University, Hangzhou, Zhejiang Province, China | 1
+Zhejiang University, Beijing, China | 1
+ZHEJIANG UNIVERSITY, shanghai, shanghai, China | 1
+Zhejiang University, China, Hangzhou, Zhejiang, China | 1
+Zhejiang University, China, Hangzhou, Zhejiang Province, China | 1
+Zhengzhou University, Zhengzhou, Henan Province, China | 1
+Zhengzhou University, Zheng zhou, He nan, China | 1
+Zhengzhou University Of Light Industry, Zhengzhou, Henan, China | 1
+Zhengzhou University of Light Industry, Zhengzhou City, Henan province, China | 1
+Zhengzhou University of Light Institution, Zhengzhou, Henan, China | 1
+ZhengzhouÂ University, Zhengzhou, Henan, China | 1
+Zhongnan University of Economics and Law, Wuhan, China, China | 1
+Zhongnan University Of Economics And Laws, Wuhan, Hubei, China | 1
+ZUEL, wuhan, hubei, China | 1
+
+Institutions with Outstanding teams
+
+US teams with Meritorious ranking or better
+Team 40056 | American Heritage School Plantation, Plantation, FL, USA | Meritorious | Advisor: Radleigh G Santos | Problem: C
+Team 40760 | California Polytechnic State University, San Luis Obispo, CA, USA | Meritorious | Advisor: Charles D Camp | Problem: B
+Team 41737 | Carroll College, Helena, MT, USA | Meritorious | Advisor: Kelly S. Cline | Problem: B
+Team 41739 | Carroll College, Helena, MT, USA | Meritorious | Advisor: Kelly S. Cline | Problem: D
+Team 41743 | Carroll College, Helena, MT, USA | Meritorious | Advisor: Kelly S. Cline | Problem: B
+Team 42013 | Carroll College, Helena, MT, USA | Meritorious | Advisor: Theodore J Wendt | Problem: A
+Team 42014 | Carroll College, Helena, MT, USA | Meritorious | Advisor: Theodore J Wendt | Problem: A
+Team 40730 | Colgate University, Hamilton, NY, USA | Meritorious | Advisor: Dan Schult | Problem: A
+Team 41268 | College of Wooster, Wooster, OH, USA | Meritorious | Advisor: Robert D Wooster | Problem: B
+Team 36806 | Columbia University, New York, NY, USA | Meritorious | Advisor: Ivan Corwin | Problem: A
+Team 41927 | Cornell University, Ithaca, NY, USA | Meritorious | Advisor: Alexander Vladimirsky | Problem: B
+Team 41932 | Cornell University, Ithaca, NY, USA | Meritorious | Advisor: Alexander Vladimirsky | Problem: A
+Team 36351 | Cupertino High School, Cupertino, CA, USA | Meritorious | Advisor: Mark C St John | Problem: A
+Team 41898 | Davidson College, Davidson, NC, USA | Meritorious | Advisor: Laurie J Heyer | Problem: B
+Team 41900 | Davidson College, Davidson, NC, USA | Meritorious | Advisor: Laurie J Heyer | Problem: B
+Team 41227 | Duke University, Durham, NC, USA | Meritorious | Advisor: Bill Pardon | Problem: A
+Team 41229 | Duke University, Durham, NC, USA | Meritorious | Advisor: David Kraines | Problem: A
+Team 37718 | Franklin & Marshall College, Lancaster, PA, USA | Meritorious | Advisor: Christina M Weaver | Problem: A
+Team 40737 | Harvey Mudd College, Claremont, CA, USA | Finalist | Advisor: Susan E Martonosi | Problem: C
+Team 40740 | Harvey Mudd College, Claremont, CA, USA | Meritorious | Advisor: Susan E Martonosi | Problem: D
+Team 40741 | Harvey Mudd College, Claremont, CA, USA | Meritorious | Advisor: Susan E Martonosi | Problem: C
+Team 40742 | Harvey Mudd College, Claremont, CA, USA | Meritorious | Advisor: Susan E Martonosi | Problem: A
+Team 37665 | Hendrix College, Conway, AR, USA | Meritorious | Advisor: Mark H Goadrich | Problem: B
+Team 38729 | Humboldt State University, Arcata, CA, USA | Meritorious | Advisor: Brad Finney | Problem: C
+Team 42038 | Illinois Institute of Technology, CHICAGO, IL, USA | Meritorious | Advisor: Cong Liu | Problem: B
+Team 32815 | IUPUI, Indianapolis, IN, USA | Meritorious | Advisor: Zhong Jin | Problem: B
+Team 36574 | Madonna University, Livonia, MI, USA | Meritorious | Advisor: Susan A Toma | Problem: D
+Team 41138 | Mount St. Mary's University, Emmitsburg, MD, USA | Meritorious | Advisor: Brian Heinold | Problem: A
+Team 34983 | NC School of Science and Mathematics, Durham, NC, USA | Meritorious | Advisor: Daniel J Teague | Problem: B
+Team 38379 | New York Institute of Technology, New York, NY, USA | Meritorious | Advisor: Laihan Luo | Problem: A
+Team 41280 | New York University, New York, NY, USA | Meritorious | Advisor: Stephen Keeley | Problem: A
+Team 41248 | Olin College, Needham, MA, USA | Meritorious | Advisor: Aaron Hoffman | Problem: A
+Team 41944 | Rensselaer Polytechnic Institute, Troy, NY, USA | Finalist | Advisor: Peter Roland Kramer | Problem: C
+Team 41964 | Rensselaer Polytechnic Institute, Troy, NY, USA | Meritorious | Advisor: Peter Roland Kramer | Problem: A
+Team 40750 | Seattle Pacific University, Seattle, WA, USA | Meritorious | Advisor: Wai Lau | Problem: A
+Team 41202 | Simpson College, Indianola, IA, USA | Meritorious | Advisor: Murphy Waggoner | Problem: D
+Team 41205 | Simpson College, Indianola, IA, USA | Meritorious | Advisor: Murphy Waggoner | Problem: D
+Team 41208 | Simpson College, Indianola, IA, USA | Meritorious | Advisor: Murphy Waggoner | Problem: A
+Team 41768 | Simpson College, Indianola, IA, USA | Meritorious | Advisor: Murphy Waggoner | Problem: D
+Team 39171 | Trinity, San Antonio, TX, USA | Meritorious | Advisor: Hoa Nguyen | Problem: B
+Team 38008 | Union College, Schenectady, NY, USA | Meritorious | Advisor: Jue Wang | Problem: A
+Team 40685 | University at Buffalo (SUNY), Buffalo, NY, USA | Meritorious | Advisor: Yorck I SommerhÃ¤user | Problem: B
+Team 36807 | University of California, Los Angeles, Los Angeles, CA, USA | Meritorious | Advisor: Jing Qin | Problem: B
+Team 37676 | University of California, Los Angeles, Los Angeles, CA, USA | Meritorious | Advisor: Jing Qin | Problem: B
+Team 40784 | University of California, Los Angeles, Los Angeles, CA, USA | Meritorious | Advisor: Jing Qin | Problem: B
+Team 32878 | University of Colorado Boulder, Boulder, CO, USA | Meritorious | Advisor: Anne M Dougherty | Problem: A
+Team 38004 | University of Colorado Boulder, Boulder, CO, USA | Meritorious | Advisor: Anne M Dougherty | Problem: B
+Team 39160 | University of Colorado Denver, Denver, CO, USA | Finalist | Advisor: Gary A Olson | Problem: C
+Team 41718 | University of Kentucky, Lexington, KY, USA | Meritorious | Advisor: Russell Lee Carden | Problem: B
+Team 41773 | University of Minnesota, Minneapolis, MN, USA | Meritorious | Advisor: Alexandra Ortan | Problem: A
+Team 42051 | University of Minnesota, Minneapolis, MN, USA | Meritorious | Advisor: Vincent Quenneville-Belair | Problem: C
+Team 38380 | University of New Mexico, Albuquerque, NM, USA | Meritorious | Advisor: James H Degnan | Problem: A
+Team 41747 | University of Texas at Austin, Austin, TX, USA | Meritorious | Advisor: Roger T Bonnecaze | Problem: B
+Team 40860 | University of Washington, Seattle, WA, USA | Meritorious | Advisor: James Allen Morrow | Problem: B
+Team 42041 | University of Wisconsin - La Crosse, La Crosse, WI, USA | Meritorious | Advisor: Song Chen | Problem: D
+Team 39153 | University of Wisconsin-Madison, Madison, WI, USA | Meritorious | Advisor: Saverio E Spagnolie | Problem: D
+Team 41159 | Virginia Tech, Blacksburg, VA, USA | Meritorious | Advisor: Lizette Zietsman | Problem: B
+Team 41161 | Virginia Tech, Blacksburg, VA, USA | Meritorious | Advisor: Henning S. Mortveit | Problem: A
+Team 41170 | Virginia Tech, Blacksburg, VA, USA | Meritorious | Advisor: Mark Embree | Problem: A
+Team 42047 | Winthrop University, Rock Hill, SC, USA | Meritorious | Advisor: Zachary J Abernathy | Problem: A
+Team 41272 | Youngstown State University, Youngstown, OH, USA | Meritorious | Advisor: George T Yates | Problem: A
+Team 41274 | Youngstown State University, Youngstown, OH, USA | Meritorious | Advisor: Alicia Prieto-Langarica | Problem: A

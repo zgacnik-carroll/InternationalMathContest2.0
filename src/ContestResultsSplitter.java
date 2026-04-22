@@ -1,19 +1,22 @@
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+import java.util.TreeSet;
 
 /**
- * Splits contest results into institution and team CSV files.
+ * Reads contest results and writes the part 2 statistics report.
  */
 public final class ContestResultsSplitter {
     private static final List<String> REQUIRED_COLUMNS = List.of(
@@ -26,58 +29,77 @@ public final class ContestResultsSplitter {
         "Problem",
         "Ranking"
     );
-    private static final List<String> INSTITUTION_HEADER =
-        List.of("Institution ID", "Institution Name", "City", "State/Province", "Country");
-    private static final List<String> TEAM_HEADER =
-        List.of("Team Number", "Advisor", "Problem", "Ranking", "Institution ID");
 
     public static void main(String[] args) {
         try {
             new ContestResultsSplitter().run(args);
-        } catch (CsvException exception) {
+        } catch (ContestDataException exception) {
             System.err.println(exception.getMessage());
         }
     }
 
-    private void run(String[] args) throws CsvException {
-        if (args.length != 3) {
-            throw new CsvException(
-                "Usage: java ContestResultsSplitter <input.csv> <institutions_output.csv> <teams_output.csv>"
+    private void run(String[] args) throws ContestDataException {
+        if (args.length != 2) {
+            throw new ContestDataException(
+                "Usage: java ContestResultsSplitter <input.csv> <report_output.txt>"
             );
         }
 
         Path inputPath = Paths.get(args[0]);
-        Path institutionsOutput = Paths.get(args[1]);
-        Path teamsOutput = Paths.get(args[2]);
+        Path outputPath = Paths.get(args[1]);
+        ContestData data = load(inputPath);
+        writeReport(outputPath, data);
 
-        List<ContestRow> rows = readRows(inputPath);
-        OutputData output = buildOutputs(rows);
-        writeCsv(institutionsOutput, INSTITUTION_HEADER, output.institutionRows());
-        writeCsv(teamsOutput, TEAM_HEADER, output.teamRows());
-
-        System.out.println("Read " + rows.size() + " team rows from " + inputPath + ".");
-        System.out.println("Wrote " + output.institutionRows().size() + " institutions to " + institutionsOutput + ".");
-        System.out.println("Wrote " + output.teamRows().size() + " teams to " + teamsOutput + ".");
+        System.out.println("Read " + data.rows().size() + " team rows from " + inputPath + ".");
+        System.out.println("Wrote statistics report to " + outputPath + ".");
     }
 
-    private List<ContestRow> readRows(Path inputPath) throws CsvException {
+    private ContestData load(Path inputPath) throws ContestDataException {
         if (!Files.exists(inputPath)) {
-            throw new CsvException("Input file not found: " + inputPath);
+            throw new ContestDataException("Input file not found: " + inputPath);
         }
 
+        List<ContestRow> rows = readRows(inputPath);
+        List<InstitutionRecord> institutions = new ArrayList<>();
+        List<TeamRecord> teams = new ArrayList<>();
+
+        for (ContestRow row : rows) {
+            InstitutionRecord institution = findInstitution(institutions, row);
+            if (institution == null) {
+                institution = new InstitutionRecord(row);
+                institutions.add(institution);
+            } else {
+                institution.merge(row);
+            }
+
+            TeamRecord team = new TeamRecord(
+                row.teamNumber(),
+                row.advisor(),
+                row.problem(),
+                row.ranking(),
+                institution
+            );
+            teams.add(team);
+            institution.addTeam(team);
+        }
+
+        return new ContestData(rows, institutions, teams);
+    }
+
+    private List<ContestRow> readRows(Path inputPath) throws ContestDataException {
         try (BufferedReader reader = Files.newBufferedReader(inputPath, StandardCharsets.UTF_8)) {
             String headerLine = reader.readLine();
             if (headerLine == null) {
-                throw new CsvException("Input file is empty: " + inputPath);
+                throw new ContestDataException("Input file is empty: " + inputPath);
             }
 
             List<String> header = parseCsvLine(headerLine);
             Map<String, Integer> headerIndex = new HashMap<>();
             for (int index = 0; index < header.size(); index++) {
                 String column = header.get(index).replace("\uFEFF", "").replace("ï»¿", "").trim();
-                header.set(index, column);
                 headerIndex.put(column, index);
             }
+
             List<String> missing = new ArrayList<>();
             for (String required : REQUIRED_COLUMNS) {
                 if (!headerIndex.containsKey(required)) {
@@ -85,7 +107,9 @@ public final class ContestResultsSplitter {
                 }
             }
             if (!missing.isEmpty()) {
-                throw new CsvException("Input file is missing required columns: " + String.join(", ", missing));
+                throw new ContestDataException(
+                    "Input file is missing required columns: " + String.join(", ", missing)
+                );
             }
 
             List<ContestRow> rows = new ArrayList<>();
@@ -109,41 +133,8 @@ public final class ContestResultsSplitter {
             }
             return rows;
         } catch (IOException exception) {
-            throw new CsvException("Unable to read input file " + inputPath + ": " + exception.getMessage());
+            throw new ContestDataException("Unable to read input file " + inputPath + ": " + exception.getMessage());
         }
-    }
-
-    private String valueAt(List<String> values, int index) {
-        return index < values.size() ? values.get(index).trim() : "";
-    }
-
-    private OutputData buildOutputs(List<ContestRow> rows) {
-        List<InstitutionRecord> institutions = new ArrayList<>();
-        List<Map<String, String>> teamRows = new ArrayList<>();
-
-        for (ContestRow row : rows) {
-            InstitutionRecord institution = findInstitution(institutions, row);
-            if (institution == null) {
-                institution = new InstitutionRecord("INST%04d".formatted(institutions.size() + 1), row);
-                institutions.add(institution);
-            } else {
-                institution.merge(row);
-            }
-
-            Map<String, String> team = new LinkedHashMap<>();
-            team.put("Team Number", row.teamNumber());
-            team.put("Advisor", row.advisor());
-            team.put("Problem", row.problem());
-            team.put("Ranking", row.ranking());
-            team.put("Institution ID", institution.id());
-            teamRows.add(team);
-        }
-
-        List<Map<String, String>> institutionRows = new ArrayList<>();
-        for (InstitutionRecord institution : institutions) {
-            institutionRows.add(institution.toRow());
-        }
-        return new OutputData(institutionRows, teamRows);
     }
 
     private InstitutionRecord findInstitution(List<InstitutionRecord> institutions, ContestRow row) {
@@ -157,33 +148,120 @@ public final class ContestResultsSplitter {
                 bestMatch = institution;
             }
         }
-
         return bestScore >= 100 ? bestMatch : null;
     }
 
-    private void writeCsv(Path outputPath, List<String> header, List<Map<String, String>> rows) throws CsvException {
+    private void writeReport(Path outputPath, ContestData data) throws ContestDataException {
+        List<InstitutionRecord> institutions = new ArrayList<>(data.institutions());
+        institutions.sort(
+            Comparator.comparingInt(InstitutionRecord::teamCount).reversed()
+                .thenComparing(InstitutionRecord::name, String.CASE_INSENSITIVE_ORDER)
+        );
+
+        TreeSet<String> outstandingInstitutions = new TreeSet<>(String.CASE_INSENSITIVE_ORDER);
+        for (InstitutionRecord institution : data.institutions()) {
+            if (institution.outstanding()) {
+                outstandingInstitutions.add(displayInstitution(institution));
+            }
+        }
+
+        List<TeamRecord> usTopTeams = new ArrayList<>();
+        for (TeamRecord team : data.teams()) {
+            if (isUsInstitution(team.institution()) && rankingValue(team.ranking()) >= rankingValue("Meritorious")) {
+                usTopTeams.add(team);
+            }
+        }
+        usTopTeams.sort(
+            Comparator.comparing((TeamRecord team) -> team.institution().name(), String.CASE_INSENSITIVE_ORDER)
+                .thenComparing(TeamRecord::teamNumber)
+        );
+
         try (BufferedWriter writer = Files.newBufferedWriter(outputPath, StandardCharsets.UTF_8)) {
-            writer.write(String.join(",", header));
+            writer.write("Average teams entered per institution: " + averageTeamsPerInstitution(data));
+            writer.newLine();
             writer.newLine();
 
-            for (Map<String, String> row : rows) {
-                List<String> values = new ArrayList<>(header.size());
-                for (String column : header) {
-                    values.add(escapeCsv(row.getOrDefault(column, "")));
-                }
-                writer.write(String.join(",", values));
+            writer.write("Institutions ordered by number of teams");
+            writer.newLine();
+            for (InstitutionRecord institution : institutions) {
+                writer.write(displayInstitution(institution) + " | " + institution.teamCount());
+                writer.newLine();
+            }
+            writer.newLine();
+
+            writer.write("Institutions with Outstanding teams");
+            writer.newLine();
+            for (String institution : outstandingInstitutions) {
+                writer.write(institution);
+                writer.newLine();
+            }
+            writer.newLine();
+
+            writer.write("US teams with Meritorious ranking or better");
+            writer.newLine();
+            for (TeamRecord team : usTopTeams) {
+                writer.write(
+                    "Team " + team.teamNumber()
+                        + " | " + displayInstitution(team.institution())
+                        + " | " + team.ranking()
+                        + " | Advisor: " + team.advisor()
+                        + " | Problem: " + team.problem()
+                );
                 writer.newLine();
             }
         } catch (IOException exception) {
-            throw new CsvException("Unable to write output file " + outputPath + ": " + exception.getMessage());
+            throw new ContestDataException("Unable to write output file " + outputPath + ": " + exception.getMessage());
         }
     }
 
-    private String escapeCsv(String value) {
-        String escaped = value.replace("\"", "\"\"");
-        return escaped.contains(",") || escaped.contains("\"") || escaped.contains("\n") || escaped.contains("\r")
-            ? "\"" + escaped + "\""
-            : escaped;
+    private String averageTeamsPerInstitution(ContestData data) {
+        if (data.institutions().isEmpty()) {
+            return "0.00";
+        }
+        return BigDecimal.valueOf(data.teams().size())
+            .divide(BigDecimal.valueOf(data.institutions().size()), 2, RoundingMode.HALF_UP)
+            .toPlainString();
+    }
+
+    private String displayInstitution(InstitutionRecord institution) {
+        List<String> parts = new ArrayList<>();
+        addIfPresent(parts, institution.name());
+        addIfPresent(parts, institution.city());
+        addIfPresent(parts, institution.stateProvince());
+        addIfPresent(parts, institution.country());
+        return String.join(", ", parts);
+    }
+
+    private void addIfPresent(List<String> parts, String value) {
+        if (!value.isBlank()) {
+            parts.add(value);
+        }
+    }
+
+    private boolean isUsInstitution(InstitutionRecord institution) {
+        String country = institution.country().toLowerCase(Locale.ROOT).replace(".", "").trim().replaceAll("\\s+", " ");
+        return country.equals("united states")
+            || country.equals("united states of america")
+            || country.equals("usa")
+            || country.equals("us")
+            || country.equals("u s a")
+            || country.equals("u s");
+    }
+
+    private int rankingValue(String ranking) {
+        return switch (ranking.trim().toLowerCase(Locale.ROOT)) {
+            case "unsuccessful" -> 0;
+            case "successful participant" -> 1;
+            case "honorable mention" -> 2;
+            case "meritorious" -> 3;
+            case "finalist" -> 4;
+            case "outstanding" -> 5;
+            default -> -1;
+        };
+    }
+
+    private String valueAt(List<String> values, int index) {
+        return index < values.size() ? values.get(index).trim() : "";
     }
 
     private List<String> parseCsvLine(String line) {
@@ -212,6 +290,9 @@ public final class ContestResultsSplitter {
         return values;
     }
 
+    private record ContestData(List<ContestRow> rows, List<InstitutionRecord> institutions, List<TeamRecord> teams) {
+    }
+
     private record ContestRow(
         String institution,
         String teamNumber,
@@ -224,26 +305,66 @@ public final class ContestResultsSplitter {
     ) {
     }
 
-    private record OutputData(List<Map<String, String>> institutionRows, List<Map<String, String>> teamRows) {
+    private record TeamRecord(
+        String teamNumber,
+        String advisor,
+        String problem,
+        String ranking,
+        InstitutionRecord institution
+    ) {
     }
 
     private static final class InstitutionRecord {
-        private final String id;
         private String name;
         private String city;
         private String stateProvince;
         private String country;
+        private int teamCount;
+        private boolean outstanding;
 
-        private InstitutionRecord(String id, ContestRow row) {
-            this.id = id;
+        private InstitutionRecord(ContestRow row) {
             this.name = clean(row.institution());
             this.city = clean(row.city());
             this.stateProvince = clean(row.stateProvince());
             this.country = clean(row.country());
         }
 
-        private String id() {
-            return id;
+        private String name() {
+            return name;
+        }
+
+        private String city() {
+            return city;
+        }
+
+        private String stateProvince() {
+            return stateProvince;
+        }
+
+        private String country() {
+            return country;
+        }
+
+        private int teamCount() {
+            return teamCount;
+        }
+
+        private boolean outstanding() {
+            return outstanding;
+        }
+
+        private void addTeam(TeamRecord team) {
+            teamCount++;
+            if ("Outstanding".equalsIgnoreCase(team.ranking())) {
+                outstanding = true;
+            }
+        }
+
+        private void merge(ContestRow row) {
+            name = prefer(name, row.institution());
+            city = prefer(city, row.city());
+            stateProvince = prefer(stateProvince, row.stateProvince());
+            country = prefer(country, row.country());
         }
 
         private int matchScore(ContestRow row) {
@@ -259,23 +380,6 @@ public final class ContestResultsSplitter {
             return 100 + (exact(city, rowCity) ? 15 : 0)
                 + (exact(stateProvince, rowState) ? 15 : 0)
                 + (exact(country, rowCountry) ? 20 : 0);
-        }
-
-        private void merge(ContestRow row) {
-            name = prefer(name, row.institution());
-            city = prefer(city, row.city());
-            stateProvince = prefer(stateProvince, row.stateProvince());
-            country = prefer(country, row.country());
-        }
-
-        private Map<String, String> toRow() {
-            Map<String, String> row = new LinkedHashMap<>();
-            row.put("Institution ID", id);
-            row.put("Institution Name", name);
-            row.put("City", city);
-            row.put("State/Province", stateProvince);
-            row.put("Country", country);
-            return row;
         }
 
         private static boolean sameName(String left, String right) {
@@ -322,8 +426,8 @@ public final class ContestResultsSplitter {
         }
     }
 
-    private static final class CsvException extends Exception {
-        private CsvException(String message) {
+    private static final class ContestDataException extends Exception {
+        private ContestDataException(String message) {
             super(message);
         }
     }
