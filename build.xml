@@ -1,17 +1,23 @@
+<!-- Ant build file for compiling and running the contest statistics program. -->
 <project name="InternationalMathContest" default="run" basedir=".">
     <description>Ant build for the International Math Contest CSV splitter.</description>
 
+    <!-- Directory and compiler settings. -->
     <property name="src.dir" value="src"/>
     <property name="build.dir" value="build"/>
     <property name="classes.dir" value="${build.dir}/classes"/>
     <property name="javac.release" value="21"/>
+
+    <!-- Program entry point and default runtime arguments. -->
     <property name="main.class" value="ContestResultsSplitter"/>
     <property name="run.args" value="2015.csv StatisticsReport.txt"/>
 
+    <!-- Deletes generated class files so the next build starts cleanly. -->
     <target name="clean" description="Remove compiled build output.">
         <delete dir="${build.dir}"/>
     </target>
 
+    <!-- Compiles all Java files from src into build/classes. -->
     <target name="compile" description="Compile Java sources into build/classes.">
         <mkdir dir="${classes.dir}"/>
         <javac srcdir="${src.dir}"
@@ -21,6 +27,7 @@
                release="${javac.release}"/>
     </target>
 
+    <!-- Runs the statistics report after compiling; override run.args to use other files. -->
     <target name="run" depends="compile" description="Compile and run the part 2 statistics report.">
         <java classname="${main.class}" fork="true" failonerror="true">
             <classpath>
